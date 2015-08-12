@@ -53,7 +53,7 @@
             $("#main_table").append('<tr><td>'+ index +'</td><td>'+ allData[i]['likes']['summary']['total_count'] +'</td><td>'+ allData[i]['comments']['summary']['total_count'] +'</td><td><a target="_blank" href="http://www.facebook.com/'+ allData[i]['from']['id'] +'">'+ allData[i]['from']['name'] +'</a></td><td>'+ String(allData[i]['message']).substring(0,15) +'</td><td><a href="'+ allData[i]['actions'][0]['link'] +'" target="_blank">'+ allData[i]['actions'][0]['link'] +'</a></td>');
         }
         $("#main_table").append("</tbody>");
-        $(".container").append("<button class='btn btn-default' onclick='showMore()'>載入更多廢文</button>");
+        $(".container").append("<button class='btn btn-default' onclick='showMore()'>載入更多一句話</button>");
         dotCount = 10;
     }
 
