@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>高醫期末廢文大賞統計表</title>
+
+    <link href="images.png" rel="image_src" type="image/jpeg">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+    <style>
+        body {
+            font-family: KongXi, HelveticaNeue, Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
+        }
+        .btn {
+            margin-bottom: 10px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <h1>一句話恐怖故事大賽統計表</h1>
+        <div id="loading">
+            <span id="percent">一句話載入中</span><span id='dot'></span><br>
+        </div>
+        <div id="wu">Made by <a href="https://goo.gl/aJxrBP" target="_blank">銀行汽車貸款＿吳先生</a></div>
+        <table class="table table-bordered table-responsive table-hover" id="main_table">
+
+        </table>
+    </div>
+
+    <script>
+    var url = "data.json";
+    var allData = [];
+    var dotCount = 0;
+    var resultCount = 50;
+    var sortWay = "likes";
+
+    getData(url);
+    setTimeout(loadingDot, 500);
+
+    function printResult() {
+        $("#loading").remove();
+        $("<h3>目前廢文數量："+ String(allData.length) +"</h3>").insertBefore("#main_table");
+        $("#main_table").append("<thead><tr><td>#</td><td onclick='sortByLikes()'>讚數</td><td onclick='sortByComments()'>留言數</td><td>作者</td><td>內容</td><td>連結</td></tr></thead><tbody id='tableContent'>");
+        console.log(allData.length);
+        allData.sort(function(a,b){
+            return parseFloat(b.likes.summary.total_count) - parseFloat(a.likes.summary.total_count);
+        });
+        for(var i = 0; i < 50; i++){
+            var index = i + 1;
+            $("#main_table").append('<tr><td>'+ index +'</td><td>'+ allData[i]['likes']['summary']['total_count'] +'</td><td>'+ allData[i]['comments']['summary']['total_count'] +'</td><td><a target="_blank" href="http://www.facebook.com/'+ allData[i]['from']['id'] +'">'+ allData[i]['from']['name'] +'</a></td><td>'+ String(allData[i]['message']).substring(0,15) +'</td><td><a href="'+ allData[i]['actions'][0]['link'] +'" target="_blank">'+ allData[i]['actions'][0]['link'] +'</a></td>');
+        }
+        $("#main_table").append("</tbody>");
+        $(".container").append("<button class='btn btn-default' onclick='showMore()'>載入更多廢文</button>");
+        dotCount = 10;
+    }
+
+    function getData(requestUrl) {
+        $.getJSON( requestUrl, function( data ) {
+            allData = data;
+            setTimeout(printResult, 5000);
+        });
+        console.log(allData.length);
+    }
+
+    function loadingDot() {
+        if (dotCount < 3) {
+            $("#dot").append(".");
+            dotCount++;
+            setTimeout(loadingDot, 500);
+        } else if (dotCount != 10) {
+            $("#dot").replaceWith("<span id='dot'></span>");
+            dotCount = 0;
+            setTimeout(loadingDot, 500);
+        }
+    }
+
+    function showMore() {
+        for(var i = resultCount; i < resultCount + 50; i++){
+            var index = i + 1;
+            $("#tableContent").append('<tr><td>'+ index +'</td><td>'+ allData[i]['likes']['summary']['total_count'] +'</td><td>'+ allData[i]['comments']['summary']['total_count'] +'</td><td><a target="_blank" href="http://www.facebook.com/'+ allData[i]['from']['id'] +'">'+ allData[i]['from']['name'] +'</a></td><td>'+ String(allData[i]['message']).substring(0,15) +'</td><td><a href="'+ allData[i]['actions'][0]['link'] +'" target="_blank">'+ allData[i]['actions'][0]['link'] +'</a></td>');
+        }
+        resultCount += 50;
+    }
+
+    function sortByLikes() {
+        if (sortWay != 'likes'){
+            sortWay = 'likes';
+            allData.sort(function(a,b){
+                return parseFloat(b.likes.summary.total_count) - parseFloat(a.likes.summary.total_count);
+            });
+            $("#main_table").empty();
+            $("#main_table").append("<thead><tr><td>#</td><td onclick='sortByLikes()'>讚數</td><td onclick='sortByComments()'>留言數</td><td>作者</td><td>內容</td><td>連結</td></tr></thead><tbody id='tableContent'>");
+            for(var i = 0; i < 50; i++){
+                var index = i + 1;
+                $("#main_table").append('<tr><td>'+ index +'</td><td>'+ allData[i]['likes']['summary']['total_count'] +'</td><td>'+ allData[i]['comments']['summary']['total_count'] +'</td><td><a target="_blank" href="http://www.facebook.com/'+ allData[i]['from']['id'] +'">'+ allData[i]['from']['name'] +'</a></td><td>'+ String(allData[i]['message']).substring(0,15) +'</td><td><a href="'+ allData[i]['actions'][0]['link'] +'" target="_blank">'+ allData[i]['actions'][0]['link'] +'</a></td>');
+            }
+            $("#main_table").append("</tbody>");
+            resultCount = 50;
+        }
+    }
+
+    function sortByComments() {
+        if (sortWay != 'comments') {
+            sortWay = 'comments';
+            allData.sort(function(a,b){
+                return parseFloat(b.comments.summary.total_count) - parseFloat(a.comments.summary.total_count);
+            });
+            $("#main_table").empty();
+            $("#main_table").append("<thead><tr><td>#</td><td onclick='sortByLikes()'>讚數</td><td onclick='sortByComments()'>留言數</td><td>作者</td><td>內容</td><td>連結</td></tr></thead><tbody id='tableContent'>");
+            for(var i = 0; i < 50; i++){
+                var index = i + 1;
+                $("#main_table").append('<tr><td>'+ index +'</td><td>'+ allData[i]['likes']['summary']['total_count'] +'</td><td>'+ allData[i]['comments']['summary']['total_count'] +'</td><td><a target="_blank" href="http://www.facebook.com/'+ allData[i]['from']['id'] +'">'+ allData[i]['from']['name'] +'</a></td><td>'+ String(allData[i]['message']).substring(0,15) +'</td><td><a href="'+ allData[i]['actions'][0]['link'] +'" target="_blank">'+ allData[i]['actions'][0]['link'] +'</a></td>');
+            }
+            $("#main_table").append("</tbody>");
+            resultCount = 50;
+        }
+    }
+
+    </script>
+    <script>
+        
+    </script>
+</body>
+</html>
