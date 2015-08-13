@@ -22,9 +22,10 @@ h1 {
 
 .page {
 	height: 100%;
+	position: relative;
 }
 
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
 
 	.center {
 		position: absolute;
@@ -64,13 +65,20 @@ h1 {
 @media (max-width: 768px) {
 	.center {
 		position: absolute;
-		top: 40%;
+		top: 30%;
 		left: 50%;
 		margin-left: -40%;
 		margin-top: -97.5px;
 		width: 80%;
 		height: 195px;
 	}
+}*/
+
+.center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 #info {
