@@ -62,8 +62,8 @@ h1 {
 	.center {
 		position: absolute;
 		width: 750px;
-		height: 450px;
-		margin-top: -225px;
+		height: 220px;
+		margin-top: -150px;
 		margin-left: -375px;
 		top: 50%;
 		left: 50%;
@@ -85,14 +85,12 @@ h1 {
 		left: 50%;
 	}
 
-	#info number{
-		font-size: 36px;
-	}
-}
-
-@media (max-height: 730px) {
 	#downMessage {
 		display: none;
+	}
+
+	#info number{
+		font-size: 36px;
 	}
 }
 
