@@ -14,7 +14,7 @@ angular.module("horror", [])
                     $("#info").show();
                     $(".page").show();
                 }, 1500);
-            }, 1000);
+            }, 1500);
         });
 
         horror.showMore = function(scope, el, attrs) {
