@@ -10,7 +10,10 @@ angular.module("horror", [])
                     $("#message").remove();
                     $scope.$apply();
                     $("#info").show();
+                    $("#info").addClass("animated fadeIn");
+                    $(".center").append('<p style="text-align: center; font-size: 16px" class="animated fadeIn">每十分鐘更新一次<br>Made by <a href="https://goo.gl/7FSJVN" target="_blank">銀行汽車貸款＿吳先生</a></p>');
                     $(".page").show();
+                    $("#pageOne").append('<div class="animated fadeIn" id="downMessage" style="position: absolute; left: 50%; bottom:0; padding: 10px 10px 10px 10px;"><div style="position: relative; left: -50%; text-align:center">下拉查看排名<br><i class="fa fa-chevron-down"></i></div></div>')
                 }, 1500);
             }, 2000);
         });

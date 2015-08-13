@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.3.0/css/material-fullpalette.min.css">
+    <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="css/main.min.css">
 
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -26,10 +27,10 @@
 
 </head>
 <body ng-controller="HorrorController as horror">
-    <div class="page">
+    <div class="page" id="pageOne">
       <div class="container">
         <div class="center">
-          <h1 style="text-align: center">一句話恐怖故事大賽統計表</h1>
+          <h1 style="text-align: center" class="animated fadeIn">一句話恐怖故事大賽統計表</h1>
           <div id="message" style="text-align:center"><p>進入本站後您的裝置將在十秒後爆炸，夠恐怖吧！</p></div>
           <div id="info" style="display: none">
             <div class="row">
@@ -59,15 +60,6 @@
               </div>
             </div>
           </div>
-          <p style="text-align: center; font-size: 16px">
-            每十分鐘更新一次<br>
-            Made by <a href="https://goo.gl/7FSJVN" target="_blank">銀行汽車貸款＿吳先生</a>
-          </p>
-        </div>
-      </div>
-      <div id="downMessage" style="position: absolute; left: 50%; bottom:0; padding: 10px 10px 10px 10px;">
-        <div style="position: relative; left: -50%; text-align:center">
-          下拉查看排名<br><i class="fa fa-chevron-down"></i>
         </div>
       </div>
     </div>
