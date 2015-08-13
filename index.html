@@ -65,8 +65,9 @@
     </div>
     <div class="page" style="display:none">
       <div class="container">
-        <div id="results"><br>
-          <p style="color:white">依照讚數排序</p>
+        <div id="results">
+          <button style="color:white" id="sortByLikeButton" class="btn btn-flat active" ng-click="horror.sortByLike()">依照讚數排序</button>
+          <button style="color:white" id="sortByCommentButton" class="btn btn-flat" ng-click="horror.sortByComment()">依照留言數排序</button>
           <div ng-repeat="post in horror.data.posts" ng-if="$index < horror.showCount">
             <div class="well post">
               <div class="row">

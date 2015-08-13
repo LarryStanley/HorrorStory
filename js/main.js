@@ -18,4 +18,20 @@ angular.module("horror", [])
         horror.showMore = function(scope, el, attrs) {
             horror.showCount = horror.showCount + 10;
         };
+
+        horror.sortByLike = function() {
+            $("#sortByLikeButton").addClass("active");
+            $("#sortByCommentButton").removeClass("active");
+            horror.data.posts.sort(function(a,b){
+                return parseFloat(b.likes.summary.total_count) - parseFloat(a.likes.summary.total_count);
+            });
+        };
+
+        horror.sortByComment = function() {
+            $("#sortByLikeButton").removeClass("active");
+            $("#sortByCommentButton").addClass("active");
+            horror.data.posts.sort(function(a,b){
+                return parseFloat(b.comments.summary.total_count) - parseFloat(a.comments.summary.total_count);
+            });
+        };
     });

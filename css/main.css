@@ -21,8 +21,8 @@ h1 {
 }
 
 .page {
-	height: 100%;
 	min-height: 540px;
+	height: 100%;
 	position: relative;
 }
 
@@ -70,7 +70,7 @@ h1 {
 	}
 
 	#info number{
-		font-size: 36px;
+		font-size: 48px;
 	}
 }
 
@@ -78,8 +78,8 @@ h1 {
 	.center {
 		position: absolute;
 		width: 80%;
-		height: 450px;
-		margin-top: -225px;
+		height: 550px;
+		margin-top: -275px;
 		margin-left: -40%;
 		top: 50%;
 		left: 50%;
@@ -97,6 +97,7 @@ h1 {
 #info {
 	font-family: KongXi, HelveticaNeue;
 	text-align: center;
+	font-size: 18px;
 }
 
 #info number{
