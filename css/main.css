@@ -132,3 +132,7 @@ h1 {
 #results a:active{
 	color:#263238;
 }
+
+#message {
+	font-size: 18px
+}
