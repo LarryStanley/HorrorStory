@@ -9,7 +9,7 @@
 }
 
 html, body {
-	font-family: HelveticaNeue, Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
+	font-family: Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
 	background-color: #37474F;
 	color: white;
 	height: 100%;
@@ -96,7 +96,7 @@ h1 {
 }
 
 #info {
-	font-family: KongXi;
+	font-family: KongXi, HelveticaNeue;
 	text-align: center;
 }
 
