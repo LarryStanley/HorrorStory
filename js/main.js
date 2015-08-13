@@ -13,7 +13,7 @@ angular.module("horror", [])
                     $("#info").show();
                     $(".page").show();
                 }, 1500);
-            }, 1500);
+            }, 2000);
         });
 
         horror.showMore = function(scope, el, attrs) {

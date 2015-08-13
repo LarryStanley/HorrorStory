@@ -22,7 +22,7 @@ h1 {
 
 .page {
 	height: 100%;
-	min-height: 520px;
+	min-height: 540px;
 }
 
 @media (min-width: 1200px) {
