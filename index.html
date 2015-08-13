@@ -106,9 +106,20 @@
             </div>
           </div>
           <button class="btn btn-default" style="color:white" ng-click="horror.showMore()">載入更多一句話</button>
+          <div class="fb-share-button" data-href="http://larrystanley.github.io/HorrorStory/" data-layout="button_count"></div>
         </div>        
       </div>
     </div>
+    <div id="fb-root"></div>
+    <script>
+      (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "http://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.4&appId=647423881978026";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
