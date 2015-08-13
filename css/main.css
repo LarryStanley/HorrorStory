@@ -89,7 +89,7 @@ h1 {
 	}
 }
 
-@media (min-height: 500px) {
+@media (max-height: 500px) {
 	#downMessage {
 		display: none;
 	}
