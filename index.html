@@ -80,7 +80,8 @@
                     <h3>{{post.from.name}}</h3>
                   </a>
                   <a href="{{post.actions[0].link}}" target="_blank">
-                    <p>{{post.message}} </p> 
+                    <p ng-if="post.message">{{post.message}}</p>
+                    <p ng-if="!post.message">無內容的一句話</p> 
                   </a>
                   <p id="likeInfo">
                     <div class="col-md-2 col-sm-2 col-xs-4">
