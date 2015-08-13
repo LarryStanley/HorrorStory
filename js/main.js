@@ -9,7 +9,6 @@ angular.module("horror", [])
                 $("#message").replaceWith("<div id='message'><p style='text-align:center' class='animated fadeIn'>沒有啦，騙你的啦哈哈</p></div>");
                 setTimeout(function(){
                     $("#message").remove();
-                    $("#downMessage").show();
                     $scope.$apply();
                     $("#info").show();
                     $(".page").show();

@@ -89,6 +89,12 @@ h1 {
 	}
 }
 
+@media (min-height: 500px) {
+	#downMessage {
+		display: none;
+	}
+}
+
 #info {
 	font-family: KongXi;
 	text-align: center;
