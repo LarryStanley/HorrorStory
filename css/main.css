@@ -177,3 +177,12 @@ h1 {
 #likeInfo {
 	font-size: 18px;
 }
+
+.fb-share-button { 
+    width: 80px; 
+}
+.fb-share-button span, 
+.fb-share-button iframe {
+    width: 80px! important;
+    height: 20px! important;
+}
