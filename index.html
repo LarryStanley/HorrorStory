@@ -71,7 +71,7 @@
               <div class="row">
                 <div class="col-md-3 col-sm-3 col-xs-3" id="rank">
                   <number>{{$index + 1}}.</number>
-                  <a  href='https://www.facebook.com/app_scoped_user_id/{{ post.from.id }}/' target='_blank'>
+                  <a  href='https://www.facebook.com/{{ post.from.id }}/' target='_blank'>
                     <img src='http://graph.facebook.com/{{ post.from.id }}/picture?type=large' class='img-circle' width="80px">
                   </a>
                 </div>
@@ -83,10 +83,10 @@
                     <p>{{post.message}} </p> 
                   </a>
                   <p id="likeInfo">
-                    <div class="col-md-4 col-sm-4 col-xs-4">
+                    <div class="col-md-2 col-sm-2 col-xs-4">
                       <i class="fa fa-thumbs-up"></i> {{post.likes.summary.total_count | number}} &nbsp;&nbsp;
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-4">
+                    <div class="col-md-2 col-sm-2 col-xs-4">
                       <i class="fa fa-comment"></i> {{post.comments.summary.total_count | number}}
                     </div>
                   </p>
