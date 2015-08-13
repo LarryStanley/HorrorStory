@@ -65,13 +65,13 @@
       <div class="container">
         <div id="results">
           <p style="color:white">依照讚數排序</p>
-          <div ng-repeat="post in horror.data.posts">
+          <div ng-repeat="post in horror.data.posts" ng-if="$index < horror.showCount">
             <div class="well post">
               <div class="row">
                 <div class="col-md-3 col-sm-3 col-xs-3" id="rank">
                   <number>{{$index + 1}}.</number>
-                  <a  href='https://www.facebook.com/app_scoped_user_id/{{post.from.id}}/' target='_blank'>
-                    <img src='http://graph.facebook.com/{{post.from.id}}/picture?type=large' class='img-circle' width="80px">
+                  <a  href='https://www.facebook.com/app_scoped_user_id/{{ post.from.id }}/' target='_blank'>
+                    <img src='http://graph.facebook.com/{{ post.from.id }}/picture?type=large' class='img-circle' width="80px">
                   </a>
                 </div>
                 <div class="col-md-9 col-sm-9 col-xs-9">
