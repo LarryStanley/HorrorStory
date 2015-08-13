@@ -25,19 +25,12 @@ h1 {
 }
 
 @media (min-width: 1200px) {
-	.center {
-		width: 1170px;
-	}
-
 	#info number{
 		font-size: 48px;
 	}
 }
 
 @media (min-width: 992px) {
-	.center {
-		width: 970px;
-	}
 
 	#info number{
 		font-size: 48px;
@@ -45,9 +38,6 @@ h1 {
 }
 
 @media (min-width: 758px) {
-	.center {
-		width: 750px;
-	}
 
 	#info number{
 		font-size: 36px;
@@ -55,10 +45,6 @@ h1 {
 }
 
 @media (max-width: 768px) {
-	.center {
-		width: 80%;
-	}
-
 	#info number{
 		font-size: 36px;
 	}
