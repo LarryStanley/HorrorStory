@@ -1,0 +1,134 @@
+@font-face {
+  font-family: KongXi;
+  src: url(KongXi.otf);
+}
+
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(HelveticaNeue-UltraLight.otf);
+}
+
+html, body {
+	font-family: HelveticaNeue, Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
+	background-color: #37474F;
+	color: white;
+	height: 100%;
+}
+
+h1 {
+	font-family: KongXi;
+	color: #B71C1C;
+}
+
+.page {
+	height: 100%;
+}
+
+@media (min-width: 1200px) {
+	.center {
+		width: 1170px;
+	}
+}
+
+@media (min-width: 992px) {
+	.center {
+		width: 970px;
+	}
+}
+
+@media (min-width: 758px) {
+	.center {
+		width: 750px;
+	}
+}
+
+@media (max-width: 768px) {
+	.center {
+		width: 80%;
+	}
+}
+
+.center {
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -40%);
+}
+
+#info {
+	font-family: KongXi;
+	font-size: 18px;
+	text-align: center;
+}
+
+#info number{
+	font-size: 48px;
+	font-family: HelveticaNeue;
+}
+
+#results {
+	color: black;
+}
+
+#results number {
+	font-size: 36px;
+	font-family: HelveticaNeue;
+}
+
+#info .well {
+	padding: 0px 0px 0px 0px;
+}
+
+#postCount {
+	background-color: #673AB7;
+	color: white;
+	padding: 20px 20px 20px 20px;
+	position: relative;
+	top: 0;
+	right: 0;
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+
+#likeCount {
+	background-color: #3F51B5;
+	color: white;
+	padding: 20px 20px 20px 20px;
+	position: relative;
+	top: 0;
+	right: 0;
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+
+#commentCount {
+	background-color: #009688;
+	color: white;
+	padding: 20px 20px 20px 20px;
+	position: relative;
+	top: 0;
+	right: 0;
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+
+#rank {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#results a:link{
+	color:#263238;
+}
+
+#results a:visited{
+	color:#263238;
+}
+
+#results a:hover{
+	color:#263238;
+}
+
+#results a:active{
+	color:#263238;
+}
