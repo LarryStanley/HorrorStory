@@ -22,12 +22,15 @@ h1 {
 
 .page {
 	height: 100%;
-	position: relative;
 }
 
 @media (min-width: 1200px) {
 	.center {
 		width: 1170px;
+	}
+
+	#info {
+		font-size: 18px;
 	}
 }
 
@@ -35,17 +38,29 @@ h1 {
 	.center {
 		width: 970px;
 	}
+
+	#info {
+		font-size: 18px;
+	}
 }
 
 @media (min-width: 758px) {
 	.center {
 		width: 750px;
 	}
+
+	#info {
+		font-size: 14px;
+	}
 }
 
 @media (max-width: 768px) {
 	.center {
 		width: 80%;
+	}
+
+	#info {
+		font-size: 14px;
 	}
 }
 
@@ -58,7 +73,6 @@ h1 {
 
 #info {
 	font-family: KongXi;
-	font-size: 18px;
 	text-align: center;
 }
 
