@@ -20,6 +20,6 @@ angular.module("horror", [])
         horror.showMore = function() {
             showCount += 10;
             horror.data.posts = allData.posts.slice(0, showCount);
-            $scope.$apply();
+            //$scope.$apply();
         };
     });
