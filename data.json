@@ -1,7 +1,7 @@
 {
-    "comment_count": 129828, 
-    "like_count": 1101361, 
-    "post_count": 68564, 
+    "comment_count": 129871, 
+    "like_count": 1101654, 
+    "post_count": 68583, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136232
+                    "total_count": 136233
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -162,7 +162,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19135
+                    "total_count": 19136
                 }
             }, 
             "message": "靠腰...。", 
@@ -315,7 +315,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 701
+                    "total_count": 704
                 }
             }, 
             "from": {
@@ -327,7 +327,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 14317
+                    "total_count": 14324
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -458,7 +458,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9231
+                    "total_count": 9237
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -751,7 +751,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5288
+                    "total_count": 5289
                 }
             }, 
             "message": "來來來，嚇嚇你們， 張吉吟 - 泛舟哥 的數字超恐怖的（抖\n\n這比賽為期一個月，我想明天鬼門一開應該會更精彩。\nhttp://larrystanley.github.io/HorrorStory/\n\n感謝最不務正業的吳先生貼心。", 
@@ -784,7 +784,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5227
+                    "total_count": 5232
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -816,7 +816,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4395
+                    "total_count": 4396
                 }
             }, 
             "message": "所以叔叔，你跟我們是住同一家飯店囉？", 
@@ -849,11 +849,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4289
+                    "total_count": 4292
                 }
             }, 
             "message": "你被召回惹 <3", 
             "updated_time": "2015-08-14T11:48:38+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 76
+                }
+            }, 
+            "from": {
+                "category": "Preschool", 
+                "id": "254551641250166", 
+                "name": "Chaozhibai"
+            }, 
+            "id": "867704779984689_870342606387573", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 3780
+                }
+            }, 
+            "message": "我到學校之後才發現我今天忘記穿內衣", 
+            "updated_time": "2015-08-14T08:10:45+0000"
         }, 
         {
             "actions": [
@@ -887,39 +920,6 @@
             }, 
             "message": "我的蘑菇沒有毒", 
             "updated_time": "2015-08-12T14:32:35+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 76
-                }
-            }, 
-            "from": {
-                "category": "Preschool", 
-                "id": "254551641250166", 
-                "name": "Chaozhibai"
-            }, 
-            "id": "867704779984689_870342606387573", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3777
-                }
-            }, 
-            "message": "我到學校之後才發現我今天忘記穿內衣", 
-            "updated_time": "2015-08-14T08:10:45+0000"
         }, 
         {
             "actions": [
@@ -1079,7 +1079,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3527
+                    "total_count": 3528
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -1310,7 +1310,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2274
+                    "total_count": 2276
                 }
             }, 
             "message": "我已經兩個禮拜沒有洗頭了", 
@@ -1541,7 +1541,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1806
+                    "total_count": 1811
                 }
             }, 
             "message": "我從來不靠爸", 
@@ -1870,7 +1870,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1473
+                    "total_count": 1474
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -1968,7 +1968,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1220
+                    "total_count": 1223
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2259,7 +2259,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1028
+                    "total_count": 1030
                 }
             }, 
             "message": "你們好❤️", 
@@ -2390,7 +2390,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 967
+                    "total_count": 968
                 }
             }, 
             "message": "我的D槽...壞。掉。了。", 
@@ -2423,7 +2423,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 908
+                    "total_count": 909
                 }
             }, 
             "message": "羅志祥：如果還有人再說的話！不要逼我用以前我在基隆生活的方式對他！", 
@@ -2488,7 +2488,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 839
+                    "total_count": 840
                 }
             }, 
             "message": "想認識多點朋友❤️", 
@@ -2719,7 +2719,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 698
+                    "total_count": 699
                 }
             }, 
             "message": "\u001f上了車才發現駕駛是老闆...", 
@@ -2783,7 +2783,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 693
+                    "total_count": 694
                 }
             }, 
             "message": "哈嘍大家好 我是劉梓晨Vincent蛇精男 啊", 
@@ -2989,6 +2989,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870645529690614", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870645529690614", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 10
+                }
+            }, 
+            "from": {
+                "category": "Comedian", 
+                "id": "601849536522456", 
+                "name": "豆苗先生"
+            }, 
+            "id": "867704779984689_870645529690614", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 619
+                }
+            }, 
+            "message": "我瘦了", 
+            "updated_time": "2015-08-14T16:21:14+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869507999804367", 
                     "name": "Comment"
                 }, 
@@ -3017,39 +3050,6 @@
             }, 
             "message": "馬英九連任", 
             "updated_time": "2015-08-13T10:42:12+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870645529690614", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870645529690614", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 10
-                }
-            }, 
-            "from": {
-                "category": "Comedian", 
-                "id": "601849536522456", 
-                "name": "豆苗先生"
-            }, 
-            "id": "867704779984689_870645529690614", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 618
-                }
-            }, 
-            "message": "我瘦了", 
-            "updated_time": "2015-08-14T16:21:14+0000"
         }, 
         {
             "actions": [
