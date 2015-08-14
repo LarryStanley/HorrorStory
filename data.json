@@ -1,7 +1,7 @@
 {
-    "comment_count": 114308, 
-    "like_count": 972754, 
-    "post_count": 61192, 
+    "comment_count": 114609, 
+    "like_count": 974984, 
+    "post_count": 61339, 
     "posts": [
         {
             "actions": [
@@ -18,7 +18,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 13388
+                    "total_count": 13389
                 }
             }, 
             "from": {
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 133512
+                    "total_count": 133603
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -96,7 +96,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20043
+                    "total_count": 20063
                 }
             }, 
             "message": "圓仔懷孕了", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18663
+                    "total_count": 18671
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -162,7 +162,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18436
+                    "total_count": 18448
                 }
             }, 
             "message": "靠腰...。", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 16739
+                    "total_count": 16751
                 }
             }, 
             "message": "情人節快到了", 
@@ -303,6 +303,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870231183065382", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870231183065382", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 527
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "641202775921848", 
+                "name": "A RAY"
+            }, 
+            "id": "867704779984689_870231183065382", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 10741
+                }
+            }, 
+            "message": "海賊王宣佈無限期休刊", 
+            "updated_time": "2015-08-14T10:29:40+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869745533113947", 
                     "name": "Comment"
                 }, 
@@ -327,44 +360,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10666
+                    "total_count": 10680
                 }
             }, 
             "message": "感謝老溫幫我繪製~\n\n我也補上奧太太的版本\n\n一種溫蒂妮的感覺", 
             "updated_time": "2015-08-13T14:58:53+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870231183065382", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870231183065382", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 519
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "641202775921848", 
-                "name": "A RAY"
-            }, 
-            "id": "867704779984689_870231183065382", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 10589
-                }
-            }, 
-            "message": "海賊王宣佈無限期休刊", 
-            "updated_time": "2015-08-14T10:19:51+0000"
         }, 
         {
             "actions": [
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10457
+                    "total_count": 10468
                 }
             }, 
             "message": "上了大學後發現再也無法從這個角度看到自己的GG", 
@@ -458,7 +458,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7933
+                    "total_count": 7934
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -544,7 +544,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 86
+                    "total_count": 87
                 }
             }, 
             "from": {
@@ -555,7 +555,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6800
+                    "total_count": 6885
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -654,7 +654,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5583
+                    "total_count": 5584
                 }
             }, 
             "message": "「你的facebook帳號目前已停權」", 
@@ -686,7 +686,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5564
+                    "total_count": 5569
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -718,7 +718,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5013
+                    "total_count": 5018
                 }
             }, 
             "message": "來來來，嚇嚇你們， 張吉吟 - 泛舟哥 的數字超恐怖的（抖\n\n這比賽為期一個月，我想明天鬼門一開應該會更精彩。\nhttp://larrystanley.github.io/HorrorStory/\n\n感謝最不務正業的吳先生貼心。", 
@@ -750,7 +750,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4230
+                    "total_count": 4235
                 }
             }, 
             "message": "所以叔叔，你跟我們是住同一家飯店囉？", 
@@ -816,7 +816,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3587
+                    "total_count": 3629
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -947,7 +947,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3373
+                    "total_count": 3378
                 }
             }, 
             "message": "。", 
@@ -980,7 +980,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3099
+                    "total_count": 3111
                 }
             }, 
             "message": "起床後發現懶叫噴出來了", 
@@ -1013,7 +1013,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2799
+                    "total_count": 2802
                 }
             }, 
             "message": "蛋哥……", 
@@ -1046,7 +1046,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2672
+                    "total_count": 2675
                 }
             }, 
             "message": "本人\n在此\n宣布擔任\n洪秀柱\n的競選\n總幹事！", 
@@ -1112,7 +1112,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2249
+                    "total_count": 2252
                 }
             }, 
             "message": "如果再沒有人收養就要送去收容所了。", 
@@ -1145,7 +1145,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2212
+                    "total_count": 2213
                 }
             }, 
             "message": "你是個好人", 
@@ -1211,7 +1211,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2040
+                    "total_count": 2045
                 }
             }, 
             "message": "電不是插插頭就有了嗎!?", 
@@ -1244,11 +1244,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1883
+                    "total_count": 1885
                 }
             }, 
             "message": "大頭照畫個熊頭 就當自己是設計師", 
             "updated_time": "2015-08-13T00:56:21+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 41
+                }
+            }, 
+            "from": {
+                "category": "Preschool", 
+                "id": "254551641250166", 
+                "name": "Chaozhibai"
+            }, 
+            "id": "867704779984689_870342606387573", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1843
+                }
+            }, 
+            "message": "我到學校之後才發現我今天忘記穿內衣", 
+            "updated_time": "2015-08-14T08:10:45+0000"
         }, 
         {
             "actions": [
@@ -1286,39 +1319,6 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 39
-                }
-            }, 
-            "from": {
-                "category": "Preschool", 
-                "id": "254551641250166", 
-                "name": "Chaozhibai"
-            }, 
-            "id": "867704779984689_870342606387573", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1774
-                }
-            }, 
-            "message": "我到學校之後才發現我今天忘記穿內衣", 
-            "updated_time": "2015-08-14T08:10:45+0000"
-        }, 
-        {
-            "actions": [
-                {
                     "link": "https://www.facebook.com/867704779984689/posts/869326913155809", 
                     "name": "Comment"
                 }, 
@@ -1343,7 +1343,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1712
+                    "total_count": 1713
                 }
             }, 
             "message": "情人節要到了，沒有鋁硼銪。", 
@@ -1409,7 +1409,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1652
+                    "total_count": 1657
                 }
             }, 
             "message": "歐噴了！", 
@@ -1475,11 +1475,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1567
+                    "total_count": 1570
                 }
             }, 
             "message": "水源阿伯：『吊水源囉！』", 
             "updated_time": "2015-08-13T13:52:28+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870366356385198", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870366356385198", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 25
+                }
+            }, 
+            "from": {
+                "category": "Media/News/Publishing", 
+                "id": "357040454374177", 
+                "name": "停班停課最新通知/typhoon.tw"
+            }, 
+            "id": "867704779984689_870366356385198", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1567
+                }
+            }, 
+            "message": "北北基 明日照常上班、照常上課", 
+            "updated_time": "2015-08-14T08:53:47+0000"
         }, 
         {
             "actions": [
@@ -1508,44 +1541,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1545
+                    "total_count": 1547
                 }
             }, 
             "message": "有wifi！！！！YEAH！！！　但手機沒電...", 
             "updated_time": "2015-08-13T10:16:31+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870366356385198", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870366356385198", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 24
-                }
-            }, 
-            "from": {
-                "category": "Media/News/Publishing", 
-                "id": "357040454374177", 
-                "name": "停班停課最新通知/typhoon.tw"
-            }, 
-            "id": "867704779984689_870366356385198", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1469
-                }
-            }, 
-            "message": "北北基 明日照常上班、照常上課", 
-            "updated_time": "2015-08-14T08:53:47+0000"
         }, 
         {
             "actions": [
@@ -1574,7 +1574,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1469
+                    "total_count": 1471
                 }
             }, 
             "message": "地震！", 
@@ -1606,7 +1606,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1449
+                    "total_count": 1450
                 }
             }, 
             "message": "[雄中系列2]\n學號幾號?", 
@@ -1639,7 +1639,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1439
+                    "total_count": 1447
                 }
             }, 
             "message": "水星逆行", 
@@ -1672,7 +1672,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1392
+                    "total_count": 1397
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -1705,7 +1705,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1345
+                    "total_count": 1350
                 }
             }, 
             "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
@@ -1738,11 +1738,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1276
+                    "total_count": 1279
                 }
             }, 
             "message": "研究生覺得最可怕的一句話....", 
             "updated_time": "2015-08-13T14:03:32+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870331679721999", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870331679721999", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 22
+                }
+            }, 
+            "from": {
+                "category": "Preschool", 
+                "id": "254551641250166", 
+                "name": "Chaozhibai"
+            }, 
+            "id": "867704779984689_870331679721999", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1210
+                }
+            }, 
+            "message": "我已經兩個禮拜沒有洗頭了", 
+            "updated_time": "2015-08-14T07:44:43+0000"
         }, 
         {
             "actions": [
@@ -1771,44 +1804,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1190
+                    "total_count": 1191
                 }
             }, 
             "message": "當女友說這兩個字的時候", 
             "updated_time": "2015-08-13T04:39:35+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870331679721999", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870331679721999", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 21
-                }
-            }, 
-            "from": {
-                "category": "Preschool", 
-                "id": "254551641250166", 
-                "name": "Chaozhibai"
-            }, 
-            "id": "867704779984689_870331679721999", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1170
-                }
-            }, 
-            "message": "我已經兩個禮拜沒有洗頭了", 
-            "updated_time": "2015-08-14T07:44:43+0000"
         }, 
         {
             "actions": [
@@ -1900,7 +1900,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1037
+                    "total_count": 1038
                 }
             }, 
             "message": "挖系林老木", 
@@ -2030,7 +2030,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 979
+                    "total_count": 983
                 }
             }, 
             "message": "當臉書認證自己是阿文的時刻。", 
@@ -2063,7 +2063,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 970
+                    "total_count": 978
                 }
             }, 
             "message": "我都知道了。", 
@@ -2096,7 +2096,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 933
+                    "total_count": 937
                 }
             }, 
             "message": "我不愛你了!!", 
@@ -2161,7 +2161,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 843
+                    "total_count": 844
                 }
             }, 
             "message": "哥買 lativ 不是因為便宜，而是生活態度", 
@@ -2236,6 +2236,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870283913060109", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870283913060109", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 8
+                }
+            }, 
+            "from": {
+                "category": "Comedian", 
+                "id": "175118929329841", 
+                "name": "劉伯伯是隻貓"
+            }, 
+            "id": "867704779984689_870283913060109", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 730
+                }
+            }, 
+            "updated_time": "2015-08-14T05:56:09+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870206723067828", 
                     "name": "Comment"
                 }, 
@@ -2259,7 +2291,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 720
+                    "total_count": 723
                 }
             }, 
             "message": "你們好❤️", 
@@ -2291,43 +2323,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 715
+                    "total_count": 721
                 }
             }, 
             "message": "想認識多點朋友❤️", 
             "updated_time": "2015-08-14T01:39:59+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870283913060109", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870283913060109", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 8
-                }
-            }, 
-            "from": {
-                "category": "Comedian", 
-                "id": "175118929329841", 
-                "name": "劉伯伯是隻貓"
-            }, 
-            "id": "867704779984689_870283913060109", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 714
-                }
-            }, 
-            "updated_time": "2015-08-14T05:56:09+0000"
         }, 
         {
             "actions": [
@@ -2780,7 +2780,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 573
+                    "total_count": 574
                 }
             }, 
             "message": "當女友這樣問的時候", 
@@ -2846,11 +2846,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 552
+                    "total_count": 558
                 }
             }, 
             "message": "年紀那麼大了，什麼時候要結婚？", 
             "updated_time": "2015-08-14T06:45:06+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870313733057127", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870313733057127", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 9
+                }
+            }, 
+            "from": {
+                "category": "Comedian", 
+                "id": "375735519179710", 
+                "name": "杰司，難搞"
+            }, 
+            "id": "867704779984689_870313733057127", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 552
+                }
+            }, 
+            "message": "我的D槽...壞。掉。了。", 
+            "updated_time": "2015-08-14T06:58:01+0000"
         }, 
         {
             "actions": [
@@ -2912,7 +2945,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 546
+                    "total_count": 547
                 }
             }, 
             "message": "adobe illustrator 意外結束。", 
@@ -2945,7 +2978,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 545
+                    "total_count": 546
                 }
             }, 
             "message": "真的跟我這樣做有人腰折斷的嗎？", 
@@ -2983,39 +3016,6 @@
             }, 
             "message": "加班熬夜結束躺床上剛要睡著時耳邊傳來：「爸爸我要喝水～」\n\n#覺得恐怖", 
             "updated_time": "2015-08-13T09:22:46+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870313733057127", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870313733057127", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 9
-                }
-            }, 
-            "from": {
-                "category": "Comedian", 
-                "id": "375735519179710", 
-                "name": "杰司，難搞"
-            }, 
-            "id": "867704779984689_870313733057127", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 538
-                }
-            }, 
-            "message": "我的D槽...壞。掉。了。", 
-            "updated_time": "2015-08-14T06:58:01+0000"
         }, 
         {
             "actions": [
@@ -3076,7 +3076,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 531
+                    "total_count": 532
                 }
             }, 
             "message": "月底了...", 
@@ -3118,6 +3118,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870175649737602", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870175649737602", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 15
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_870175649737602", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 508
+                }
+            }, 
+            "message": "周休來雙颱。", 
+            "updated_time": "2015-08-14T03:13:59+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869667559788411", 
                     "name": "Comment"
                 }, 
@@ -3147,39 +3180,6 @@
             }, 
             "message": "勝文決定退出政壇，永遠不參選總統", 
             "updated_time": "2015-08-13T13:19:57+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870175649737602", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870175649737602", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 15
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_870175649737602", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 501
-                }
-            }, 
-            "message": "周休來雙颱。", 
-            "updated_time": "2015-08-14T03:13:59+0000"
         }, 
         {
             "actions": [
