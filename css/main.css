@@ -1,11 +1,11 @@
 @font-face {
-  font-family: KongXi;
-  src: url(KongXi.otf);
+	font-family: KongXi;
+	src: url(KongXi.otf);
 }
 
 @font-face {
-  font-family: HelveticaNeue;
-  src: url(HelveticaNeue-UltraLight.otf);
+	font-family: HelveticaNeue;
+	src: url(HelveticaNeue-UltraLight.otf);
 }
 
 html, body {
