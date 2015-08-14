@@ -1,7 +1,7 @@
 {
-    "comment_count": 129713, 
-    "like_count": 1100270, 
-    "post_count": 68460, 
+    "comment_count": 129759, 
+    "like_count": 1100578, 
+    "post_count": 68486, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136215
+                    "total_count": 136221
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19119
+                    "total_count": 19120
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -327,7 +327,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 14289
+                    "total_count": 14293
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 11239
+                    "total_count": 11240
                 }
             }, 
             "message": "感謝老溫幫我繪製~\n\n我也補上奧太太的版本\n\n一種溫蒂妮的感覺", 
@@ -458,7 +458,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9223
+                    "total_count": 9227
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -784,7 +784,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5215
+                    "total_count": 5219
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -849,7 +849,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4275
+                    "total_count": 4280
                 }
             }, 
             "message": "你被召回惹 <3", 
@@ -915,7 +915,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3767
+                    "total_count": 3768
                 }
             }, 
             "message": "我到學校之後才發現我今天忘記穿內衣", 
@@ -981,7 +981,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3575
+                    "total_count": 3579
                 }
             }, 
             "message": "北北基 明日照常上班、照常上課", 
@@ -1310,7 +1310,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2269
+                    "total_count": 2271
                 }
             }, 
             "message": "我已經兩個禮拜沒有洗頭了", 
@@ -1517,6 +1517,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870471843041316", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870471843041316", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 63
+                }
+            }, 
+            "from": {
+                "category": "Comedian", 
+                "id": "249087998502438", 
+                "name": "我愛連勝文"
+            }, 
+            "id": "867704779984689_870471843041316", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1794
+                }
+            }, 
+            "message": "我從來不靠爸", 
+            "updated_time": "2015-08-14T12:00:07+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869326913155809", 
                     "name": "Comment"
                 }, 
@@ -1546,39 +1579,6 @@
             }, 
             "message": "情人節要到了，沒有鋁硼銪。", 
             "updated_time": "2015-08-13T08:05:47+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870471843041316", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870471843041316", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 63
-                }
-            }, 
-            "from": {
-                "category": "Comedian", 
-                "id": "249087998502438", 
-                "name": "我愛連勝文"
-            }, 
-            "id": "867704779984689_870471843041316", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1782
-                }
-            }, 
-            "message": "我從來不靠爸", 
-            "updated_time": "2015-08-14T12:00:07+0000"
         }, 
         {
             "actions": [
@@ -1640,7 +1640,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1691
+                    "total_count": 1692
                 }
             }, 
             "message": "水星逆行", 
@@ -1936,7 +1936,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1239
+                    "total_count": 1242
                 }
             }, 
             "message": "假⋯假牙⋯吞下去了!", 
@@ -1968,7 +1968,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1215
+                    "total_count": 1216
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2067,7 +2067,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1130
+                    "total_count": 1131
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2130,7 +2130,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1106
+                    "total_count": 1107
                 }
             }, 
             "message": "挖系林老木", 
@@ -2194,7 +2194,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1039
+                    "total_count": 1040
                 }
             }, 
             "message": "當臉書認證自己是阿文的時刻。", 
@@ -2292,7 +2292,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1025
+                    "total_count": 1026
                 }
             }, 
             "message": "你們好❤️", 
@@ -2390,7 +2390,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 963
+                    "total_count": 964
                 }
             }, 
             "message": "我的D槽...壞。掉。了。", 
@@ -2554,7 +2554,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 809
+                    "total_count": 810
                 }
             }, 
             "message": "年紀那麼大了，什麼時候要結婚？", 
@@ -2620,7 +2620,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 740
+                    "total_count": 741
                 }
             }, 
             "message": "推廣A片快四年了卻沒有一個人傳洪秀柱的A圖給我", 
@@ -2653,7 +2653,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 731
+                    "total_count": 732
                 }
             }, 
             "message": "妹妹背著洋娃娃 ~ 走到花園來看花 ~\n娃娃哭了叫媽媽 ~ 樹上小鳥笑哈哈 ~", 
@@ -3077,7 +3077,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 607
+                    "total_count": 609
                 }
             }, 
             "message": "我瘦了", 
