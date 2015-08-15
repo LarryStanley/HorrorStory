@@ -40,6 +40,10 @@ h1 {
 	#info number{
 		font-size: 48px;
 	}
+
+	h1 br {
+		display: none;
+	}
 }
 
 @media (min-width: 992px) {
@@ -56,6 +60,10 @@ h1 {
 	#info number{
 		font-size: 48px;
 	}
+
+	h1 br {
+		display: none;
+	}
 }
 
 @media (min-width: 758px) {
@@ -71,6 +79,10 @@ h1 {
 
 	#info number{
 		font-size: 48px;
+	}
+
+	h1 br {
+		display: none;
 	}
 }
 
@@ -90,7 +102,17 @@ h1 {
 	}
 
 	#info number{
-		font-size: 36px;
+		font-size: 36px;a
+	}
+
+	h1 br {
+		display: none;
+	}
+}
+
+@media (max-width: 550px) {
+	h1 br {
+		display: block;
 	}
 }
 
