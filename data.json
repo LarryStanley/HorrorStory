@@ -1,7 +1,7 @@
 {
-    "comment_count": 138815, 
-    "like_count": 1214433, 
-    "post_count": 72720, 
+    "comment_count": 139112, 
+    "like_count": 1218713, 
+    "post_count": 72873, 
     "posts": [
         {
             "actions": [
@@ -18,7 +18,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 13470
+                    "total_count": 13474
                 }
             }, 
             "from": {
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136522
+                    "total_count": 136530
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -51,7 +51,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 180
+                    "total_count": 181
                 }
             }, 
             "from": {
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 28536
+                    "total_count": 28604
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -96,7 +96,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 26934
+                    "total_count": 26936
                 }
             }, 
             "message": "存摺簿打開剩一元", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19225
+                    "total_count": 19226
                 }
             }, 
             "message": "靠腰...。", 
@@ -228,7 +228,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19188
+                    "total_count": 19189
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -261,7 +261,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 17052
+                    "total_count": 17053
                 }
             }, 
             "message": "情人節快到了", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 16424
+                    "total_count": 16426
                 }
             }, 
             "message": "不好意思...我要退貨。", 
@@ -327,11 +327,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15256
+                    "total_count": 15277
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
             "updated_time": "2015-08-14T11:59:07+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871183429636824", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871183429636824", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 215
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "188535634604417", 
+                "name": "我得了一種吃菜就會死得病-螺痣祥"
+            }, 
+            "id": "867704779984689_871183429636824", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 15008
+                }
+            }, 
+            "message": "數學老師說:", 
+            "updated_time": "2015-08-15T15:28:14+0000"
         }, 
         {
             "actions": [
@@ -360,44 +393,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 14934
+                    "total_count": 14935
                 }
             }, 
             "message": "馬來貘發了一個周邊商品", 
             "updated_time": "2015-08-12T16:12:51+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871183429636824", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871183429636824", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 196
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "188535634604417", 
-                "name": "我得了一種吃菜就會死得病-螺痣祥"
-            }, 
-            "id": "867704779984689_871183429636824", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 13447
-                }
-            }, 
-            "message": "數學老師說:", 
-            "updated_time": "2015-08-15T15:00:02+0000"
         }, 
         {
             "actions": [
@@ -459,7 +459,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 11316
+                    "total_count": 11317
                 }
             }, 
             "message": "感謝老溫幫我繪製~\n\n我也補上奧太太的版本\n\n一種溫蒂妮的感覺", 
@@ -492,7 +492,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10819
+                    "total_count": 10820
                 }
             }, 
             "message": "上了大學後發現再也無法從這個角度看到自己的GG", 
@@ -524,7 +524,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9588
+                    "total_count": 9593
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -589,7 +589,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8015
+                    "total_count": 8016
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -719,7 +719,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6210
+                    "total_count": 6259
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -751,7 +751,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5920
+                    "total_count": 5940
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -859,6 +859,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871195512968949", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871195512968949", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 256
+                }
+            }, 
+            "from": {
+                "category": "Community", 
+                "id": "585816068201402", 
+                "name": "靠北男友"
+            }, 
+            "id": "867704779984689_871195512968949", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 5171
+                }
+            }, 
+            "message": "準備關版大家再見。", 
+            "updated_time": "2015-08-15T15:30:07+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870443229710844", 
                     "name": "Comment"
                 }, 
@@ -883,7 +916,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4902
+                    "total_count": 4907
                 }
             }, 
             "message": "你被召回惹 <3", 
@@ -915,7 +948,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4493
+                    "total_count": 4494
                 }
             }, 
             "message": "所以叔叔，你跟我們是住同一家飯店囉？", 
@@ -948,44 +981,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4388
+                    "total_count": 4398
                 }
             }, 
             "message": "我到學校之後才發現我今天忘記穿內衣", 
             "updated_time": "2015-08-14T08:10:45+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871195512968949", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871195512968949", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 227
-                }
-            }, 
-            "from": {
-                "category": "Community", 
-                "id": "585816068201402", 
-                "name": "靠北男友"
-            }, 
-            "id": "867704779984689_871195512968949", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 4384
-                }
-            }, 
-            "message": "準備關版大家再見。", 
-            "updated_time": "2015-08-15T15:00:20+0000"
         }, 
         {
             "actions": [
@@ -1014,7 +1014,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4129
+                    "total_count": 4132
                 }
             }, 
             "message": "北北基 明日照常上班、照常上課", 
@@ -1035,7 +1035,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 33
+                    "total_count": 34
                 }
             }, 
             "from": {
@@ -1047,7 +1047,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3998
+                    "total_count": 4047
                 }
             }, 
             "message": "妳的叫聲聽得我噁心。", 
@@ -1080,7 +1080,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3859
+                    "total_count": 3867
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -1113,7 +1113,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3782
+                    "total_count": 3783
                 }
             }, 
             "message": "我的蘑菇沒有毒", 
@@ -1211,7 +1211,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3625
+                    "total_count": 3632
                 }
             }, 
             "message": "。", 
@@ -1310,7 +1310,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2954
+                    "total_count": 2955
                 }
             }, 
             "message": "蛋哥……", 
@@ -1376,7 +1376,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2612
+                    "total_count": 2617
                 }
             }, 
             "message": "我已經兩個禮拜沒有洗頭了", 
@@ -1409,7 +1409,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2434
+                    "total_count": 2443
                 }
             }, 
             "message": "我從來不靠爸", 
@@ -1442,7 +1442,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2333
+                    "total_count": 2334
                 }
             }, 
             "message": "如果再沒有人收養就要送去收容所了。", 
@@ -1739,7 +1739,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1757
+                    "total_count": 1758
                 }
             }, 
             "message": "水星逆行", 
@@ -1937,7 +1937,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1591
+                    "total_count": 1598
                 }
             }, 
             "message": "我瘦了", 
@@ -2101,7 +2101,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1444
+                    "total_count": 1450
                 }
             }, 
             "message": "假⋯假牙⋯吞下去了!", 
@@ -2133,7 +2133,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1433
+                    "total_count": 1434
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2220,7 +2220,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 105
+                    "total_count": 106
                 }
             }, 
             "from": {
@@ -2232,7 +2232,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1171
+                    "total_count": 1172
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2329,7 +2329,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1136
+                    "total_count": 1139
                 }
             }, 
             "message": "我的D槽...壞。掉。了。", 
@@ -2350,7 +2350,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 24
+                    "total_count": 25
                 }
             }, 
             "from": {
@@ -2361,7 +2361,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1129
+                    "total_count": 1130
                 }
             }, 
             "message": "你們好❤️", 
@@ -2425,7 +2425,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1109
+                    "total_count": 1111
                 }
             }, 
             "message": "[雄中系列1]\n早安", 
@@ -2555,7 +2555,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1034
+                    "total_count": 1040
                 }
             }, 
             "message": "妹妹背的是安娜BEAR", 
@@ -2687,7 +2687,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 911
+                    "total_count": 913
                 }
             }, 
             "message": "妹妹背著洋娃娃 ~ 走到花園來看花 ~\n娃娃哭了叫媽媽 ~ 樹上小鳥笑哈哈 ~", 
@@ -2719,7 +2719,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 900
+                    "total_count": 902
                 }
             }, 
             "message": "想認識多點朋友❤️", 
@@ -2785,7 +2785,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 896
+                    "total_count": 898
                 }
             }, 
             "message": "年紀那麼大了，什麼時候要結婚？", 
@@ -2818,7 +2818,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 846
+                    "total_count": 851
                 }
             }, 
             "message": "推廣A片快四年了卻沒有一個人傳洪秀柱的A圖給我", 
