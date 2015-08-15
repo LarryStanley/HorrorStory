@@ -1,7 +1,7 @@
 {
-    "comment_count": 134323, 
-    "like_count": 1141111, 
-    "post_count": 70822, 
+    "comment_count": 134441, 
+    "like_count": 1142385, 
+    "post_count": 70891, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136423
+                    "total_count": 136426
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 26911
+                    "total_count": 26913
                 }
             }, 
             "message": "存摺簿打開剩一元", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20924
+                    "total_count": 20926
                 }
             }, 
             "message": "圓仔懷孕了", 
@@ -162,7 +162,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19200
+                    "total_count": 19202
                 }
             }, 
             "message": "靠腰...。", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19162
+                    "total_count": 19163
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -261,11 +261,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 16411
+                    "total_count": 16412
                 }
             }, 
             "message": "不好意思...我要退貨。", 
             "updated_time": "2015-08-12T15:18:36+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870231183065382", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870231183065382", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 729
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "641202775921848", 
+                "name": "A RAY"
+            }, 
+            "id": "867704779984689_870231183065382", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 14935
+                }
+            }, 
+            "message": "海賊王宣佈無限期休刊", 
+            "updated_time": "2015-08-14T11:59:07+0000"
         }, 
         {
             "actions": [
@@ -299,39 +332,6 @@
             }, 
             "message": "馬來貘發了一個周邊商品", 
             "updated_time": "2015-08-12T16:12:51+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870231183065382", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870231183065382", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 729
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "641202775921848", 
-                "name": "A RAY"
-            }, 
-            "id": "867704779984689_870231183065382", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 14922
-                }
-            }, 
-            "message": "海賊王宣佈無限期休刊", 
-            "updated_time": "2015-08-14T11:59:07+0000"
         }, 
         {
             "actions": [
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 11309
+                    "total_count": 11310
                 }
             }, 
             "message": "感謝老溫幫我繪製~\n\n我也補上奧太太的版本\n\n一種溫蒂妮的感覺", 
@@ -458,7 +458,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9481
+                    "total_count": 9489
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -523,7 +523,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8003
+                    "total_count": 8005
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -653,7 +653,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6026
+                    "total_count": 6034
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -685,7 +685,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5695
+                    "total_count": 5707
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -817,7 +817,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4681
+                    "total_count": 4690
                 }
             }, 
             "message": "你被召回惹 <3", 
@@ -882,7 +882,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4144
+                    "total_count": 4159
                 }
             }, 
             "message": "我到學校之後才發現我今天忘記穿內衣", 
@@ -915,7 +915,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3928
+                    "total_count": 3935
                 }
             }, 
             "message": "北北基 明日照常上班、照常上課", 
@@ -969,7 +969,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 487
+                    "total_count": 488
                 }
             }, 
             "from": {
@@ -981,11 +981,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3747
+                    "total_count": 3750
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
             "updated_time": "2015-08-14T14:31:21+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/869977993090701", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/869977993090701", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 136
+                }
+            }, 
+            "from": {
+                "category": "Public Figure", 
+                "id": "135950856433339", 
+                "name": "潔哥/李秉潔"
+            }, 
+            "id": "867704779984689_869977993090701", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 3638
+                }
+            }, 
+            "message": "起床後發現懶叫噴出來了", 
+            "updated_time": "2015-08-13T20:59:29+0000"
         }, 
         {
             "actions": [
@@ -1023,11 +1056,11 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/869977993090701", 
+                    "link": "https://www.facebook.com/867704779984689/posts/869313566490477", 
                     "name": "Comment"
                 }, 
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/869977993090701", 
+                    "link": "https://www.facebook.com/867704779984689/posts/869313566490477", 
                     "name": "Like"
                 }
             ], 
@@ -1035,23 +1068,22 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 136
+                    "total_count": 34
                 }
             }, 
             "from": {
-                "category": "Public Figure", 
-                "id": "135950856433339", 
-                "name": "潔哥/李秉潔"
+                "id": "1140770829273510", 
+                "name": "李宜陵"
             }, 
-            "id": "867704779984689_869977993090701", 
+            "id": "867704779984689_869313566490477", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3632
+                    "total_count": 3553
                 }
             }, 
-            "message": "起床後發現懶叫噴出來了", 
-            "updated_time": "2015-08-13T20:59:29+0000"
+            "message": "。", 
+            "updated_time": "2015-08-13T07:50:44+0000"
         }, 
         {
             "actions": [
@@ -1089,38 +1121,6 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/869313566490477", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869313566490477", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 34
-                }
-            }, 
-            "from": {
-                "id": "1140770829273510", 
-                "name": "李宜陵"
-            }, 
-            "id": "867704779984689_869313566490477", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3551
-                }
-            }, 
-            "message": "。", 
-            "updated_time": "2015-08-13T07:50:44+0000"
-        }, 
-        {
-            "actions": [
-                {
                     "link": "https://www.facebook.com/867704779984689/posts/868630599892107", 
                     "name": "Comment"
                 }, 
@@ -1154,6 +1154,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870794819675685", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870794819675685", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 28
+                }
+            }, 
+            "from": {
+                "category": "Comedian", 
+                "id": "363734540324168", 
+                "name": "白癡公主"
+            }, 
+            "id": "867704779984689_870794819675685", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 2979
+                }
+            }, 
+            "message": "妳的叫聲聽得我噁心。", 
+            "updated_time": "2015-08-14T23:56:39+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869464286475405", 
                     "name": "Comment"
                 }, 
@@ -1183,39 +1216,6 @@
             }, 
             "message": "蛋哥……", 
             "updated_time": "2015-08-13T10:07:12+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870794819675685", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870794819675685", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 28
-                }
-            }, 
-            "from": {
-                "category": "Comedian", 
-                "id": "363734540324168", 
-                "name": "白癡公主"
-            }, 
-            "id": "867704779984689_870794819675685", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2925
-                }
-            }, 
-            "message": "妳的叫聲聽得我噁心。", 
-            "updated_time": "2015-08-14T23:56:39+0000"
         }, 
         {
             "actions": [
@@ -1277,7 +1277,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2480
+                    "total_count": 2485
                 }
             }, 
             "message": "我已經兩個禮拜沒有洗頭了", 
@@ -1376,7 +1376,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2260
+                    "total_count": 2270
                 }
             }, 
             "message": "我從來不靠爸", 
@@ -1640,7 +1640,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1732
+                    "total_count": 1734
                 }
             }, 
             "message": "水星逆行", 
@@ -1805,7 +1805,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1576
+                    "total_count": 1578
                 }
             }, 
             "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
@@ -1935,7 +1935,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1401
+                    "total_count": 1404
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -1968,7 +1968,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1359
+                    "total_count": 1362
                 }
             }, 
             "message": "假⋯假牙⋯吞下去了!", 
@@ -2001,7 +2001,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1343
+                    "total_count": 1353
                 }
             }, 
             "message": "我瘦了", 
@@ -2100,7 +2100,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1161
+                    "total_count": 1162
                 }
             }, 
             "message": "我都知道了。", 
@@ -2133,7 +2133,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1146
+                    "total_count": 1147
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2260,7 +2260,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1084
+                    "total_count": 1089
                 }
             }, 
             "message": "你們好❤️", 
@@ -2293,7 +2293,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1071
+                    "total_count": 1074
                 }
             }, 
             "message": "我的D槽...壞。掉。了。", 
@@ -2326,11 +2326,43 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1065
+                    "total_count": 1066
                 }
             }, 
             "message": "我不愛你了!!", 
             "updated_time": "2015-08-13T15:08:18+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/868495643238936", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/868495643238936", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 45
+                }
+            }, 
+            "from": {
+                "id": "508023872678412", 
+                "name": "Hsu Justin"
+            }, 
+            "id": "867704779984689_868495643238936", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1049
+                }
+            }, 
+            "message": "[雄中系列1]\n早安", 
+            "updated_time": "2015-08-12T10:55:10+0000"
         }, 
         {
             "actions": [
@@ -2367,38 +2399,6 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/868495643238936", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868495643238936", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 45
-                }
-            }, 
-            "from": {
-                "id": "508023872678412", 
-                "name": "Hsu Justin"
-            }, 
-            "id": "867704779984689_868495643238936", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1045
-                }
-            }, 
-            "message": "[雄中系列1]\n早安", 
-            "updated_time": "2015-08-12T10:55:10+0000"
-        }, 
-        {
-            "actions": [
-                {
                     "link": "https://www.facebook.com/867704779984689/posts/869072503181250", 
                     "name": "Comment"
                 }, 
@@ -2428,6 +2428,39 @@
             }, 
             "message": "網路斷了。", 
             "updated_time": "2015-08-13T02:21:10+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871018316320002", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871018316320002", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 0
+                }
+            }, 
+            "from": {
+                "category": "Product/Service", 
+                "id": "514582662028729", 
+                "name": "TMD-Line專業貼圖代購"
+            }, 
+            "id": "867704779984689_871018316320002", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1025
+                }
+            }, 
+            "message": "貼圖只要35元", 
+            "updated_time": "2015-08-15T06:12:00+0000"
         }, 
         {
             "actions": [
@@ -2489,7 +2522,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 970
+                    "total_count": 971
                 }
             }, 
             "message": "羅志祥：如果還有人再說的話！不要逼我用以前我在基隆生活的方式對他！", 
@@ -2555,7 +2588,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 868
+                    "total_count": 870
                 }
             }, 
             "message": "年紀那麼大了，什麼時候要結婚？", 
@@ -2587,7 +2620,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 867
+                    "total_count": 870
                 }
             }, 
             "message": "想認識多點朋友❤️", 
@@ -2608,7 +2641,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 6
+                    "total_count": 7
                 }
             }, 
             "from": {
@@ -2620,7 +2653,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 855
+                    "total_count": 863
                 }
             }, 
             "message": "妹妹背的是安娜BEAR", 
@@ -2653,7 +2686,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 849
+                    "total_count": 850
                 }
             }, 
             "message": "妹妹背著洋娃娃 ~ 走到花園來看花 ~\n娃娃哭了叫媽媽 ~ 樹上小鳥笑哈哈 ~", 
@@ -2719,7 +2752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 816
+                    "total_count": 818
                 }
             }, 
             "message": "推廣A片快四年了卻沒有一個人傳洪秀柱的A圖給我", 
@@ -2752,7 +2785,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 793
+                    "total_count": 794
                 }
             }, 
             "message": "來我家～我家沒人...", 
@@ -3148,39 +3181,6 @@
             }, 
             "message": "我們老闆有一個非常有趣的想法", 
             "updated_time": "2015-08-12T11:00:08+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871018316320002", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871018316320002", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 0
-                }
-            }, 
-            "from": {
-                "category": "Product/Service", 
-                "id": "514582662028729", 
-                "name": "TMD-Line專業貼圖代購"
-            }, 
-            "id": "867704779984689_871018316320002", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 614
-                }
-            }, 
-            "message": "貼圖只要35元", 
-            "updated_time": "2015-08-15T06:12:00+0000"
         }, 
         {
             "actions": [
