@@ -40,3 +40,15 @@ angular.module("horror", [])
             });
         };
     });
+$(document).ready(function(){
+    $(window).scroll(function (event) {
+        var scroll = $(window).scrollTop();
+        if (scroll > 3){
+            $("#downMessage").removeClass("animated fadeIn");
+            $("#downMessage").addClass("animated fadeOut");
+        } else {
+            $("#downMessage").removeClass("animated fadeOut");
+            $("#downMessage").addClass("animated fadeIn");
+        }
+    });
+});
