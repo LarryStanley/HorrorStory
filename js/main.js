@@ -20,6 +20,8 @@ angular.module("horror", [])
 
         horror.showMore = function(scope, el, attrs) {
             horror.showCount = horror.showCount + 10;
+            if (horror.showCount > 100)
+                $("#showMoreButton").hide();
         };
 
         horror.sortByLike = function() {
