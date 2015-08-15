@@ -1,7 +1,7 @@
 {
-    "comment_count": 135740, 
-    "like_count": 1178112, 
-    "post_count": 71432, 
+    "comment_count": 135809, 
+    "like_count": 1178650, 
+    "post_count": 71467, 
     "posts": [
         {
             "actions": [
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 27471
+                    "total_count": 27505
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21307
+                    "total_count": 21308
                 }
             }, 
             "message": "如此簡短的恐怖故事。\n\n鬼門明天就要開了！快來比賽吧！不斷氣都算一句話！\n\n獻給所有辛苦的店員＆ 大陰盜百貨 。", 
@@ -228,7 +228,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19170
+                    "total_count": 19171
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -327,7 +327,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15035
+                    "total_count": 15041
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -459,7 +459,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10811
+                    "total_count": 10812
                 }
             }, 
             "message": "上了大學後發現再也無法從這個角度看到自己的GG", 
@@ -491,7 +491,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9511
+                    "total_count": 9514
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -718,7 +718,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5790
+                    "total_count": 5795
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -850,7 +850,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4772
+                    "total_count": 4778
                 }
             }, 
             "message": "你被召回惹 <3", 
@@ -882,7 +882,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4471
+                    "total_count": 4474
                 }
             }, 
             "message": "所以叔叔，你跟我們是住同一家飯店囉？", 
@@ -915,7 +915,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4253
+                    "total_count": 4254
                 }
             }, 
             "message": "我到學校之後才發現我今天忘記穿內衣", 
@@ -948,7 +948,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4005
+                    "total_count": 4011
                 }
             }, 
             "message": "北北基 明日照常上班、照常上課", 
@@ -981,7 +981,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3796
+                    "total_count": 3800
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -1154,6 +1154,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870794819675685", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870794819675685", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 31
+                }
+            }, 
+            "from": {
+                "category": "Comedian", 
+                "id": "363734540324168", 
+                "name": "白癡公主"
+            }, 
+            "id": "867704779984689_870794819675685", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 3415
+                }
+            }, 
+            "message": "妳的叫聲聽得我噁心。", 
+            "updated_time": "2015-08-14T23:56:39+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868630599892107", 
                     "name": "Comment"
                 }, 
@@ -1183,39 +1216,6 @@
             }, 
             "message": "何止恐怖 根本惡夢一場", 
             "updated_time": "2015-08-12T14:08:42+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870794819675685", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870794819675685", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 31
-                }
-            }, 
-            "from": {
-                "category": "Comedian", 
-                "id": "363734540324168", 
-                "name": "白癡公主"
-            }, 
-            "id": "867704779984689_870794819675685", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3383
-                }
-            }, 
-            "message": "妳的叫聲聽得我噁心。", 
-            "updated_time": "2015-08-14T23:56:39+0000"
         }, 
         {
             "actions": [
@@ -1310,7 +1310,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2529
+                    "total_count": 2534
                 }
             }, 
             "message": "我已經兩個禮拜沒有洗頭了", 
@@ -1343,7 +1343,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2339
+                    "total_count": 2345
                 }
             }, 
             "message": "我從來不靠爸", 
@@ -1475,7 +1475,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2225
+                    "total_count": 2226
                 }
             }, 
             "message": "電不是插插頭就有了嗎!?", 
@@ -1772,7 +1772,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1650
+                    "total_count": 1651
                 }
             }, 
             "message": "貼圖只要35元", 
@@ -1871,7 +1871,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1579
+                    "total_count": 1580
                 }
             }, 
             "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
@@ -2002,7 +2002,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1446
+                    "total_count": 1454
                 }
             }, 
             "message": "我瘦了", 
@@ -2034,7 +2034,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1413
+                    "total_count": 1415
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2199,7 +2199,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1153
+                    "total_count": 1155
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2359,7 +2359,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1092
+                    "total_count": 1093
                 }
             }, 
             "message": "我跟英久握手了…", 
@@ -2391,7 +2391,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1069
+                    "total_count": 1070
                 }
             }, 
             "message": "[雄中系列1]\n早安", 
@@ -2588,7 +2588,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 928
+                    "total_count": 930
                 }
             }, 
             "message": "妹妹背的是安娜BEAR", 
@@ -2654,7 +2654,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 882
+                    "total_count": 883
                 }
             }, 
             "message": "年紀那麼大了，什麼時候要結婚？", 
@@ -2686,7 +2686,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 879
+                    "total_count": 882
                 }
             }, 
             "message": "想認識多點朋友❤️", 
@@ -2752,7 +2752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 824
+                    "total_count": 825
                 }
             }, 
             "message": "推廣A片快四年了卻沒有一個人傳洪秀柱的A圖給我", 
