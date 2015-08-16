@@ -1,7 +1,7 @@
 {
-    "comment_count": 145035, 
-    "like_count": 1276168, 
-    "post_count": 75587, 
+    "comment_count": 145051, 
+    "like_count": 1276313, 
+    "post_count": 75595, 
     "posts": [
         {
             "actions": [
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23450
+                    "total_count": 23455
                 }
             }, 
             "message": "數學老師說:", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10545
+                    "total_count": 10547
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -785,7 +785,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6769
+                    "total_count": 6770
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1080,7 +1080,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4472
+                    "total_count": 4474
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -2232,7 +2232,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1229
+                    "total_count": 1230
                 }
             }, 
             "message": "你女友是我姘頭", 
@@ -2459,7 +2459,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1135
+                    "total_count": 1136
                 }
             }, 
             "message": "你們好❤️", 
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 868
+                    "total_count": 869
                 }
             }, 
             "message": "一個人躲在房間ㄎㄎ 射出來的那一瞬間 傳出一個聲音誇我很棒..........", 
@@ -2917,7 +2917,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 856
+                    "total_count": 857
                 }
             }, 
             "message": "推廣A片快四年了卻沒有一個人傳洪秀柱的A圖給我", 
@@ -3016,7 +3016,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 793
+                    "total_count": 795
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -4479,6 +4479,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 33
+                }
+            }, 
+            "from": {
+                "category": "Public Figure", 
+                "id": "454545138015272", 
+                "name": "喔熊 OhBear"
+            }, 
+            "id": "867704779984689_871235662964934", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 399
+                }
+            }, 
+            "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
+            "updated_time": "2015-08-15T16:17:50+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869907796431054", 
                     "name": "Comment"
                 }, 
@@ -4508,39 +4541,6 @@
             }, 
             "message": "......主人,你背後跟著的女生是誰?", 
             "updated_time": "2015-08-13T17:43:24+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 33
-                }
-            }, 
-            "from": {
-                "category": "Public Figure", 
-                "id": "454545138015272", 
-                "name": "喔熊 OhBear"
-            }, 
-            "id": "867704779984689_871235662964934", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 398
-                }
-            }, 
-            "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
-            "updated_time": "2015-08-15T16:17:50+0000"
         }, 
         {
             "actions": [
