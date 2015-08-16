@@ -1,7 +1,7 @@
 {
-    "comment_count": 144797, 
-    "like_count": 1274173, 
-    "post_count": 75395, 
+    "comment_count": 144865, 
+    "like_count": 1274650, 
+    "post_count": 75437, 
     "posts": [
         {
             "actions": [
@@ -18,7 +18,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 13478
+                    "total_count": 13479
                 }
             }, 
             "from": {
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136615
+                    "total_count": 136617
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29103
+                    "total_count": 29105
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23348
+                    "total_count": 23374
                 }
             }, 
             "message": "數學老師說:", 
@@ -228,7 +228,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19256
+                    "total_count": 19257
                 }
             }, 
             "message": "靠腰...。", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10467
+                    "total_count": 10482
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -557,7 +557,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9682
+                    "total_count": 9683
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7114
+                    "total_count": 7115
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -774,7 +774,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 184
+                    "total_count": 185
                 }
             }, 
             "from": {
@@ -785,7 +785,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6752
+                    "total_count": 6756
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1080,7 +1080,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4405
+                    "total_count": 4423
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -1146,7 +1146,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3921
+                    "total_count": 3922
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -1475,7 +1475,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2489
+                    "total_count": 2490
                 }
             }, 
             "message": "我從來不靠爸", 
@@ -2232,7 +2232,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1220
+                    "total_count": 1221
                 }
             }, 
             "message": "你女友是我姘頭", 
@@ -2298,7 +2298,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1205
+                    "total_count": 1206
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2339,6 +2339,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/868495643238936", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/868495643238936", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 45
+                }
+            }, 
+            "from": {
+                "id": "508023872678412", 
+                "name": "Hsu Justin"
+            }, 
+            "id": "867704779984689_868495643238936", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1158
+                }
+            }, 
+            "message": "[雄中系列1]\n早安", 
+            "updated_time": "2015-08-12T10:55:10+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870313733057127", 
                     "name": "Comment"
                 }, 
@@ -2368,38 +2400,6 @@
             }, 
             "message": "我的D槽...壞。掉。了。", 
             "updated_time": "2015-08-14T06:58:01+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868495643238936", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868495643238936", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 45
-                }
-            }, 
-            "from": {
-                "id": "508023872678412", 
-                "name": "Hsu Justin"
-            }, 
-            "id": "867704779984689_868495643238936", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1150
-                }
-            }, 
-            "message": "[雄中系列1]\n早安", 
-            "updated_time": "2015-08-12T10:55:10+0000"
         }, 
         {
             "actions": [
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 855
+                    "total_count": 856
                 }
             }, 
             "message": "推廣A片快四年了卻沒有一個人傳洪秀柱的A圖給我", 
@@ -2917,7 +2917,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 850
+                    "total_count": 853
                 }
             }, 
             "message": "一個人躲在房間ㄎㄎ 射出來的那一瞬間 傳出一個聲音誇我很棒..........", 
@@ -3004,7 +3004,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 7
+                    "total_count": 8
                 }
             }, 
             "from": {
@@ -3016,7 +3016,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 764
+                    "total_count": 769
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -3713,6 +3713,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/868709469884220", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/868709469884220", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 32
+                }
+            }, 
+            "from": {
+                "category": "Fictional Character", 
+                "id": "387312897989235", 
+                "name": "旁白鴿"
+            }, 
+            "id": "867704779984689_868709469884220", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 551
+                }
+            }, 
+            "message": "女友車禍過世一年了 浴室排水孔偶爾還有長髮。", 
+            "updated_time": "2015-08-12T15:37:36+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869405959814571", 
                     "name": "Comment"
                 }, 
@@ -3742,39 +3775,6 @@
             }, 
             "message": "加班熬夜結束躺床上剛要睡著時耳邊傳來：「爸爸我要喝水～」\n\n#覺得恐怖", 
             "updated_time": "2015-08-13T09:22:46+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868709469884220", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868709469884220", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 32
-                }
-            }, 
-            "from": {
-                "category": "Fictional Character", 
-                "id": "387312897989235", 
-                "name": "旁白鴿"
-            }, 
-            "id": "867704779984689_868709469884220", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 550
-                }
-            }, 
-            "message": "女友車禍過世一年了 浴室排水孔偶爾還有長髮。", 
-            "updated_time": "2015-08-12T15:37:36+0000"
         }, 
         {
             "actions": [
@@ -4438,7 +4438,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 400
+                    "total_count": 401
                 }
             }, 
             "message": "醫生說這次安眠藥會很有效  但後來我再也沒吃過第二顆。", 
@@ -5413,7 +5413,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 304
+                    "total_count": 305
                 }
             }, 
             "message": "男友死後我沒刪除他的語音短信 沒想到昨晚是最後一次重溫他說「你在哪裡我去接你」。", 
