@@ -1,7 +1,7 @@
 {
-    "comment_count": 145019, 
-    "like_count": 1275975, 
-    "post_count": 75570, 
+    "comment_count": 145028, 
+    "like_count": 1276028, 
+    "post_count": 75571, 
     "posts": [
         {
             "actions": [
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23439
+                    "total_count": 23444
                 }
             }, 
             "message": "數學老師說:", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10538
+                    "total_count": 10539
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -1870,7 +1870,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1689
+                    "total_count": 1690
                 }
             }, 
             "message": "[雄中系列2]\n學號幾號?", 
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 866
+                    "total_count": 867
                 }
             }, 
             "message": "一個人躲在房間ㄎㄎ 射出來的那一瞬間 傳出一個聲音誇我很棒..........", 
@@ -3016,7 +3016,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 790
+                    "total_count": 791
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -4512,6 +4512,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 33
+                }
+            }, 
+            "from": {
+                "category": "Public Figure", 
+                "id": "454545138015272", 
+                "name": "喔熊 OhBear"
+            }, 
+            "id": "867704779984689_871235662964934", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 398
+                }
+            }, 
+            "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
+            "updated_time": "2015-08-15T16:17:50+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869691549786012", 
                     "name": "Comment"
                 }, 
@@ -4541,39 +4574,6 @@
             }, 
             "message": "什麼暑假剩不到一半（大驚）", 
             "updated_time": "2015-08-13T13:44:21+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 33
-                }
-            }, 
-            "from": {
-                "category": "Public Figure", 
-                "id": "454545138015272", 
-                "name": "喔熊 OhBear"
-            }, 
-            "id": "867704779984689_871235662964934", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 397
-                }
-            }, 
-            "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
-            "updated_time": "2015-08-15T16:17:50+0000"
         }, 
         {
             "actions": [
