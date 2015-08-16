@@ -1,7 +1,7 @@
 {
-    "comment_count": 145051, 
-    "like_count": 1276313, 
-    "post_count": 75595, 
+    "comment_count": 145067, 
+    "like_count": 1276490, 
+    "post_count": 75600, 
     "posts": [
         {
             "actions": [
@@ -96,7 +96,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 26964
+                    "total_count": 26965
                 }
             }, 
             "message": "存摺簿打開剩一元", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23455
+                    "total_count": 23459
                 }
             }, 
             "message": "數學老師說:", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20955
+                    "total_count": 20956
                 }
             }, 
             "message": "圓仔懷孕了", 
@@ -513,7 +513,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 396
+                    "total_count": 397
                 }
             }, 
             "from": {
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10547
+                    "total_count": 10553
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7118
+                    "total_count": 7119
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -785,7 +785,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6770
+                    "total_count": 6771
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1023,6 +1023,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 73
+                }
+            }, 
+            "from": {
+                "category": "Community", 
+                "id": "1507004499528332", 
+                "name": "靠北女友"
+            }, 
+            "id": "867704779984689_871275582960942", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 4478
+                }
+            }, 
+            "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
+            "updated_time": "2015-08-16T03:05:58+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870342606387573", 
                     "name": "Comment"
                 }, 
@@ -1052,39 +1085,6 @@
             }, 
             "message": "我到學校之後才發現我今天忘記穿內衣", 
             "updated_time": "2015-08-14T08:10:45+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 73
-                }
-            }, 
-            "from": {
-                "category": "Community", 
-                "id": "1507004499528332", 
-                "name": "靠北女友"
-            }, 
-            "id": "867704779984689_871275582960942", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 4474
-                }
-            }, 
-            "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
-            "updated_time": "2015-08-16T03:05:58+0000"
         }, 
         {
             "actions": [
@@ -2232,7 +2232,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1230
+                    "total_count": 1231
                 }
             }, 
             "message": "你女友是我姘頭", 
@@ -2286,7 +2286,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 118
+                    "total_count": 119
                 }
             }, 
             "from": {
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 869
+                    "total_count": 870
                 }
             }, 
             "message": "一個人躲在房間ㄎㄎ 射出來的那一瞬間 傳出一個聲音誇我很棒..........", 
@@ -2959,6 +2959,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 8
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_871584386263395", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 797
+                }
+            }, 
+            "message": "跟你說個鬼故事：明天星期一。", 
+            "updated_time": "2015-08-16T04:00:01+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869704723118028", 
                     "name": "Comment"
                 }, 
@@ -2988,39 +3021,6 @@
             }, 
             "message": "來我家～我家沒人...", 
             "updated_time": "2015-08-13T14:02:52+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 8
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_871584386263395", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 795
-                }
-            }, 
-            "message": "跟你說個鬼故事：明天星期一。", 
-            "updated_time": "2015-08-16T04:00:01+0000"
         }, 
         {
             "actions": [
