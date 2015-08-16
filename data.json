@@ -1,7 +1,7 @@
 {
-    "comment_count": 142249, 
-    "like_count": 1253601, 
-    "post_count": 74421, 
+    "comment_count": 142317, 
+    "like_count": 1254390, 
+    "post_count": 74466, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136572
+                    "total_count": 136575
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29066
+                    "total_count": 29067
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -117,7 +117,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 270
+                    "total_count": 271
                 }
             }, 
             "from": {
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 22090
+                    "total_count": 22187
                 }
             }, 
             "message": "數學老師說:", 
@@ -261,7 +261,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19206
+                    "total_count": 19207
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -513,7 +513,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 378
+                    "total_count": 379
                 }
             }, 
             "from": {
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9765
+                    "total_count": 9819
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -546,7 +546,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 124
+                    "total_count": 125
                 }
             }, 
             "from": {
@@ -557,7 +557,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9662
+                    "total_count": 9665
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -741,7 +741,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 179
+                    "total_count": 180
                 }
             }, 
             "from": {
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6689
+                    "total_count": 6691
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -916,7 +916,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4967
+                    "total_count": 4968
                 }
             }, 
             "message": "你被召回惹 <3", 
@@ -1014,7 +1014,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4432
+                    "total_count": 4442
                 }
             }, 
             "message": "妳的叫聲聽得我噁心。", 
@@ -1080,7 +1080,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3905
+                    "total_count": 3906
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -1118,6 +1118,39 @@
             }, 
             "message": "我的蘑菇沒有毒", 
             "updated_time": "2015-08-12T14:32:35+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 70
+                }
+            }, 
+            "from": {
+                "category": "Community", 
+                "id": "1507004499528332", 
+                "name": "靠北女友"
+            }, 
+            "id": "867704779984689_871275582960942", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 3695
+                }
+            }, 
+            "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
+            "updated_time": "2015-08-16T03:05:58+0000"
         }, 
         {
             "actions": [
@@ -1216,39 +1249,6 @@
             }, 
             "message": "起床後發現懶叫噴出來了", 
             "updated_time": "2015-08-13T20:59:29+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 70
-                }
-            }, 
-            "from": {
-                "category": "Community", 
-                "id": "1507004499528332", 
-                "name": "靠北女友"
-            }, 
-            "id": "867704779984689_871275582960942", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3630
-                }
-            }, 
-            "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
-            "updated_time": "2015-08-16T03:05:58+0000"
         }, 
         {
             "actions": [
@@ -1508,7 +1508,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2288
+                    "total_count": 2289
                 }
             }, 
             "message": "你是個好人", 
@@ -1969,7 +1969,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1587
+                    "total_count": 1593
                 }
             }, 
             "message": "[雄中系列2]\n學號幾號?", 
@@ -2361,7 +2361,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1144
+                    "total_count": 1145
                 }
             }, 
             "message": "[雄中系列1]\n早安", 
@@ -2434,6 +2434,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 80
+                }
+            }, 
+            "from": {
+                "category": "Community", 
+                "id": "1507004499528332", 
+                "name": "靠北女友"
+            }, 
+            "id": "867704779984689_871213582967142", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1100
+                }
+            }, 
+            "message": "你女友是我姘頭", 
+            "updated_time": "2015-08-15T20:22:25+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869807593107741", 
                     "name": "Comment"
                 }, 
@@ -2495,39 +2528,6 @@
             }, 
             "message": "妹妹背的是安娜BEAR", 
             "updated_time": "2015-08-14T15:35:26+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 79
-                }
-            }, 
-            "from": {
-                "category": "Community", 
-                "id": "1507004499528332", 
-                "name": "靠北女友"
-            }, 
-            "id": "867704779984689_871213582967142", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1090
-                }
-            }, 
-            "message": "你女友是我姘頭", 
-            "updated_time": "2015-08-15T20:22:25+0000"
         }, 
         {
             "actions": [
@@ -3015,7 +3015,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 719
+                    "total_count": 720
                 }
             }, 
             "message": "哈嘍大家好 我是劉梓晨Vincent蛇精男 啊", 
@@ -3048,7 +3048,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 707
+                    "total_count": 719
                 }
             }, 
             "message": "一個人躲在房間ㄎㄎ 射出來的那一瞬間 傳出一個聲音誇我很棒..........", 
