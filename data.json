@@ -1,7 +1,7 @@
 {
-    "comment_count": 143403, 
-    "like_count": 1263475, 
-    "post_count": 75056, 
+    "comment_count": 143524, 
+    "like_count": 1264208, 
+    "post_count": 75125, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136603
+                    "total_count": 136607
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29094
+                    "total_count": 29096
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23130
+                    "total_count": 23192
                 }
             }, 
             "message": "數學老師說:", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20948
+                    "total_count": 20949
                 }
             }, 
             "message": "圓仔懷孕了", 
@@ -228,7 +228,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19252
+                    "total_count": 19255
                 }
             }, 
             "message": "靠腰...。", 
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 14937
+                    "total_count": 14938
                 }
             }, 
             "message": "馬來貘發了一個周邊商品", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10349
+                    "total_count": 10375
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -622,7 +622,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8036
+                    "total_count": 8037
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6732
+                    "total_count": 6738
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1035,7 +1035,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 70
+                    "total_count": 71
                 }
             }, 
             "from": {
@@ -1047,7 +1047,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4248
+                    "total_count": 4290
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -1442,7 +1442,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2485
+                    "total_count": 2487
                 }
             }, 
             "message": "我從來不靠爸", 
@@ -1574,7 +1574,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2237
+                    "total_count": 2239
                 }
             }, 
             "message": "電不是插插頭就有了嗎!?", 
@@ -1814,6 +1814,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/868501156571718", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/868501156571718", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 76
+                }
+            }, 
+            "from": {
+                "id": "508023872678412", 
+                "name": "Hsu Justin"
+            }, 
+            "id": "867704779984689_868501156571718", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1683
+                }
+            }, 
+            "message": "[雄中系列2]\n學號幾號?", 
+            "updated_time": "2015-08-12T10:48:54+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869698429785324", 
                     "name": "Comment"
                 }, 
@@ -1838,43 +1870,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1679
+                    "total_count": 1681
                 }
             }, 
             "message": "水源阿伯：『吊水源囉！』", 
             "updated_time": "2015-08-13T13:52:28+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868501156571718", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868501156571718", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 76
-                }
-            }, 
-            "from": {
-                "id": "508023872678412", 
-                "name": "Hsu Justin"
-            }, 
-            "id": "867704779984689_868501156571718", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1674
-                }
-            }, 
-            "message": "[雄中系列2]\n學號幾號?", 
-            "updated_time": "2015-08-12T10:48:54+0000"
         }, 
         {
             "actions": [
@@ -1936,7 +1936,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1624
+                    "total_count": 1625
                 }
             }, 
             "message": "我喜歡你。", 
@@ -2166,7 +2166,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1347
+                    "total_count": 1351
                 }
             }, 
             "message": "研究生覺得最可怕的一句話....", 
@@ -2232,7 +2232,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1195
+                    "total_count": 1198
                 }
             }, 
             "message": "你女友是我姘頭", 
@@ -2253,7 +2253,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 111
+                    "total_count": 113
                 }
             }, 
             "from": {
@@ -2265,7 +2265,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1192
+                    "total_count": 1194
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2362,7 +2362,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1147
+                    "total_count": 1149
                 }
             }, 
             "message": "挖系林老木", 
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 826
+                    "total_count": 831
                 }
             }, 
             "message": "一個人躲在房間ㄎㄎ 射出來的那一瞬間 傳出一個聲音誇我很棒..........", 
@@ -3049,7 +3049,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 730
+                    "total_count": 742
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
