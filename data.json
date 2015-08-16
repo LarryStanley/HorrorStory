@@ -1,7 +1,7 @@
 {
-    "comment_count": 141777, 
-    "like_count": 1250149, 
-    "post_count": 74169, 
+    "comment_count": 141798, 
+    "like_count": 1250392, 
+    "post_count": 74182, 
     "posts": [
         {
             "actions": [
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29040
+                    "total_count": 29041
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21360
+                    "total_count": 21410
                 }
             }, 
             "message": "數學老師說:", 
@@ -557,7 +557,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9292
+                    "total_count": 9314
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6647
+                    "total_count": 6648
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1014,7 +1014,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4369
+                    "total_count": 4372
                 }
             }, 
             "message": "妳的叫聲聽得我噁心。", 
@@ -1310,7 +1310,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3235
+                    "total_count": 3262
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -1838,7 +1838,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1678
+                    "total_count": 1679
                 }
             }, 
             "message": "水源阿伯：『吊水源囉！』", 
@@ -2133,7 +2133,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1469
+                    "total_count": 1470
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2166,7 +2166,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1467
+                    "total_count": 1468
                 }
             }, 
             "message": "假⋯假牙⋯吞下去了!", 
@@ -2523,7 +2523,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1091
+                    "total_count": 1092
                 }
             }, 
             "message": "妹妹背的是安娜BEAR", 
@@ -2597,6 +2597,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 73
+                }
+            }, 
+            "from": {
+                "category": "Community", 
+                "id": "1507004499528332", 
+                "name": "靠北女友"
+            }, 
+            "id": "867704779984689_871213582967142", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1036
+                }
+            }, 
+            "message": "你女友是我姘頭", 
+            "updated_time": "2015-08-15T20:22:25+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869072503181250", 
                     "name": "Comment"
                 }, 
@@ -2626,39 +2659,6 @@
             }, 
             "message": "網路斷了。", 
             "updated_time": "2015-08-13T02:21:10+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 73
-                }
-            }, 
-            "from": {
-                "category": "Community", 
-                "id": "1507004499528332", 
-                "name": "靠北女友"
-            }, 
-            "id": "867704779984689_871213582967142", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1032
-                }
-            }, 
-            "message": "你女友是我姘頭", 
-            "updated_time": "2015-08-15T20:22:25+0000"
         }, 
         {
             "actions": [
@@ -3244,7 +3244,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 629
+                    "total_count": 632
                 }
             }, 
             "message": "一個人躲在房間ㄎㄎ 射出來的那一瞬間 傳出一個聲音誇我很棒..........", 
