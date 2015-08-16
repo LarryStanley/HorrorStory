@@ -201,10 +201,10 @@ h1 {
 }
 
 .fb-share-button { 
-    width: 80px; 
+    width: 100px; 
 }
 .fb-share-button span, 
 .fb-share-button iframe {
-    width: 80px! important;
+    width: 100px! important;
     height: 20px! important;
 }
