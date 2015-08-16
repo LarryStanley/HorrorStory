@@ -17,7 +17,7 @@ def getData(url):
         commentCount = 0
         for post in allData:
             likeCount += int(post["likes"]["summary"]["total_count"])
-            commentCount += commentCount + int(post["comments"]["summary"]["total_count"])
+            commentCount += int(post["comments"]["summary"]["total_count"])
 
         result = {"post_count": len(allData), "like_count": likeCount, "comment_count": commentCount, "posts": allData[0:100]}
         result = json.dumps(result, sort_keys=True, indent=4, ensure_ascii=False).encode('utf-8')
