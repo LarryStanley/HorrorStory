@@ -43,7 +43,7 @@ angular.module("horror", [])
 $(document).ready(function(){
     $(window).scroll(function (event) {
         var scroll = $(window).scrollTop();
-        if (scroll > 3){
+        if (scroll > 5){
             $("#downMessage").removeClass("animated fadeIn");
             $("#downMessage").addClass("animated fadeOut");
         } else {
