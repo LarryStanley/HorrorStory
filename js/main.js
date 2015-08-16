@@ -20,7 +20,7 @@ angular.module("horror", [])
 
         horror.showMore = function(scope, el, attrs) {
             horror.showCount = horror.showCount + 10;
-            if (horror.showCount > 100)
+            if (horror.showCount > 200)
                 $("#showMoreButton").hide();
         };
 
