@@ -1,7 +1,7 @@
 {
-    "comment_count": 145393, 
-    "like_count": 1279087, 
-    "post_count": 75805, 
+    "comment_count": 145467, 
+    "like_count": 1279454, 
+    "post_count": 75833, 
     "posts": [
         {
             "actions": [
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29115
+                    "total_count": 29118
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23530
+                    "total_count": 23536
                 }
             }, 
             "message": "數學老師說:", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10589
+                    "total_count": 10591
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -557,7 +557,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9690
+                    "total_count": 9695
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6815
+                    "total_count": 6820
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4552
+                    "total_count": 4553
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -1047,7 +1047,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4498
+                    "total_count": 4499
                 }
             }, 
             "message": "妳的叫聲聽得我噁心。", 
@@ -1146,7 +1146,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3925
+                    "total_count": 3926
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -1673,7 +1673,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1912
+                    "total_count": 1913
                 }
             }, 
             "message": "歐噴了！", 
@@ -1870,7 +1870,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1690
+                    "total_count": 1691
                 }
             }, 
             "message": "[雄中系列2]\n學號幾號?", 
@@ -2101,7 +2101,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1504
+                    "total_count": 1505
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -2199,7 +2199,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1360
+                    "total_count": 1361
                 }
             }, 
             "message": "研究生覺得最可怕的一句話....", 
@@ -2427,7 +2427,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1149
+                    "total_count": 1150
                 }
             }, 
             "message": "挖系林老木", 
@@ -2926,6 +2926,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 8
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_871584386263395", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 826
+                }
+            }, 
+            "message": "跟你說個鬼故事：明天星期一。", 
+            "updated_time": "2015-08-16T04:00:01+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869586316463202", 
                     "name": "Comment"
                 }, 
@@ -2955,39 +2988,6 @@
             }, 
             "message": "你最近吃比較好喔~", 
             "updated_time": "2015-08-13T11:54:04+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 8
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_871584386263395", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 822
-                }
-            }, 
-            "message": "跟你說個鬼故事：明天星期一。", 
-            "updated_time": "2015-08-16T04:00:01+0000"
         }, 
         {
             "actions": [
