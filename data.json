@@ -1,7 +1,7 @@
 {
-    "comment_count": 147373, 
-    "like_count": 1318379, 
-    "post_count": 76421, 
+    "comment_count": 147495, 
+    "like_count": 1319925, 
+    "post_count": 76456, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136671
+                    "total_count": 136673
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -282,7 +282,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 121
+                    "total_count": 122
                 }
             }, 
             "from": {
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18275
+                    "total_count": 18347
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15353
+                    "total_count": 15354
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -567,6 +567,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 549
+                }
+            }, 
+            "from": {
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
+            }, 
+            "id": "867704779984689_872152966206537", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 10395
+                }
+            }, 
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-17T16:00:27+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869870383101462", 
                     "name": "Comment"
                 }, 
@@ -595,39 +628,6 @@
             }, 
             "message": "世上最遠的距離", 
             "updated_time": "2015-08-13T16:49:26+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 494
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 9568
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-17T15:29:46+0000"
         }, 
         {
             "actions": [
@@ -741,7 +741,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 197
+                    "total_count": 199
                 }
             }, 
             "from": {
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7310
+                    "total_count": 7333
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1048,7 +1048,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4565
+                    "total_count": 4566
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -1188,6 +1188,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 210
+                }
+            }, 
+            "from": {
+                "category": "Artist", 
+                "id": "520835927950681", 
+                "name": "Undine"
+            }, 
+            "id": "867704779984689_872279629527204", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 4025
+                }
+            }, 
+            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
+            "updated_time": "2015-08-17T15:39:34+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870470576374776", 
                     "name": "Comment"
                 }, 
@@ -1217,39 +1250,6 @@
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
             "updated_time": "2015-08-14T14:31:21+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 205
-                }
-            }, 
-            "from": {
-                "category": "Artist", 
-                "id": "520835927950681", 
-                "name": "Undine"
-            }, 
-            "id": "867704779984689_872279629527204", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3831
-                }
-            }, 
-            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-17T15:25:46+0000"
         }, 
         {
             "actions": [
@@ -2364,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1229
+                    "total_count": 1230
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -3016,7 +3016,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 859
+                    "total_count": 860
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -3381,6 +3381,38 @@
             }, 
             "message": "我們明天改版", 
             "updated_time": "2015-08-12T17:04:02+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 26
+                }
+            }, 
+            "from": {
+                "id": "665967666881218", 
+                "name": "葉宗樺"
+            }, 
+            "id": "867704779984689_872340599521107", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 635
+                }
+            }, 
+            "message": "[鳳中系列] 欸你今天生日喔?", 
+            "updated_time": "2015-08-17T15:56:36+0000"
         }, 
         {
             "actions": [
@@ -4017,38 +4049,6 @@
             }, 
             "message": "久沒來的客人：老闆！今天還是老樣子。(慘了我不記得惹！！！)", 
             "updated_time": "2015-08-14T16:30:11+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 23
-                }
-            }, 
-            "from": {
-                "id": "665967666881218", 
-                "name": "葉宗樺"
-            }, 
-            "id": "867704779984689_872340599521107", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 503
-                }
-            }, 
-            "message": "[鳳中系列] 欸你今天生日喔?", 
-            "updated_time": "2015-08-17T15:29:27+0000"
         }, 
         {
             "actions": [
@@ -5520,6 +5520,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 13
+                }
+            }, 
+            "from": {
+                "category": "Website", 
+                "id": "175072939201834", 
+                "name": "傑米鹿的音樂與行銷"
+            }, 
+            "id": "867704779984689_871935669561600", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 305
+                }
+            }, 
+            "message": "當發片歌手強調他很努力的時候。", 
+            "updated_time": "2015-08-17T00:08:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868735073214993", 
                     "name": "Comment"
                 }, 
@@ -5549,39 +5582,6 @@
             }, 
             "message": "男友死後我沒刪除他的語音短信 沒想到昨晚是最後一次重溫他說「你在哪裡我去接你」。", 
             "updated_time": "2015-08-12T15:55:54+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 13
-                }
-            }, 
-            "from": {
-                "category": "Website", 
-                "id": "175072939201834", 
-                "name": "傑米鹿的音樂與行銷"
-            }, 
-            "id": "867704779984689_871935669561600", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 301
-                }
-            }, 
-            "message": "當發片歌手強調他很努力的時候。", 
-            "updated_time": "2015-08-17T00:08:15+0000"
         }, 
         {
             "actions": [
