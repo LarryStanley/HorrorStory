@@ -1,7 +1,7 @@
 {
-    "comment_count": 147795, 
-    "like_count": 1324545, 
-    "post_count": 76614, 
+    "comment_count": 147800, 
+    "like_count": 1324714, 
+    "post_count": 76617, 
     "posts": [
         {
             "actions": [
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18522
+                    "total_count": 18528
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -492,7 +492,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12834
+                    "total_count": 12907
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7379
+                    "total_count": 7380
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1036,7 +1036,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 231
+                    "total_count": 232
                 }
             }, 
             "from": {
@@ -1048,11 +1048,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4587
+                    "total_count": 4610
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-17T21:22:57+0000"
+            "updated_time": "2015-08-17T22:48:48+0000"
         }, 
         {
             "actions": [
@@ -3147,7 +3147,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 792
+                    "total_count": 795
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
