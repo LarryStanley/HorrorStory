@@ -1,7 +1,7 @@
 {
-    "comment_count": 145294, 
-    "like_count": 1278480, 
-    "post_count": 75753, 
+    "comment_count": 145335, 
+    "like_count": 1278746, 
+    "post_count": 75778, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136625
+                    "total_count": 136627
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23517
+                    "total_count": 23523
                 }
             }, 
             "message": "數學老師說:", 
@@ -228,7 +228,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19260
+                    "total_count": 19261
                 }
             }, 
             "message": "靠腰...。", 
@@ -327,7 +327,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 16439
+                    "total_count": 16440
                 }
             }, 
             "message": "不好意思...我要退貨。", 
@@ -622,7 +622,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8044
+                    "total_count": 8045
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -729,6 +729,37 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/869111989843968", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/869111989843968", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 187
+                }
+            }, 
+            "from": {
+                "id": "885133904913860", 
+                "name": "陳冠宇"
+            }, 
+            "id": "867704779984689_869111989843968", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 6808
+                }
+            }, 
+            "updated_time": "2015-08-13T03:22:02+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868643813224119", 
                     "name": "Comment"
                 }, 
@@ -758,37 +789,6 @@
             }, 
             "message": "大學生的痛", 
             "updated_time": "2015-08-12T14:25:42+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869111989843968", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869111989843968", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 187
-                }
-            }, 
-            "from": {
-                "id": "885133904913860", 
-                "name": "陳冠宇"
-            }, 
-            "id": "867704779984689_869111989843968", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 6803
-                }
-            }, 
-            "updated_time": "2015-08-13T03:22:02+0000"
         }, 
         {
             "actions": [
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4534
+                    "total_count": 4547
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -1080,7 +1080,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4478
+                    "total_count": 4479
                 }
             }, 
             "message": "我到學校之後才發現我今天忘記穿內衣", 
@@ -2199,7 +2199,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1359
+                    "total_count": 1360
                 }
             }, 
             "message": "研究生覺得最可怕的一句話....", 
@@ -2265,7 +2265,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1218
+                    "total_count": 1219
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2983,7 +2983,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 815
+                    "total_count": 819
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
