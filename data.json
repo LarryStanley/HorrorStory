@@ -1,7 +1,7 @@
 {
-    "comment_count": 145467, 
-    "like_count": 1279454, 
-    "post_count": 75833, 
+    "comment_count": 145516, 
+    "like_count": 1279795, 
+    "post_count": 75860, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136629
+                    "total_count": 136630
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23536
+                    "total_count": 23545
                 }
             }, 
             "message": "數學老師說:", 
@@ -459,7 +459,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 11322
+                    "total_count": 11323
                 }
             }, 
             "message": "感謝老溫幫我繪製~\n\n我也補上奧太太的版本\n\n一種溫蒂妮的感覺", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10591
+                    "total_count": 10592
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -557,7 +557,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9695
+                    "total_count": 9704
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -687,7 +687,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7219
+                    "total_count": 7221
                 }
             }, 
             "message": "不能輸", 
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7123
+                    "total_count": 7125
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6820
+                    "total_count": 6822
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4553
+                    "total_count": 4556
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -1047,7 +1047,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4499
+                    "total_count": 4500
                 }
             }, 
             "message": "妳的叫聲聽得我噁心。", 
@@ -1343,7 +1343,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3408
+                    "total_count": 3409
                 }
             }, 
             "message": "何止恐怖 根本惡夢一場", 
@@ -2166,7 +2166,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1470
+                    "total_count": 1471
                 }
             }, 
             "message": "假⋯假牙⋯吞下去了!", 
@@ -2199,7 +2199,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1361
+                    "total_count": 1362
                 }
             }, 
             "message": "研究生覺得最可怕的一句話....", 
@@ -2950,7 +2950,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 826
+                    "total_count": 831
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -6419,6 +6419,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 10
+                }
+            }, 
+            "from": {
+                "category": "Website", 
+                "id": "175072939201834", 
+                "name": "傑米鹿的音樂與行銷"
+            }, 
+            "id": "867704779984689_871935669561600", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 229
+                }
+            }, 
+            "message": "當發片歌手強調他很努力的時候。", 
+            "updated_time": "2015-08-17T00:08:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869237586498075", 
                     "name": "Comment"
                 }, 
@@ -6511,38 +6544,6 @@
             }, 
             "message": "學長~我先去洗澡喔^____^晚點聊~~", 
             "updated_time": "2015-08-13T01:18:56+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868076856614148", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868076856614148", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 24
-                }
-            }, 
-            "from": {
-                "id": "10206634756442024", 
-                "name": "李君豪"
-            }, 
-            "id": "867704779984689_868076856614148", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 223
-                }
-            }, 
-            "message": "魔幻力量", 
-            "updated_time": "2015-08-12T05:04:56+0000"
         }
     ]
 }
