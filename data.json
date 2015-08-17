@@ -1,7 +1,7 @@
 {
-    "comment_count": 147790, 
-    "like_count": 1324415, 
-    "post_count": 76612, 
+    "comment_count": 147795, 
+    "like_count": 1324545, 
+    "post_count": 76614, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136685
+                    "total_count": 136686
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18519
+                    "total_count": 18522
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -480,7 +480,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 652
+                    "total_count": 653
                 }
             }, 
             "from": {
@@ -492,11 +492,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12772
+                    "total_count": 12834
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-17T21:50:14+0000"
+            "updated_time": "2015-08-17T22:14:47+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7378
+                    "total_count": 7379
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1024,6 +1024,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 231
+                }
+            }, 
+            "from": {
+                "category": "Artist", 
+                "id": "520835927950681", 
+                "name": "Undine"
+            }, 
+            "id": "867704779984689_872279629527204", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 4587
+                }
+            }, 
+            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
+            "updated_time": "2015-08-17T21:22:57+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/871275582960942", 
                     "name": "Comment"
                 }, 
@@ -1053,39 +1086,6 @@
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
             "updated_time": "2015-08-16T03:05:58+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 231
-                }
-            }, 
-            "from": {
-                "category": "Artist", 
-                "id": "520835927950681", 
-                "name": "Undine"
-            }, 
-            "id": "867704779984689_872279629527204", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 4564
-                }
-            }, 
-            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-17T21:22:57+0000"
         }, 
         {
             "actions": [
@@ -3147,7 +3147,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 791
+                    "total_count": 792
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
