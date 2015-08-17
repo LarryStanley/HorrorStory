@@ -1,7 +1,7 @@
 {
-    "comment_count": 145995, 
-    "like_count": 1283649, 
-    "post_count": 76099, 
+    "comment_count": 146081, 
+    "like_count": 1284403, 
+    "post_count": 76116, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136649
+                    "total_count": 136652
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29122
+                    "total_count": 29123
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -117,7 +117,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 278
+                    "total_count": 279
                 }
             }, 
             "from": {
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23579
+                    "total_count": 23582
                 }
             }, 
             "message": "數學老師說:", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10600
+                    "total_count": 10601
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -557,7 +557,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9735
+                    "total_count": 9736
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7130
+                    "total_count": 7131
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -741,7 +741,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 192
+                    "total_count": 193
                 }
             }, 
             "from": {
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6949
+                    "total_count": 6983
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -817,7 +817,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5982
+                    "total_count": 5983
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4975
+                    "total_count": 4976
                 }
             }, 
             "message": "你被召回惹 <3", 
@@ -1113,7 +1113,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4172
+                    "total_count": 4173
                 }
             }, 
             "message": "北北基 明日照常上班、照常上課", 
@@ -1814,6 +1814,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 81
+                }
+            }, 
+            "from": {
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
+            }, 
+            "id": "867704779984689_872152966206537", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1714
+                }
+            }, 
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-17T10:30:03+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868501156571718", 
                     "name": "Comment"
                 }, 
@@ -1837,7 +1870,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1700
+                    "total_count": 1701
                 }
             }, 
             "message": "[雄中系列2]\n學號幾號?", 
@@ -2208,39 +2241,6 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 67
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1267
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-17T09:55:10+0000"
-        }, 
-        {
-            "actions": [
-                {
                     "link": "https://www.facebook.com/867704779984689/posts/871213582967142", 
                     "name": "Comment"
                 }, 
@@ -2362,7 +2362,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1170
+                    "total_count": 1171
                 }
             }, 
             "message": "[雄中系列1]\n早安", 
@@ -2720,7 +2720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1016
+                    "total_count": 1017
                 }
             }, 
             "message": "謝謝大家，我跟廖文強三年的感情結束了", 
@@ -2983,7 +2983,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 842
+                    "total_count": 843
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -5584,6 +5584,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/869446376477196", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/869446376477196", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 25
+                }
+            }, 
+            "from": {
+                "id": "1042967805727459", 
+                "name": "巫思霈"
+            }, 
+            "id": "867704779984689_869446376477196", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 288
+                }
+            }, 
+            "message": "再過3天是我13歲生日\n跟我說生日快樂🎂吧❤️", 
+            "updated_time": "2015-08-13T09:48:48+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868553816566452", 
                     "name": "Comment"
                 }, 
@@ -5612,38 +5644,6 @@
             }, 
             "message": "馬英九其實有九個", 
             "updated_time": "2015-08-12T12:25:20+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869446376477196", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869446376477196", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 25
-                }
-            }, 
-            "from": {
-                "id": "1042967805727459", 
-                "name": "巫思霈"
-            }, 
-            "id": "867704779984689_869446376477196", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 287
-                }
-            }, 
-            "message": "再過3天是我13歲生日\n跟我說生日快樂🎂吧❤️", 
-            "updated_time": "2015-08-13T09:48:48+0000"
         }, 
         {
             "actions": [
@@ -5714,6 +5714,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 13
+                }
+            }, 
+            "from": {
+                "category": "Website", 
+                "id": "175072939201834", 
+                "name": "傑米鹿的音樂與行銷"
+            }, 
+            "id": "867704779984689_871935669561600", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 278
+                }
+            }, 
+            "message": "當發片歌手強調他很努力的時候。", 
+            "updated_time": "2015-08-17T00:08:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868523719902795", 
                     "name": "Comment"
                 }, 
@@ -5742,39 +5775,6 @@
             }, 
             "message": "我和工作到底誰比較重要", 
             "updated_time": "2015-08-12T11:37:20+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 13
-                }
-            }, 
-            "from": {
-                "category": "Website", 
-                "id": "175072939201834", 
-                "name": "傑米鹿的音樂與行銷"
-            }, 
-            "id": "867704779984689_871935669561600", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 276
-                }
-            }, 
-            "message": "當發片歌手強調他很努力的時候。", 
-            "updated_time": "2015-08-17T00:08:15+0000"
         }, 
         {
             "actions": [
