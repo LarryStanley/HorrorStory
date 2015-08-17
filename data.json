@@ -1,7 +1,7 @@
 {
-    "comment_count": 145516, 
-    "like_count": 1279795, 
-    "post_count": 75860, 
+    "comment_count": 145567, 
+    "like_count": 1280085, 
+    "post_count": 75893, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136630
+                    "total_count": 136631
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23545
+                    "total_count": 23548
                 }
             }, 
             "message": "數學老師說:", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10592
+                    "total_count": 10593
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -557,7 +557,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9704
+                    "total_count": 9713
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6822
+                    "total_count": 6826
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -817,7 +817,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5980
+                    "total_count": 5982
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -1146,7 +1146,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3926
+                    "total_count": 3927
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -2950,7 +2950,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 831
+                    "total_count": 834
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -6387,6 +6387,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 11
+                }
+            }, 
+            "from": {
+                "category": "Website", 
+                "id": "175072939201834", 
+                "name": "傑米鹿的音樂與行銷"
+            }, 
+            "id": "867704779984689_871935669561600", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 234
+                }
+            }, 
+            "message": "當發片歌手強調他很努力的時候。", 
+            "updated_time": "2015-08-17T00:08:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869518999803267", 
                     "name": "Comment"
                 }, 
@@ -6415,39 +6448,6 @@
             }, 
             "message": "這次新生沒有學妹。", 
             "updated_time": "2015-08-13T10:42:27+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 10
-                }
-            }, 
-            "from": {
-                "category": "Website", 
-                "id": "175072939201834", 
-                "name": "傑米鹿的音樂與行銷"
-            }, 
-            "id": "867704779984689_871935669561600", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 229
-                }
-            }, 
-            "message": "當發片歌手強調他很努力的時候。", 
-            "updated_time": "2015-08-17T00:08:15+0000"
         }, 
         {
             "actions": [
