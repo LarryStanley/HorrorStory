@@ -1,7 +1,7 @@
 {
-    "comment_count": 146746, 
-    "like_count": 1309276, 
-    "post_count": 76264, 
+    "comment_count": 146853, 
+    "like_count": 1310498, 
+    "post_count": 76303, 
     "posts": [
         {
             "actions": [
@@ -18,7 +18,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 13482
+                    "total_count": 13483
                 }
             }, 
             "from": {
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136666
+                    "total_count": 136668
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23616
+                    "total_count": 23617
                 }
             }, 
             "message": "數學老師說:", 
@@ -228,7 +228,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19266
+                    "total_count": 19267
                 }
             }, 
             "message": "靠腰...。", 
@@ -282,7 +282,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 118
+                    "total_count": 120
                 }
             }, 
             "from": {
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 17898
+                    "total_count": 18007
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15351
+                    "total_count": 15352
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -696,6 +696,37 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/869111989843968", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/869111989843968", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 197
+                }
+            }, 
+            "from": {
+                "id": "885133904913860", 
+                "name": "陳冠宇"
+            }, 
+            "id": "867704779984689_869111989843968", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 7235
+                }
+            }, 
+            "updated_time": "2015-08-13T03:22:02+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868616106560223", 
                     "name": "Comment"
                 }, 
@@ -729,11 +760,11 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/869111989843968", 
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
                     "name": "Comment"
                 }, 
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/869111989843968", 
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
                     "name": "Like"
                 }
             ], 
@@ -741,21 +772,23 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 197
+                    "total_count": 349
                 }
             }, 
             "from": {
-                "id": "885133904913860", 
-                "name": "陳冠宇"
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
             }, 
-            "id": "867704779984689_869111989843968", 
+            "id": "867704779984689_872152966206537", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7216
+                    "total_count": 7187
                 }
             }, 
-            "updated_time": "2015-08-13T03:22:02+0000"
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-17T13:59:49+0000"
         }, 
         {
             "actions": [
@@ -822,39 +855,6 @@
             }, 
             "message": "大學生的痛", 
             "updated_time": "2015-08-12T14:25:42+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 311
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 6442
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-17T13:29:21+0000"
         }, 
         {
             "actions": [
@@ -1772,7 +1772,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1906
+                    "total_count": 1907
                 }
             }, 
             "message": "大頭照畫個熊頭 就當自己是設計師", 
@@ -3016,7 +3016,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 853
+                    "total_count": 854
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -5488,6 +5488,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 13
+                }
+            }, 
+            "from": {
+                "category": "Website", 
+                "id": "175072939201834", 
+                "name": "傑米鹿的音樂與行銷"
+            }, 
+            "id": "867704779984689_871935669561600", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 297
+                }
+            }, 
+            "message": "當發片歌手強調他很努力的時候。", 
+            "updated_time": "2015-08-17T00:08:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868606066561227", 
                     "name": "Comment"
                 }, 
@@ -5516,39 +5549,6 @@
             }, 
             "message": "我剛看了你的line", 
             "updated_time": "2015-08-12T13:41:38+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 13
-                }
-            }, 
-            "from": {
-                "category": "Website", 
-                "id": "175072939201834", 
-                "name": "傑米鹿的音樂與行銷"
-            }, 
-            "id": "867704779984689_871935669561600", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 294
-                }
-            }, 
-            "message": "當發片歌手強調他很努力的時候。", 
-            "updated_time": "2015-08-17T00:08:15+0000"
         }, 
         {
             "actions": [
@@ -5899,7 +5899,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 268
+                    "total_count": 269
                 }
             }, 
             "message": "蛇精男和法拉利姐生小孩了", 
