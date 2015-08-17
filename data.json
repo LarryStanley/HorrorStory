@@ -1,7 +1,7 @@
 {
-    "comment_count": 147613, 
-    "like_count": 1321935, 
-    "post_count": 76521, 
+    "comment_count": 147653, 
+    "like_count": 1322572, 
+    "post_count": 76534, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136678
+                    "total_count": 136681
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29129
+                    "total_count": 29130
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -261,7 +261,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19214
+                    "total_count": 19215
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18419
+                    "total_count": 18449
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -360,7 +360,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 16440
+                    "total_count": 16442
                 }
             }, 
             "message": "不好意思...我要退貨。", 
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15354
+                    "total_count": 15355
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -459,7 +459,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 13076
+                    "total_count": 13077
                 }
             }, 
             "message": "七月鬼門就要開了，大家摩拳擦掌來說故事比賽吧！只要你不斷氣用一句話說完就算！\n\n飯粒1.", 
@@ -480,7 +480,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 593
+                    "total_count": 607
                 }
             }, 
             "from": {
@@ -492,11 +492,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 11491
+                    "total_count": 11871
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-17T16:57:25+0000"
+            "updated_time": "2015-08-17T17:29:45+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7355
+                    "total_count": 7364
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1048,7 +1048,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4566
+                    "total_count": 4567
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -1167,7 +1167,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 218
+                    "total_count": 223
                 }
             }, 
             "from": {
@@ -1179,11 +1179,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4290
+                    "total_count": 4354
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-17T16:25:20+0000"
+            "updated_time": "2015-08-17T17:23:30+0000"
         }, 
         {
             "actions": [
@@ -3124,6 +3124,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 29
+                }
+            }, 
+            "from": {
+                "id": "665967666881218", 
+                "name": "葉宗樺"
+            }, 
+            "id": "867704779984689_872340599521107", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 764
+                }
+            }, 
+            "message": "[鳳中系列] 欸你今天生日喔?", 
+            "updated_time": "2015-08-17T16:27:47+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870311549724012", 
                     "name": "Comment"
                 }, 
@@ -3186,38 +3218,6 @@
             }, 
             "message": "周休來雙颱。", 
             "updated_time": "2015-08-14T03:13:59+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 29
-                }
-            }, 
-            "from": {
-                "id": "665967666881218", 
-                "name": "葉宗樺"
-            }, 
-            "id": "867704779984689_872340599521107", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 745
-                }
-            }, 
-            "message": "[鳳中系列] 欸你今天生日喔?", 
-            "updated_time": "2015-08-17T16:27:47+0000"
         }, 
         {
             "actions": [
