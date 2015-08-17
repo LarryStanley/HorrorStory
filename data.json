@@ -1,7 +1,7 @@
 {
-    "comment_count": 147800, 
-    "like_count": 1324714, 
-    "post_count": 76617, 
+    "comment_count": 147818, 
+    "like_count": 1324976, 
+    "post_count": 76627, 
     "posts": [
         {
             "actions": [
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18528
+                    "total_count": 18538
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -480,7 +480,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 653
+                    "total_count": 655
                 }
             }, 
             "from": {
@@ -492,11 +492,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12907
+                    "total_count": 13035
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-17T22:14:47+0000"
+            "updated_time": "2015-08-17T23:28:49+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7380
+                    "total_count": 7382
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1048,7 +1048,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4610
+                    "total_count": 4643
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -3091,6 +3091,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 29
+                }
+            }, 
+            "from": {
+                "id": "665967666881218", 
+                "name": "葉宗樺"
+            }, 
+            "id": "867704779984689_872340599521107", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 800
+                }
+            }, 
+            "message": "[鳳中系列] 欸你今天生日喔?", 
+            "updated_time": "2015-08-17T16:27:47+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869704723118028", 
                     "name": "Comment"
                 }, 
@@ -3120,38 +3152,6 @@
             }, 
             "message": "來我家～我家沒人...", 
             "updated_time": "2015-08-13T14:02:52+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 29
-                }
-            }, 
-            "from": {
-                "id": "665967666881218", 
-                "name": "葉宗樺"
-            }, 
-            "id": "867704779984689_872340599521107", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 795
-                }
-            }, 
-            "message": "[鳳中系列] 欸你今天生日喔?", 
-            "updated_time": "2015-08-17T16:27:47+0000"
         }, 
         {
             "actions": [
