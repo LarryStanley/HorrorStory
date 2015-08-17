@@ -1,7 +1,7 @@
 {
-    "comment_count": 146853, 
-    "like_count": 1310498, 
-    "post_count": 76303, 
+    "comment_count": 147143, 
+    "like_count": 1315096, 
+    "post_count": 76337, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136668
+                    "total_count": 136669
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -96,7 +96,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 26972
+                    "total_count": 26973
                 }
             }, 
             "message": "存摺簿打開剩一元", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23617
+                    "total_count": 23621
                 }
             }, 
             "message": "數學老師說:", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18007
+                    "total_count": 18105
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -590,7 +590,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9746
+                    "total_count": 9747
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -663,6 +663,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 403
+                }
+            }, 
+            "from": {
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
+            }, 
+            "id": "867704779984689_872152966206537", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 7940
+                }
+            }, 
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-17T14:29:03+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868637583224742", 
                     "name": "Comment"
                 }, 
@@ -719,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7235
+                    "total_count": 7260
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -756,39 +789,6 @@
             }, 
             "message": "不能輸", 
             "updated_time": "2015-08-12T14:01:34+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 349
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 7187
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-17T13:59:49+0000"
         }, 
         {
             "actions": [
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5325
+                    "total_count": 5326
                 }
             }, 
             "message": "來來來，嚇嚇你們， 張吉吟 - 泛舟哥 的數字超恐怖的（抖\n\n這比賽為期一個月，我想明天鬼門一開應該會更精彩。\nhttp://larrystanley.github.io/HorrorStory/\n\n感謝最不務正業的吳先生貼心。", 
@@ -1414,6 +1414,39 @@
             }, 
             "message": "何止恐怖 根本惡夢一場", 
             "updated_time": "2015-08-12T14:08:42+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 184
+                }
+            }, 
+            "from": {
+                "category": "Artist", 
+                "id": "520835927950681", 
+                "name": "Undine"
+            }, 
+            "id": "867704779984689_872279629527204", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 3323
+                }
+            }, 
+            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
+            "updated_time": "2015-08-17T14:30:11+0000"
         }, 
         {
             "actions": [
@@ -2101,7 +2134,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1593
+                    "total_count": 1594
                 }
             }, 
             "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
@@ -2331,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1224
+                    "total_count": 1227
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -3016,7 +3049,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 854
+                    "total_count": 856
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -5565,7 +5598,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 14
+                    "total_count": 15
                 }
             }, 
             "from": {
@@ -6514,38 +6547,6 @@
             }, 
             "message": "這次新生沒有學妹。", 
             "updated_time": "2015-08-13T10:42:27+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869237586498075", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869237586498075", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 12
-                }
-            }, 
-            "from": {
-                "id": "953249431385047", 
-                "name": "李優"
-            }, 
-            "id": "867704779984689_869237586498075", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 227
-                }
-            }, 
-            "message": "「爸爸，我交男朋友了。」\n爸爸：『我也是。』", 
-            "updated_time": "2015-08-13T06:20:42+0000"
         }
     ]
 }
