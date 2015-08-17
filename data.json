@@ -1,7 +1,7 @@
 {
-    "comment_count": 146597, 
-    "like_count": 1307908, 
-    "post_count": 76237, 
+    "comment_count": 146746, 
+    "like_count": 1309276, 
+    "post_count": 76264, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136664
+                    "total_count": 136666
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29126
+                    "total_count": 29128
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23608
+                    "total_count": 23616
                 }
             }, 
             "message": "數學老師說:", 
@@ -228,7 +228,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19265
+                    "total_count": 19266
                 }
             }, 
             "message": "靠腰...。", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 17790
+                    "total_count": 17898
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10837
+                    "total_count": 10838
                 }
             }, 
             "message": "上了大學後發現再也無法從這個角度看到自己的GG", 
@@ -590,7 +590,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9744
+                    "total_count": 9746
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7189
+                    "total_count": 7216
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -826,6 +826,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 311
+                }
+            }, 
+            "from": {
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
+            }, 
+            "id": "867704779984689_872152966206537", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 6442
+                }
+            }, 
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-17T13:29:21+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870234586398375", 
                     "name": "Comment"
                 }, 
@@ -888,39 +921,6 @@
             }, 
             "message": "「你的facebook帳號目前已停權」", 
             "updated_time": "2015-08-13T01:48:32+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 265
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 5660
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-17T13:00:04+0000"
         }, 
         {
             "actions": [
@@ -2331,7 +2331,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1223
+                    "total_count": 1224
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -3016,7 +3016,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 851
+                    "total_count": 853
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -5057,7 +5057,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 341
+                    "total_count": 342
                 }
             }, 
             "message": "女友驗孕兩杠", 
@@ -5208,7 +5208,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 67
+                    "total_count": 68
                 }
             }, 
             "from": {
@@ -5520,6 +5520,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 13
+                }
+            }, 
+            "from": {
+                "category": "Website", 
+                "id": "175072939201834", 
+                "name": "傑米鹿的音樂與行銷"
+            }, 
+            "id": "867704779984689_871935669561600", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 294
+                }
+            }, 
+            "message": "當發片歌手強調他很努力的時候。", 
+            "updated_time": "2015-08-17T00:08:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868645386557295", 
                     "name": "Comment"
                 }, 
@@ -5549,39 +5582,6 @@
             }, 
             "message": "我知道你學校在哪裡，也知道你住哪", 
             "updated_time": "2015-08-12T14:29:28+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 13
-                }
-            }, 
-            "from": {
-                "category": "Website", 
-                "id": "175072939201834", 
-                "name": "傑米鹿的音樂與行銷"
-            }, 
-            "id": "867704779984689_871935669561600", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 291
-                }
-            }, 
-            "message": "當發片歌手強調他很努力的時候。", 
-            "updated_time": "2015-08-17T00:08:15+0000"
         }, 
         {
             "actions": [
