@@ -1,7 +1,7 @@
 {
-    "comment_count": 145107, 
-    "like_count": 1276893, 
-    "post_count": 75630, 
+    "comment_count": 145133, 
+    "like_count": 1277142, 
+    "post_count": 75653, 
     "posts": [
         {
             "actions": [
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23474
+                    "total_count": 23488
                 }
             }, 
             "message": "數學老師說:", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10563
+                    "total_count": 10569
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -622,7 +622,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8038
+                    "total_count": 8039
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -785,7 +785,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6778
+                    "total_count": 6785
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4973
+                    "total_count": 4974
                 }
             }, 
             "message": "你被召回惹 <3", 
@@ -1047,7 +1047,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4488
+                    "total_count": 4494
                 }
             }, 
             "message": "剛剛跟鏡子裡的我猜拳  我居然輸了", 
@@ -2035,7 +2035,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1591
+                    "total_count": 1592
                 }
             }, 
             "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
@@ -2101,7 +2101,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1503
+                    "total_count": 1504
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -2362,7 +2362,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1166
+                    "total_count": 1167
                 }
             }, 
             "message": "[雄中系列1]\n早安", 
@@ -2491,7 +2491,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1119
+                    "total_count": 1120
                 }
             }, 
             "message": "『我們贏了！！！』", 
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 872
+                    "total_count": 873
                 }
             }, 
             "message": "一個人躲在房間ㄎㄎ 射出來的那一瞬間 傳出一個聲音誇我很棒..........", 
@@ -2983,7 +2983,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 797
+                    "total_count": 799
                 }
             }, 
             "message": "跟你說個鬼故事：明天星期一。", 
@@ -4381,6 +4381,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 33
+                }
+            }, 
+            "from": {
+                "category": "Public Figure", 
+                "id": "454545138015272", 
+                "name": "喔熊 OhBear"
+            }, 
+            "id": "867704779984689_871235662964934", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 402
+                }
+            }, 
+            "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
+            "updated_time": "2015-08-15T16:17:50+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/867837186638115", 
                     "name": "Comment"
                 }, 
@@ -4410,39 +4443,6 @@
             }, 
             "message": "吃魚吃到一半的時候魚突然開口說：\n\n難道柯P不用負責嗎?", 
             "updated_time": "2015-08-11T18:48:41+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 33
-                }
-            }, 
-            "from": {
-                "category": "Public Figure", 
-                "id": "454545138015272", 
-                "name": "喔熊 OhBear"
-            }, 
-            "id": "867704779984689_871235662964934", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 401
-                }
-            }, 
-            "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
-            "updated_time": "2015-08-15T16:17:50+0000"
         }, 
         {
             "actions": [
