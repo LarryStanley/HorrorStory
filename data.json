@@ -1,7 +1,7 @@
 {
-    "comment_count": 145619, 
-    "like_count": 1280384, 
-    "post_count": 75926, 
+    "comment_count": 145652, 
+    "like_count": 1280622, 
+    "post_count": 75945, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136633
+                    "total_count": 136636
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29118
+                    "total_count": 29120
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -96,7 +96,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 26967
+                    "total_count": 26968
                 }
             }, 
             "message": "存摺簿打開剩一元", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23555
+                    "total_count": 23560
                 }
             }, 
             "message": "數學老師說:", 
@@ -360,7 +360,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15349
+                    "total_count": 15350
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10594
+                    "total_count": 10595
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -557,7 +557,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9719
+                    "total_count": 9722
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7125
+                    "total_count": 7127
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -741,7 +741,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 188
+                    "total_count": 191
                 }
             }, 
             "from": {
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6839
+                    "total_count": 6854
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1146,7 +1146,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3927
+                    "total_count": 3928
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -2199,7 +2199,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1362
+                    "total_count": 1363
                 }
             }, 
             "message": "研究生覺得最可怕的一句話....", 
@@ -2786,7 +2786,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 911
+                    "total_count": 912
                 }
             }, 
             "message": "年紀那麼大了，什麼時候要結婚？", 
@@ -3114,7 +3114,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 722
+                    "total_count": 723
                 }
             }, 
             "message": "哈嘍大家好 我是劉梓晨Vincent蛇精男 啊", 
@@ -4405,7 +4405,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 404
+                    "total_count": 405
                 }
             }, 
             "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
@@ -4894,7 +4894,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 346
+                    "total_count": 347
                 }
             }, 
             "message": "我還欠小歪5萬", 
@@ -6194,6 +6194,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 11
+                }
+            }, 
+            "from": {
+                "category": "Website", 
+                "id": "175072939201834", 
+                "name": "傑米鹿的音樂與行銷"
+            }, 
+            "id": "867704779984689_871935669561600", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 245
+                }
+            }, 
+            "message": "當發片歌手強調他很努力的時候。", 
+            "updated_time": "2015-08-17T00:08:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/867714233317077", 
                     "name": "Comment"
                 }, 
@@ -6255,39 +6288,6 @@
             }, 
             "message": "來電中⋯⋯⋯", 
             "updated_time": "2015-08-14T15:31:56+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 11
-                }
-            }, 
-            "from": {
-                "category": "Website", 
-                "id": "175072939201834", 
-                "name": "傑米鹿的音樂與行銷"
-            }, 
-            "id": "867704779984689_871935669561600", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 240
-                }
-            }, 
-            "message": "當發片歌手強調他很努力的時候。", 
-            "updated_time": "2015-08-17T00:08:15+0000"
         }, 
         {
             "actions": [
