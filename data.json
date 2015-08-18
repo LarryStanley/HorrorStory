@@ -1,7 +1,7 @@
 {
-    "comment_count": 148946, 
-    "like_count": 1337770, 
-    "post_count": 77157, 
+    "comment_count": 148963, 
+    "like_count": 1338138, 
+    "post_count": 77170, 
     "posts": [
         {
             "actions": [
@@ -315,7 +315,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 926
+                    "total_count": 925
                 }
             }, 
             "from": {
@@ -327,11 +327,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18390
+                    "total_count": 18472
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T16:00:25+0000"
+            "updated_time": "2015-08-18T16:14:13+0000"
         }, 
         {
             "actions": [
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7735
+                    "total_count": 7736
                 }
             }, 
             "message": "朋友A", 
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5563
+                    "total_count": 5570
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1475,7 +1475,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2957
+                    "total_count": 2958
                 }
             }, 
             "message": "蛋哥……", 
@@ -2274,6 +2274,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 12
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_872990056122828", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1441
+                }
+            }, 
+            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
+            "updated_time": "2015-08-18T16:27:03+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869705309784636", 
                     "name": "Comment"
                 }, 
@@ -2307,39 +2340,6 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 10
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_872990056122828", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1296
-                }
-            }, 
-            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
-            "updated_time": "2015-08-18T15:36:49+0000"
-        }, 
-        {
-            "actions": [
-                {
                     "link": "https://www.facebook.com/867704779984689/posts/867704786651355", 
                     "name": "Comment"
                 }, 
@@ -2364,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1244
+                    "total_count": 1245
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
