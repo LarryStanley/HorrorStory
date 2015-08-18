@@ -1,7 +1,7 @@
 {
-    "comment_count": 148955, 
-    "like_count": 1338949, 
-    "post_count": 77209, 
+    "comment_count": 148959, 
+    "like_count": 1338973, 
+    "post_count": 77213, 
     "posts": [
         {
             "actions": [
@@ -282,7 +282,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 935
+                    "total_count": 938
                 }
             }, 
             "from": {
@@ -294,11 +294,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18726
+                    "total_count": 18735
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T19:58:11+0000"
+            "updated_time": "2015-08-18T20:59:38+0000"
         }, 
         {
             "actions": [
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5596
+                    "total_count": 5597
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1937,7 +1937,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1752
+                    "total_count": 1756
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
