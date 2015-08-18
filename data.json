@@ -1,7 +1,7 @@
 {
-    "comment_count": 148373, 
-    "like_count": 1331782, 
-    "post_count": 76884, 
+    "comment_count": 148421, 
+    "like_count": 1332166, 
+    "post_count": 76899, 
     "posts": [
         {
             "actions": [
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29137
+                    "total_count": 29139
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23643
+                    "total_count": 23646
                 }
             }, 
             "message": "數學老師說:", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18678
+                    "total_count": 18682
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -336,6 +336,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 804
+                }
+            }, 
+            "from": {
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
+            }, 
+            "id": "867704779984689_872152966206537", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 16516
+                }
+            }, 
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-18T08:28:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868604019894765", 
                     "name": "Comment"
                 }, 
@@ -365,39 +398,6 @@
             }, 
             "message": "不好意思...我要退貨。", 
             "updated_time": "2015-08-12T15:18:36+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 793
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 16375
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T07:58:54+0000"
         }, 
         {
             "actions": [
@@ -688,7 +688,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8051
+                    "total_count": 8052
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7448
+                    "total_count": 7455
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1015,7 +1015,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5240
+                    "total_count": 5262
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -2982,7 +2982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 899
+                    "total_count": 900
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -3180,7 +3180,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 764
+                    "total_count": 765
                 }
             }, 
             "message": "\u001f上了車才發現駕駛是老闆...", 
