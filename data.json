@@ -1,7 +1,7 @@
 {
-    "comment_count": 148493, 
-    "like_count": 1332831, 
-    "post_count": 76936, 
+    "comment_count": 148528, 
+    "like_count": 1333098, 
+    "post_count": 76942, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136702
+                    "total_count": 136703
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23647
+                    "total_count": 23648
                 }
             }, 
             "message": "數學老師說:", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18685
+                    "total_count": 18686
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -348,7 +348,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 819
+                    "total_count": 839
                 }
             }, 
             "from": {
@@ -360,11 +360,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 16792
+                    "total_count": 16942
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T09:24:30+0000"
+            "updated_time": "2015-08-18T09:57:21+0000"
         }, 
         {
             "actions": [
@@ -688,7 +688,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8052
+                    "total_count": 8053
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7458
+                    "total_count": 7460
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -958,6 +958,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 255
+                }
+            }, 
+            "from": {
+                "category": "Artist", 
+                "id": "520835927950681", 
+                "name": "Undine"
+            }, 
+            "id": "867704779984689_872279629527204", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 5333
+                }
+            }, 
+            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
+            "updated_time": "2015-08-18T09:26:34+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869665269788640", 
                     "name": "Comment"
                 }, 
@@ -987,39 +1020,6 @@
             }, 
             "message": "來來來，嚇嚇你們， 張吉吟 - 泛舟哥 的數字超恐怖的（抖\n\n這比賽為期一個月，我想明天鬼門一開應該會更精彩。\nhttp://larrystanley.github.io/HorrorStory/\n\n感謝最不務正業的吳先生貼心。", 
             "updated_time": "2015-08-13T14:03:51+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 255
-                }
-            }, 
-            "from": {
-                "category": "Artist", 
-                "id": "520835927950681", 
-                "name": "Undine"
-            }, 
-            "id": "867704779984689_872279629527204", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 5305
-                }
-            }, 
-            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-18T09:26:34+0000"
         }, 
         {
             "actions": [
@@ -1706,7 +1706,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2240
+                    "total_count": 2241
                 }
             }, 
             "message": "電不是插插頭就有了嗎!?", 
@@ -1739,7 +1739,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2122
+                    "total_count": 2123
                 }
             }, 
             "message": "幫我設計一個東西很簡單....\n\n（通常聽到這句的人都會差點斷氣）", 
@@ -4480,6 +4480,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 34
+                }
+            }, 
+            "from": {
+                "category": "Public Figure", 
+                "id": "454545138015272", 
+                "name": "喔熊 OhBear"
+            }, 
+            "id": "867704779984689_871235662964934", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 407
+                }
+            }, 
+            "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
+            "updated_time": "2015-08-15T16:17:50+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870352823053218", 
                     "name": "Comment"
                 }, 
@@ -4508,39 +4541,6 @@
             }, 
             "message": "幹", 
             "updated_time": "2015-08-14T08:28:03+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871235662964934", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 34
-                }
-            }, 
-            "from": {
-                "category": "Public Figure", 
-                "id": "454545138015272", 
-                "name": "喔熊 OhBear"
-            }, 
-            "id": "867704779984689_871235662964934", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 406
-                }
-            }, 
-            "message": "可愛的小朋友看著我說：『爸爸你看，是熊本熊耶！』", 
-            "updated_time": "2015-08-15T16:17:50+0000"
         }, 
         {
             "actions": [
