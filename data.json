@@ -1,7 +1,7 @@
 {
-    "comment_count": 148528, 
-    "like_count": 1333098, 
-    "post_count": 76942, 
+    "comment_count": 148572, 
+    "like_count": 1333411, 
+    "post_count": 76957, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136703
+                    "total_count": 136704
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23648
+                    "total_count": 23649
                 }
             }, 
             "message": "數學老師說:", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18686
+                    "total_count": 18689
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -348,7 +348,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 839
+                    "total_count": 848
                 }
             }, 
             "from": {
@@ -360,11 +360,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 16942
+                    "total_count": 17056
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T09:57:21+0000"
+            "updated_time": "2015-08-18T10:27:57+0000"
         }, 
         {
             "actions": [
@@ -970,7 +970,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 255
+                    "total_count": 256
                 }
             }, 
             "from": {
@@ -982,11 +982,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5333
+                    "total_count": 5360
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-18T09:26:34+0000"
+            "updated_time": "2015-08-18T10:20:53+0000"
         }, 
         {
             "actions": [
@@ -2938,7 +2938,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 31
+                    "total_count": 32
                 }
             }, 
             "from": {
@@ -2949,7 +2949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 904
+                    "total_count": 905
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
