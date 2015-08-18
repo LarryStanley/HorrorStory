@@ -1,7 +1,7 @@
 {
-    "comment_count": 148098, 
-    "like_count": 1328593, 
-    "post_count": 76725, 
+    "comment_count": 148128, 
+    "like_count": 1329051, 
+    "post_count": 76740, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136691
+                    "total_count": 136693
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18644
+                    "total_count": 18646
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -402,6 +402,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 747
+                }
+            }, 
+            "from": {
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
+            }, 
+            "id": "867704779984689_872152966206537", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 15143
+                }
+            }, 
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-18T04:28:51+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868744653214035", 
                     "name": "Comment"
                 }, 
@@ -431,39 +464,6 @@
             }, 
             "message": "馬來貘發了一個周邊商品", 
             "updated_time": "2015-08-12T16:12:51+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 737
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 14909
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T03:58:51+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7411
+                    "total_count": 7416
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -850,7 +850,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6805
+                    "total_count": 6804
                 }
             }, 
             "message": "大學生的痛", 
@@ -991,6 +991,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 244
+                }
+            }, 
+            "from": {
+                "category": "Artist", 
+                "id": "520835927950681", 
+                "name": "Undine"
+            }, 
+            "id": "867704779984689_872279629527204", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 5015
+                }
+            }, 
+            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
+            "updated_time": "2015-08-18T04:22:00+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870443229710844", 
                     "name": "Comment"
                 }, 
@@ -1020,39 +1053,6 @@
             }, 
             "message": "你被召回惹 <3", 
             "updated_time": "2015-08-14T11:48:38+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 243
-                }
-            }, 
-            "from": {
-                "category": "Artist", 
-                "id": "520835927950681", 
-                "name": "Undine"
-            }, 
-            "id": "867704779984689_872279629527204", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 4974
-                }
-            }, 
-            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-18T03:48:12+0000"
         }, 
         {
             "actions": [
@@ -2134,7 +2134,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1600
+                    "total_count": 1601
                 }
             }, 
             "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
@@ -2364,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1237
+                    "total_count": 1238
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2950,7 +2950,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 901
+                    "total_count": 902
                 }
             }, 
             "message": "哥買 lativ 不是因為便宜，而是生活態度", 
@@ -3004,7 +3004,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 30
+                    "total_count": 31
                 }
             }, 
             "from": {
@@ -3015,7 +3015,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 861
+                    "total_count": 867
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -3796,7 +3796,7 @@
             "from": {
                 "category": "Writer", 
                 "id": "1582508545305684", 
-                "name": "Pink Cat 小儀"
+                "name": "Lazy Cat 小儀"
             }, 
             "id": "867704779984689_869611973127303", 
             "likes": {
