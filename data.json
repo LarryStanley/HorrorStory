@@ -1,7 +1,7 @@
 {
-    "comment_count": 148055, 
-    "like_count": 1328166, 
-    "post_count": 76707, 
+    "comment_count": 148098, 
+    "like_count": 1328593, 
+    "post_count": 76725, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136689
+                    "total_count": 136691
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23633
+                    "total_count": 23634
                 }
             }, 
             "message": "數學老師說:", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18634
+                    "total_count": 18644
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -447,7 +447,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 726
+                    "total_count": 737
                 }
             }, 
             "from": {
@@ -459,11 +459,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 14690
+                    "total_count": 14909
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T03:29:36+0000"
+            "updated_time": "2015-08-18T03:58:51+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7406
+                    "total_count": 7411
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1036,7 +1036,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 242
+                    "total_count": 243
                 }
             }, 
             "from": {
@@ -1048,11 +1048,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4948
+                    "total_count": 4974
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-18T03:27:51+0000"
+            "updated_time": "2015-08-18T03:48:12+0000"
         }, 
         {
             "actions": [
@@ -1508,7 +1508,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2875
+                    "total_count": 2876
                 }
             }, 
             "message": "本人\n在此\n宣布擔任\n洪秀柱\n的競選\n總幹事！", 
@@ -1607,7 +1607,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2335
+                    "total_count": 2336
                 }
             }, 
             "message": "如果再沒有人收養就要送去收容所了。", 
@@ -2364,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1236
+                    "total_count": 1237
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2992,6 +2992,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 30
+                }
+            }, 
+            "from": {
+                "id": "665967666881218", 
+                "name": "葉宗樺"
+            }, 
+            "id": "867704779984689_872340599521107", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 861
+                }
+            }, 
+            "message": "[鳳中系列] 欸你今天生日喔?", 
+            "updated_time": "2015-08-17T16:27:47+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/871584386263395", 
                     "name": "Comment"
                 }, 
@@ -3054,38 +3086,6 @@
             }, 
             "message": "推廣A片快四年了卻沒有一個人傳洪秀柱的A圖給我", 
             "updated_time": "2015-08-14T08:07:52+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 29
-                }
-            }, 
-            "from": {
-                "id": "665967666881218", 
-                "name": "葉宗樺"
-            }, 
-            "id": "867704779984689_872340599521107", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 854
-                }
-            }, 
-            "message": "[鳳中系列] 欸你今天生日喔?", 
-            "updated_time": "2015-08-17T16:27:47+0000"
         }, 
         {
             "actions": [
@@ -5390,6 +5390,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 13
+                }
+            }, 
+            "from": {
+                "category": "Website", 
+                "id": "175072939201834", 
+                "name": "傑米鹿的音樂與行銷"
+            }, 
+            "id": "867704779984689_871935669561600", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 311
+                }
+            }, 
+            "message": "當發片歌手強調他很努力的時候。", 
+            "updated_time": "2015-08-17T00:08:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869504339804733", 
                     "name": "Comment"
                 }, 
@@ -5451,39 +5484,6 @@
             }, 
             "message": "同學，可以借我們幾分鐘的時間嗎就一下下就好我真的不是壞人我也是學生喔就是阿可以拜託你幫我們系上設計的造型筆袋加油打氣嗎十塊錢也可以喔看在都是學生的面子上幫助我們剛剛有同學看到我們這麼辛苦馬上捐了一千塊希望你們能夠和他一樣這麼有愛心喔喔這位同學你看著我真誠的雙眼請幫幫我們嘛", 
             "updated_time": "2015-08-11T16:25:54+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/871935669561600", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 13
-                }
-            }, 
-            "from": {
-                "category": "Website", 
-                "id": "175072939201834", 
-                "name": "傑米鹿的音樂與行銷"
-            }, 
-            "id": "867704779984689_871935669561600", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 309
-                }
-            }, 
-            "message": "當發片歌手強調他很努力的時候。", 
-            "updated_time": "2015-08-17T00:08:15+0000"
         }, 
         {
             "actions": [
