@@ -1,7 +1,7 @@
 {
-    "comment_count": 148963, 
-    "like_count": 1338138, 
-    "post_count": 77170, 
+    "comment_count": 148987, 
+    "like_count": 1338410, 
+    "post_count": 77182, 
     "posts": [
         {
             "actions": [
@@ -162,7 +162,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21320
+                    "total_count": 21321
                 }
             }, 
             "message": "如此簡短的恐怖故事。\n\n鬼門明天就要開了！快來比賽吧！不斷氣都算一句話！\n\n獻給所有辛苦的店員＆ 大陰盜百貨 。", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18708
+                    "total_count": 18709
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -315,7 +315,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 925
+                    "total_count": 927
                 }
             }, 
             "from": {
@@ -327,11 +327,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18472
+                    "total_count": 18539
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T16:14:13+0000"
+            "updated_time": "2015-08-18T16:44:38+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7477
+                    "total_count": 7482
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -970,7 +970,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 265
+                    "total_count": 266
                 }
             }, 
             "from": {
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5570
+                    "total_count": 5582
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1706,7 +1706,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2241
+                    "total_count": 2242
                 }
             }, 
             "message": "電不是插插頭就有了嗎!?", 
@@ -2143,6 +2143,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 12
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_872990056122828", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1543
+                }
+            }, 
+            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
+            "updated_time": "2015-08-18T16:27:03+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869716463116854", 
                     "name": "Comment"
                 }, 
@@ -2232,7 +2265,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1476
+                    "total_count": 1477
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2270,39 +2303,6 @@
             }, 
             "message": "假⋯假牙⋯吞下去了!", 
             "updated_time": "2015-08-14T05:56:09+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 12
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_872990056122828", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1441
-                }
-            }, 
-            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
-            "updated_time": "2015-08-18T16:27:03+0000"
         }, 
         {
             "actions": [
