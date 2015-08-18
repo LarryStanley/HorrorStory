@@ -1,7 +1,7 @@
 {
-    "comment_count": 148961, 
-    "like_count": 1338909, 
-    "post_count": 77205, 
+    "comment_count": 148959, 
+    "like_count": 1338965, 
+    "post_count": 77207, 
     "posts": [
         {
             "actions": [
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18711
+                    "total_count": 18712
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -315,7 +315,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 930
+                    "total_count": 932
                 }
             }, 
             "from": {
@@ -327,11 +327,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18639
+                    "total_count": 18665
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T18:08:09+0000"
+            "updated_time": "2015-08-18T18:39:34+0000"
         }, 
         {
             "actions": [
@@ -459,7 +459,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 14942
+                    "total_count": 14944
                 }
             }, 
             "message": "馬來貘發了一個周邊商品", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7492
+                    "total_count": 7495
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5591
+                    "total_count": 5592
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1913,6 +1913,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 14
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_872990056122828", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1715
+                }
+            }, 
+            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
+            "updated_time": "2015-08-18T17:38:59+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868501156571718", 
                     "name": "Comment"
                 }, 
@@ -1974,39 +2007,6 @@
             }, 
             "message": "明天開工.....................", 
             "updated_time": "2015-08-11T14:49:39+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 14
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_872990056122828", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1693
-                }
-            }, 
-            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
-            "updated_time": "2015-08-18T17:38:59+0000"
         }, 
         {
             "actions": [
