@@ -1,7 +1,7 @@
 {
-    "comment_count": 148983, 
-    "like_count": 1339222, 
-    "post_count": 77224, 
+    "comment_count": 148989, 
+    "like_count": 1339374, 
+    "post_count": 77228, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136718
+                    "total_count": 136719
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29147
+                    "total_count": 29145
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -228,7 +228,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19273
+                    "total_count": 19274
                 }
             }, 
             "message": "靠腰...。", 
@@ -282,7 +282,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 944
+                    "total_count": 946
                 }
             }, 
             "from": {
@@ -294,11 +294,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18772
+                    "total_count": 18789
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T22:26:42+0000"
+            "updated_time": "2015-08-18T22:56:04+0000"
         }, 
         {
             "actions": [
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5611
+                    "total_count": 5622
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1814,6 +1814,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 14
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_872990056122828", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1882
+                }
+            }, 
+            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
+            "updated_time": "2015-08-18T17:38:59+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868605893227911", 
                     "name": "Comment"
                 }, 
@@ -1843,39 +1876,6 @@
             }, 
             "message": "媽媽 冰箱裡面怎麼有阿姨?", 
             "updated_time": "2015-08-12T13:41:24+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 14
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_872990056122828", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1828
-                }
-            }, 
-            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
-            "updated_time": "2015-08-18T17:38:59+0000"
         }, 
         {
             "actions": [
@@ -2688,7 +2688,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1098
+                    "total_count": 1097
                 }
             }, 
             "message": "妹妹背的是安娜BEAR", 
@@ -4765,7 +4765,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 383
+                    "total_count": 384
                 }
             }, 
             "message": "五月天宣佈解散", 
