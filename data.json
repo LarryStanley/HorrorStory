@@ -1,7 +1,7 @@
 {
-    "comment_count": 148572, 
-    "like_count": 1333411, 
-    "post_count": 76957, 
+    "comment_count": 148584, 
+    "like_count": 1333694, 
+    "post_count": 76981, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136704
+                    "total_count": 136705
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -261,7 +261,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19216
+                    "total_count": 19217
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -294,11 +294,44 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18689
+                    "total_count": 18691
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
             "updated_time": "2015-08-17T04:53:45+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 852
+                }
+            }, 
+            "from": {
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
+            }, 
+            "id": "867704779984689_872152966206537", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 17192
+                }
+            }, 
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-18T10:59:09+0000"
         }, 
         {
             "actions": [
@@ -332,39 +365,6 @@
             }, 
             "message": "情人節快到了", 
             "updated_time": "2015-08-13T02:49:15+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 848
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 17056
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T10:27:57+0000"
         }, 
         {
             "actions": [
@@ -688,7 +688,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8053
+                    "total_count": 8054
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7460
+                    "total_count": 7462
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -805,7 +805,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 882
+                    "total_count": 881
                 }
             }, 
             "from": {
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5360
+                    "total_count": 5377
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -2331,7 +2331,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1239
+                    "total_count": 1240
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2894,6 +2894,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 32
+                }
+            }, 
+            "from": {
+                "id": "665967666881218", 
+                "name": "葉宗樺"
+            }, 
+            "id": "867704779984689_872340599521107", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 910
+                }
+            }, 
+            "message": "[鳳中系列] 欸你今天生日喔?", 
+            "updated_time": "2015-08-17T16:27:47+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870094266412407", 
                     "name": "Comment"
                 }, 
@@ -2922,38 +2954,6 @@
             }, 
             "message": "想認識多點朋友❤️", 
             "updated_time": "2015-08-14T01:39:59+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 32
-                }
-            }, 
-            "from": {
-                "id": "665967666881218", 
-                "name": "葉宗樺"
-            }, 
-            "id": "867704779984689_872340599521107", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 905
-                }
-            }, 
-            "message": "[鳳中系列] 欸你今天生日喔?", 
-            "updated_time": "2015-08-17T16:27:47+0000"
         }, 
         {
             "actions": [
