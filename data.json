@@ -1,7 +1,7 @@
 {
-    "comment_count": 148950, 
-    "like_count": 1338883, 
-    "post_count": 77208, 
+    "comment_count": 148970, 
+    "like_count": 1339103, 
+    "post_count": 77216, 
     "posts": [
         {
             "actions": [
@@ -270,6 +270,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 935
+                }
+            }, 
+            "from": {
+                "category": "Politician", 
+                "id": "1614471532167892", 
+                "name": "馬英九"
+            }, 
+            "id": "867704779984689_872152966206537", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 18712
+                }
+            }, 
+            "message": "我決定廢除明年總統大選, 由我繼續連任", 
+            "updated_time": "2015-08-18T19:58:11+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/871866732901827", 
                     "name": "Comment"
                 }, 
@@ -299,39 +332,6 @@
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
             "updated_time": "2015-08-17T04:53:45+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872152966206537", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 934
-                }
-            }, 
-            "from": {
-                "category": "Politician", 
-                "id": "1614471532167892", 
-                "name": "馬英九"
-            }, 
-            "id": "867704779984689_872152966206537", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 18699
-                }
-            }, 
-            "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T19:28:46+0000"
         }, 
         {
             "actions": [
@@ -591,7 +591,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10608
+                    "total_count": 10609
                 }
             }, 
             "message": "準備關版大家再見。", 
@@ -1113,7 +1113,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4512
+                    "total_count": 4511
                 }
             }, 
             "message": "所以叔叔，你跟我們是住同一家飯店囉？", 
@@ -1508,7 +1508,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2877
+                    "total_count": 2876
                 }
             }, 
             "message": "本人\n在此\n宣布擔任\n洪秀柱\n的競選\n總幹事！", 
@@ -1937,7 +1937,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1730
+                    "total_count": 1744
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
