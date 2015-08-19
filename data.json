@@ -1,7 +1,7 @@
 {
-    "comment_count": 150495, 
-    "like_count": 1354961, 
-    "post_count": 77977, 
+    "comment_count": 150506, 
+    "like_count": 1355110, 
+    "post_count": 77985, 
     "posts": [
         {
             "actions": [
@@ -150,7 +150,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1072
+                    "total_count": 1073
                 }
             }, 
             "from": {
@@ -162,11 +162,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21326
+                    "total_count": 21330
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T19:30:11+0000"
+            "updated_time": "2015-08-19T21:31:53+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7584
+                    "total_count": 7586
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -2503,6 +2503,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 31
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1157
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-19T20:42:48+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870313733057127", 
                     "name": "Comment"
                 }, 
@@ -2564,39 +2597,6 @@
             }, 
             "message": "挖系林老木", 
             "updated_time": "2015-08-13T15:50:06+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 31
-                }
-            }, 
-            "from": {
-                "category": "Just For Fun", 
-                "id": "406156242829341", 
-                "name": "JieJie & UncleCat"
-            }, 
-            "id": "867704779984689_873582406063593", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1139
-                }
-            }, 
-            "message": "啊你什麼時候要結婚？", 
-            "updated_time": "2015-08-19T20:42:48+0000"
         }, 
         {
             "actions": [
@@ -3320,6 +3320,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 21
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_873576966064137", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 699
+                }
+            }, 
+            "message": "親愛的，情人節快樂= )", 
+            "updated_time": "2015-08-19T20:58:40+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869088269846340", 
                     "name": "Comment"
                 }, 
@@ -3348,39 +3381,6 @@
             }, 
             "message": "[雄中系列3]\n這次公民是我出", 
             "updated_time": "2015-08-13T02:39:51+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 21
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "1406789389615945", 
-                "name": "我是小生"
-            }, 
-            "id": "867704779984689_873576966064137", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 687
-                }
-            }, 
-            "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-19T20:58:40+0000"
         }, 
         {
             "actions": [
