@@ -1,7 +1,7 @@
 {
-    "comment_count": 149720, 
-    "like_count": 1347480, 
-    "post_count": 77583, 
+    "comment_count": 149809, 
+    "like_count": 1347962, 
+    "post_count": 77598, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136754
+                    "total_count": 136755
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1041
+                    "total_count": 1043
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20450
+                    "total_count": 20502
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T11:57:26+0000"
+            "updated_time": "2015-08-19T12:23:43+0000"
         }, 
         {
             "actions": [
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19222
+                    "total_count": 19221
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -327,7 +327,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18718
+                    "total_count": 18721
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5670
+                    "total_count": 5671
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1442,7 +1442,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3523
+                    "total_count": 3553
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 934
+                    "total_count": 935
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
