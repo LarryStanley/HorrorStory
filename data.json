@@ -1,7 +1,7 @@
 {
-    "comment_count": 148997, 
-    "like_count": 1339614, 
-    "post_count": 77237, 
+    "comment_count": 149005, 
+    "like_count": 1339878, 
+    "post_count": 77244, 
     "posts": [
         {
             "actions": [
@@ -282,7 +282,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 947
+                    "total_count": 949
                 }
             }, 
             "from": {
@@ -294,11 +294,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18812
+                    "total_count": 18843
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T23:25:54+0000"
+            "updated_time": "2015-08-18T23:50:49+0000"
         }, 
         {
             "actions": [
@@ -784,7 +784,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7221
+                    "total_count": 7222
                 }
             }, 
             "message": "不能輸", 
@@ -850,7 +850,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6805
+                    "total_count": 6806
                 }
             }, 
             "message": "大學生的痛", 
@@ -925,6 +925,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 268
+                }
+            }, 
+            "from": {
+                "category": "Artist", 
+                "id": "520835927950681", 
+                "name": "Undine"
+            }, 
+            "id": "867704779984689_872279629527204", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 5650
+                }
+            }, 
+            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
+            "updated_time": "2015-08-18T13:37:13+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868049006616933", 
                     "name": "Comment"
                 }, 
@@ -954,39 +987,6 @@
             }, 
             "message": "這樣該看醫生嗎？", 
             "updated_time": "2015-08-12T05:25:31+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872279629527204", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 268
-                }
-            }, 
-            "from": {
-                "category": "Artist", 
-                "id": "520835927950681", 
-                "name": "Undine"
-            }, 
-            "id": "867704779984689_872279629527204", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 5635
-                }
-            }, 
-            "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
-            "updated_time": "2015-08-18T13:37:13+0000"
         }, 
         {
             "actions": [
@@ -1442,7 +1442,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3410
+                    "total_count": 3411
                 }
             }, 
             "message": "何止恐怖 根本惡夢一場", 
@@ -1772,7 +1772,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1968
+                    "total_count": 2055
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
