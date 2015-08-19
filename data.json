@@ -1,7 +1,7 @@
 {
-    "comment_count": 149685, 
-    "like_count": 1347129, 
-    "post_count": 77567, 
+    "comment_count": 149720, 
+    "like_count": 1347480, 
+    "post_count": 77583, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136751
+                    "total_count": 136754
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1037
+                    "total_count": 1041
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20394
+                    "total_count": 20450
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T11:14:47+0000"
+            "updated_time": "2015-08-19T11:57:26+0000"
         }, 
         {
             "actions": [
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7738
+                    "total_count": 7739
                 }
             }, 
             "message": "朋友A", 
@@ -937,7 +937,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 270
+                    "total_count": 271
                 }
             }, 
             "from": {
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5668
+                    "total_count": 5670
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1442,7 +1442,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3491
+                    "total_count": 3523
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2364,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1251
+                    "total_count": 1252
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2852,7 +2852,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 995
+                    "total_count": 996
                 }
             }, 
             "message": "羅志祥：如果還有人再說的話！不要逼我用以前我在基隆生活的方式對他！", 
