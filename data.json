@@ -1,7 +1,7 @@
 {
-    "comment_count": 150265, 
-    "like_count": 1351562, 
-    "post_count": 77835, 
+    "comment_count": 150315, 
+    "like_count": 1352511, 
+    "post_count": 77869, 
     "posts": [
         {
             "actions": [
@@ -162,7 +162,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21323
+                    "total_count": 21324
                 }
             }, 
             "message": "如此簡短的恐怖故事。\n\n鬼門明天就要開了！快來比賽吧！不斷氣都算一句話！\n\n獻給所有辛苦的店員＆ 大陰盜百貨 。", 
@@ -183,7 +183,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1061
+                    "total_count": 1062
                 }
             }, 
             "from": {
@@ -195,11 +195,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20974
+                    "total_count": 21036
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T16:04:53+0000"
+            "updated_time": "2015-08-19T16:51:10+0000"
         }, 
         {
             "actions": [
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 11326
+                    "total_count": 11327
                 }
             }, 
             "message": "感謝老溫幫我繪製~\n\n我也補上奧太太的版本\n\n一種溫蒂妮的感覺", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7522
+                    "total_count": 7538
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -805,7 +805,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 882
+                    "total_count": 883
                 }
             }, 
             "from": {
@@ -1113,7 +1113,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4511
+                    "total_count": 4513
                 }
             }, 
             "message": "所以叔叔，你跟我們是住同一家飯店囉？", 
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3721
+                    "total_count": 3724
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -1904,7 +1904,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1792
+                    "total_count": 1793
                 }
             }, 
             "message": "情人節要到了，沒有鋁硼銪。", 
@@ -4904,6 +4904,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 17
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 367
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-19T16:59:43+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869865256435308", 
                     "name": "Comment"
                 }, 
@@ -5845,6 +5878,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 7
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_873576966064137", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 280
+                }
+            }, 
+            "message": "親愛的，情人節快樂= )", 
+            "updated_time": "2015-08-19T17:00:30+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869738489781318", 
                     "name": "Comment"
                 }, 
@@ -6484,70 +6550,6 @@
             }, 
             "message": "店員：我們這裡沒有插座歐", 
             "updated_time": "2015-08-12T10:22:38+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868117873276713", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868117873276713", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 12
-                }
-            }, 
-            "from": {
-                "id": "10204052268061951", 
-                "name": "李柏璋"
-            }, 
-            "id": "867704779984689_868117873276713", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 238
-                }
-            }, 
-            "message": "中華民國要滅亡了。", 
-            "updated_time": "2015-08-12T06:17:34+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869433656478468", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869433656478468", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 9
-                }
-            }, 
-            "from": {
-                "id": "1217021644990896", 
-                "name": "陳韻琤"
-            }, 
-            "id": "867704779984689_869433656478468", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 237
-                }
-            }, 
-            "message": "快要開學了", 
-            "updated_time": "2015-08-13T09:41:26+0000"
         }
     ]
 }
