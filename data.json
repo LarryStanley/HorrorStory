@@ -1,7 +1,7 @@
 {
-    "comment_count": 149581, 
-    "like_count": 1346400, 
-    "post_count": 77531, 
+    "comment_count": 149642, 
+    "like_count": 1346826, 
+    "post_count": 77555, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136746
+                    "total_count": 136747
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20963
+                    "total_count": 20962
                 }
             }, 
             "message": "圓仔懷孕了", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1032
+                    "total_count": 1034
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20272
+                    "total_count": 20343
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T10:28:07+0000"
+            "updated_time": "2015-08-19T10:57:26+0000"
         }, 
         {
             "actions": [
@@ -1442,7 +1442,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3427
+                    "total_count": 3460
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2233,7 +2233,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1516
+                    "total_count": 1518
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -2298,7 +2298,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1471
+                    "total_count": 1472
                 }
             }, 
             "message": "假⋯假牙⋯吞下去了!", 
