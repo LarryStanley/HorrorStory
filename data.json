@@ -1,7 +1,7 @@
 {
-    "comment_count": 149500, 
-    "like_count": 1345775, 
-    "post_count": 77505, 
+    "comment_count": 149539, 
+    "like_count": 1346082, 
+    "post_count": 77518, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136745
+                    "total_count": 136746
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23662
+                    "total_count": 23664
                 }
             }, 
             "message": "數學老師說:", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1021
+                    "total_count": 1025
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20107
+                    "total_count": 20187
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T09:06:54+0000"
+            "updated_time": "2015-08-19T09:52:53+0000"
         }, 
         {
             "actions": [
@@ -327,7 +327,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18717
+                    "total_count": 18718
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7736
+                    "total_count": 7737
                 }
             }, 
             "message": "朋友A", 
@@ -1475,7 +1475,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3351
+                    "total_count": 3381
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2101,7 +2101,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1625
+                    "total_count": 1626
                 }
             }, 
             "message": "我喜歡你。", 
@@ -2233,7 +2233,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1515
+                    "total_count": 1516
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -2429,7 +2429,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1217
+                    "total_count": 1218
                 }
             }, 
             "message": "當女友說這兩個字的時候", 
