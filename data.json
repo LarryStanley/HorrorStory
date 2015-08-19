@@ -1,7 +1,7 @@
 {
-    "comment_count": 149269, 
-    "like_count": 1343848, 
-    "post_count": 77409, 
+    "comment_count": 149298, 
+    "like_count": 1344153, 
+    "post_count": 77426, 
     "posts": [
         {
             "actions": [
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20960
+                    "total_count": 20962
                 }
             }, 
             "message": "圓仔懷孕了", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 987
+                    "total_count": 993
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19624
+                    "total_count": 19687
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T06:28:53+0000"
+            "updated_time": "2015-08-19T06:58:59+0000"
         }, 
         {
             "actions": [
@@ -459,7 +459,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 14945
+                    "total_count": 14946
                 }
             }, 
             "message": "馬來貘發了一個周邊商品", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7507
+                    "total_count": 7508
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1475,7 +1475,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3083
+                    "total_count": 3138
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -1838,7 +1838,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1907
+                    "total_count": 1908
                 }
             }, 
             "message": "大頭照畫個熊頭 就當自己是設計師", 
@@ -2233,7 +2233,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1514
+                    "total_count": 1515
                 }
             }, 
             "message": "溫蒂妮是男的。", 
