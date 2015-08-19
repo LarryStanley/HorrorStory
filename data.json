@@ -1,7 +1,7 @@
 {
-    "comment_count": 150134, 
-    "like_count": 1350649, 
-    "post_count": 77761, 
+    "comment_count": 150212, 
+    "like_count": 1351113, 
+    "post_count": 77799, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136784
+                    "total_count": 136788
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23672
+                    "total_count": 23673
                 }
             }, 
             "message": "數學老師說:", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1052
+                    "total_count": 1059
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20801
+                    "total_count": 20891
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T15:21:02+0000"
+            "updated_time": "2015-08-19T15:55:34+0000"
         }, 
         {
             "actions": [
@@ -720,7 +720,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7740
+                    "total_count": 7741
                 }
             }, 
             "message": "朋友A", 
@@ -817,7 +817,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7136
+                    "total_count": 7137
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3696
+                    "total_count": 3711
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -4438,7 +4438,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 414
+                    "total_count": 416
                 }
             }, 
             "message": "我姓焦", 
@@ -5468,7 +5468,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 15
+                    "total_count": 16
                 }
             }, 
             "from": {
