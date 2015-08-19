@@ -1,7 +1,7 @@
 {
-    "comment_count": 149063, 
-    "like_count": 1340770, 
-    "post_count": 77263, 
+    "comment_count": 149092, 
+    "like_count": 1341174, 
+    "post_count": 77271, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136721
+                    "total_count": 136723
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -96,7 +96,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 26974
+                    "total_count": 26977
                 }
             }, 
             "message": "存摺簿打開剩一元", 
@@ -282,7 +282,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 955
+                    "total_count": 959
                 }
             }, 
             "from": {
@@ -294,11 +294,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19003
+                    "total_count": 19062
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T01:10:20+0000"
+            "updated_time": "2015-08-19T01:49:13+0000"
         }, 
         {
             "actions": [
@@ -1048,7 +1048,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4976
+                    "total_count": 4977
                 }
             }, 
             "message": "你被召回惹 <3", 
@@ -1475,7 +1475,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2958
+                    "total_count": 2959
                 }
             }, 
             "message": "蛋哥……", 
@@ -1583,6 +1583,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 14
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_872990056122828", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 2418
+                }
+            }, 
+            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
+            "updated_time": "2015-08-18T17:38:59+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869619983126502", 
                     "name": "Comment"
                 }, 
@@ -1612,39 +1645,6 @@
             }, 
             "message": "如果再沒有人收養就要送去收容所了。", 
             "updated_time": "2015-08-13T12:57:20+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 14
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_872990056122828", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2329
-                }
-            }, 
-            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
-            "updated_time": "2015-08-18T17:38:59+0000"
         }, 
         {
             "actions": [
@@ -1805,7 +1805,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1914
+                    "total_count": 1915
                 }
             }, 
             "message": "歐噴了！", 
@@ -2233,7 +2233,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1512
+                    "total_count": 1513
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -2364,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1246
+                    "total_count": 1247
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 927
+                    "total_count": 928
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -3670,7 +3670,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 590
+                    "total_count": 591
                 }
             }, 
             "message": "你有性功能障礙...", 
@@ -4438,7 +4438,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 412
+                    "total_count": 413
                 }
             }, 
             "message": "我姓焦", 
