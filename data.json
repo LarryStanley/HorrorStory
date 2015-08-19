@@ -1,7 +1,7 @@
 {
-    "comment_count": 150081, 
-    "like_count": 1350215, 
-    "post_count": 77733, 
+    "comment_count": 150134, 
+    "like_count": 1350649, 
+    "post_count": 77761, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136781
+                    "total_count": 136784
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1047
+                    "total_count": 1052
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20721
+                    "total_count": 20801
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T14:14:44+0000"
+            "updated_time": "2015-08-19T15:21:02+0000"
         }, 
         {
             "actions": [
@@ -850,7 +850,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 6806
+                    "total_count": 6807
                 }
             }, 
             "message": "大學生的痛", 
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5639
+                    "total_count": 5640
                 }
             }, 
             "message": "這樣該看醫生嗎？", 
@@ -1287,6 +1287,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 15
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_872990056122828", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 3696
+                }
+            }, 
+            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
+            "updated_time": "2015-08-18T17:38:59+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868531406568693", 
                     "name": "Comment"
                 }, 
@@ -1316,39 +1349,6 @@
             }, 
             "message": "馬總統：「我的任期還有一年，能做的事還有很多」\n\nhttps://goo.gl/4xLKqQ", 
             "updated_time": "2015-08-12T12:54:54+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 15
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_872990056122828", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3680
-                }
-            }, 
-            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
-            "updated_time": "2015-08-18T17:38:59+0000"
         }, 
         {
             "actions": [
@@ -2134,7 +2134,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1602
+                    "total_count": 1603
                 }
             }, 
             "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
@@ -4438,7 +4438,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 413
+                    "total_count": 414
                 }
             }, 
             "message": "我姓焦", 
@@ -5468,7 +5468,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 13
+                    "total_count": 15
                 }
             }, 
             "from": {
@@ -5480,7 +5480,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 310
+                    "total_count": 311
                 }
             }, 
             "message": "啊，手銬鑰匙不見了！", 
