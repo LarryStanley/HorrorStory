@@ -1,7 +1,7 @@
 {
-    "comment_count": 149298, 
-    "like_count": 1344153, 
-    "post_count": 77426, 
+    "comment_count": 149344, 
+    "like_count": 1344497, 
+    "post_count": 77442, 
     "posts": [
         {
             "actions": [
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20962
+                    "total_count": 20963
                 }
             }, 
             "message": "圓仔懷孕了", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 993
+                    "total_count": 1008
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19687
+                    "total_count": 19786
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T06:58:59+0000"
+            "updated_time": "2015-08-19T07:25:06+0000"
         }, 
         {
             "actions": [
@@ -558,7 +558,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 10840
+                    "total_count": 10841
                 }
             }, 
             "message": "上了大學後發現再也無法從這個角度看到自己的GG", 
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3679
+                    "total_count": 3680
                 }
             }, 
             "message": "馬總統：「我的任期還有一年，能做的事還有很多」\n\nhttps://goo.gl/4xLKqQ", 
@@ -1475,7 +1475,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3138
+                    "total_count": 3176
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2110,6 +2110,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/869878276434006", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/869878276434006", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 60
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_869878276434006", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1602
+                }
+            }, 
+            "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
+            "updated_time": "2015-08-13T17:06:29+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869488239806343", 
                     "name": "Comment"
                 }, 
@@ -2139,39 +2172,6 @@
             }, 
             "message": "有wifi！！！！YEAH！！！　但手機沒電...", 
             "updated_time": "2015-08-13T10:16:31+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869878276434006", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869878276434006", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 60
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "1406789389615945", 
-                "name": "我是小生"
-            }, 
-            "id": "867704779984689_869878276434006", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1601
-                }
-            }, 
-            "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
-            "updated_time": "2015-08-13T17:06:29+0000"
         }, 
         {
             "actions": [
