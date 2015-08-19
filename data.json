@@ -1,7 +1,7 @@
 {
-    "comment_count": 149017, 
-    "like_count": 1340146, 
-    "post_count": 77248, 
+    "comment_count": 149039, 
+    "like_count": 1340437, 
+    "post_count": 77253, 
     "posts": [
         {
             "actions": [
@@ -261,7 +261,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19220
+                    "total_count": 19221
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -282,7 +282,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 949
+                    "total_count": 952
                 }
             }, 
             "from": {
@@ -294,11 +294,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18894
+                    "total_count": 18953
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-18T23:50:49+0000"
+            "updated_time": "2015-08-19T00:48:23+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7495
+                    "total_count": 7496
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5654
+                    "total_count": 5655
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -982,7 +982,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5638
+                    "total_count": 5639
                 }
             }, 
             "message": "這樣該看醫生嗎？", 
@@ -1682,6 +1682,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 14
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_872990056122828", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 2247
+                }
+            }, 
+            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
+            "updated_time": "2015-08-18T17:38:59+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869763476445486", 
                     "name": "Comment"
                 }, 
@@ -1711,39 +1744,6 @@
             }, 
             "message": "電不是插插頭就有了嗎!?", 
             "updated_time": "2015-08-13T15:06:03+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 14
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_872990056122828", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2156
-                }
-            }, 
-            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
-            "updated_time": "2015-08-18T17:38:59+0000"
         }, 
         {
             "actions": [
@@ -2233,7 +2233,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1510
+                    "total_count": 1512
                 }
             }, 
             "message": "溫蒂妮是男的。", 
