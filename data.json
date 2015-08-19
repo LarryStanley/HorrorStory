@@ -1,7 +1,7 @@
 {
-    "comment_count": 149344, 
-    "like_count": 1344497, 
-    "post_count": 77442, 
+    "comment_count": 149389, 
+    "like_count": 1344824, 
+    "post_count": 77450, 
     "posts": [
         {
             "actions": [
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1008
+                    "total_count": 1016
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19786
+                    "total_count": 19883
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T07:25:06+0000"
+            "updated_time": "2015-08-19T07:56:17+0000"
         }, 
         {
             "actions": [
@@ -1475,7 +1475,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3176
+                    "total_count": 3212
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
