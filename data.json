@@ -1,7 +1,7 @@
 {
-    "comment_count": 150469, 
-    "like_count": 1354569, 
-    "post_count": 77953, 
+    "comment_count": 150489, 
+    "like_count": 1354791, 
+    "post_count": 77968, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136797
+                    "total_count": 136798
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21264
+                    "total_count": 21297
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7576
+                    "total_count": 7579
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3744
+                    "total_count": 3747
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2265,7 +2265,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1479
+                    "total_count": 1480
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2721,7 +2721,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1068
+                    "total_count": 1091
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -3450,6 +3450,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 20
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_873576966064137", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 656
+                }
+            }, 
+            "message": "親愛的，情人節快樂= )", 
+            "updated_time": "2015-08-19T18:59:16+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868791886542645", 
                     "name": "Comment"
                 }, 
@@ -3479,39 +3512,6 @@
             }, 
             "message": "我們明天改版", 
             "updated_time": "2015-08-12T17:04:02+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 20
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "1406789389615945", 
-                "name": "我是小生"
-            }, 
-            "id": "867704779984689_873576966064137", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 641
-                }
-            }, 
-            "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-19T18:59:16+0000"
         }, 
         {
             "actions": [
