@@ -1,7 +1,7 @@
 {
-    "comment_count": 149092, 
-    "like_count": 1341174, 
-    "post_count": 77271, 
+    "comment_count": 149117, 
+    "like_count": 1341441, 
+    "post_count": 77279, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136723
+                    "total_count": 136726
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -282,7 +282,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 959
+                    "total_count": 961
                 }
             }, 
             "from": {
@@ -294,11 +294,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19062
+                    "total_count": 19114
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T01:49:13+0000"
+            "updated_time": "2015-08-19T02:09:19+0000"
         }, 
         {
             "actions": [
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 11325
+                    "total_count": 11326
                 }
             }, 
             "message": "感謝老溫幫我繪製~\n\n我也補上奧太太的版本\n\n一種溫蒂妮的感覺", 
@@ -937,7 +937,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 268
+                    "total_count": 269
                 }
             }, 
             "from": {
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5657
+                    "total_count": 5658
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1550,6 +1550,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 14
+                }
+            }, 
+            "from": {
+                "category": "Writer", 
+                "id": "889700194376809", 
+                "name": "三隻熊Mr.D"
+            }, 
+            "id": "867704779984689_872990056122828", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 2504
+                }
+            }, 
+            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
+            "updated_time": "2015-08-18T17:38:59+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870471843041316", 
                     "name": "Comment"
                 }, 
@@ -1579,39 +1612,6 @@
             }, 
             "message": "我從來不靠爸", 
             "updated_time": "2015-08-14T12:00:07+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/872990056122828", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 14
-                }
-            }, 
-            "from": {
-                "category": "Writer", 
-                "id": "889700194376809", 
-                "name": "三隻熊Mr.D"
-            }, 
-            "id": "867704779984689_872990056122828", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2418
-                }
-            }, 
-            "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
-            "updated_time": "2015-08-18T17:38:59+0000"
         }, 
         {
             "actions": [
@@ -2873,7 +2873,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 34
+                    "total_count": 35
                 }
             }, 
             "from": {
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 928
+                    "total_count": 930
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -6029,7 +6029,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 268
+                    "total_count": 269
                 }
             }, 
             "message": "我借了好朋友的ipad去男友家，她的ipad wifi自動連上了。", 
