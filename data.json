@@ -1,7 +1,7 @@
 {
-    "comment_count": 150367, 
-    "like_count": 1353256, 
-    "post_count": 77890, 
+    "comment_count": 150405, 
+    "like_count": 1353846, 
+    "post_count": 77915, 
     "posts": [
         {
             "actions": [
@@ -18,7 +18,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 13487
+                    "total_count": 13485
                 }
             }, 
             "from": {
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23673
+                    "total_count": 23674
                 }
             }, 
             "message": "數學老師說:", 
@@ -183,7 +183,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1064
+                    "total_count": 1067
                 }
             }, 
             "from": {
@@ -195,11 +195,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21119
+                    "total_count": 21180
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T17:19:51+0000"
+            "updated_time": "2015-08-19T17:48:28+0000"
         }, 
         {
             "actions": [
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19221
+                    "total_count": 19222
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -426,7 +426,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15357
+                    "total_count": 15358
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -525,7 +525,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 11327
+                    "total_count": 11328
                 }
             }, 
             "message": "感謝老溫幫我繪製~\n\n我也補上奧太太的版本\n\n一種溫蒂妮的感覺", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7550
+                    "total_count": 7561
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -817,7 +817,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7137
+                    "total_count": 7138
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5675
+                    "total_count": 5676
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3730
+                    "total_count": 3737
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2352,7 +2352,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 123
+                    "total_count": 124
                 }
             }, 
             "from": {
@@ -2364,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1253
+                    "total_count": 1254
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -3024,6 +3024,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 30
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 900
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-19T17:51:32+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/871238756297958", 
                     "name": "Comment"
                 }, 
@@ -3283,39 +3316,6 @@
             }, 
             "message": "哈嘍大家好 我是劉梓晨Vincent蛇精男 啊", 
             "updated_time": "2015-08-13T18:59:43+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 27
-                }
-            }, 
-            "from": {
-                "category": "Just For Fun", 
-                "id": "406156242829341", 
-                "name": "JieJie & UncleCat"
-            }, 
-            "id": "867704779984689_873582406063593", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 716
-                }
-            }, 
-            "message": "啊你什麼時候要結婚？", 
-            "updated_time": "2015-08-19T17:25:32+0000"
         }, 
         {
             "actions": [
@@ -4080,6 +4080,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 14
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_873576966064137", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 533
+                }
+            }, 
+            "message": "親愛的，情人節快樂= )", 
+            "updated_time": "2015-08-19T17:30:10+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870650236356810", 
                     "name": "Comment"
                 }, 
@@ -4279,39 +4312,6 @@
             }, 
             "message": "忘記存檔。", 
             "updated_time": "2015-08-13T12:22:51+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 14
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "1406789389615945", 
-                "name": "我是小生"
-            }, 
-            "id": "867704779984689_873576966064137", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 446
-                }
-            }, 
-            "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-19T17:30:10+0000"
         }, 
         {
             "actions": [
