@@ -1,7 +1,7 @@
 {
-    "comment_count": 149162, 
-    "like_count": 1342254, 
-    "post_count": 77322, 
+    "comment_count": 149196, 
+    "like_count": 1342676, 
+    "post_count": 77338, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136732
+                    "total_count": 136735
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -216,7 +216,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 967
+                    "total_count": 971
                 }
             }, 
             "from": {
@@ -228,11 +228,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19278
+                    "total_count": 19359
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T03:55:32+0000"
+            "updated_time": "2015-08-19T04:29:22+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7500
+                    "total_count": 7501
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5660
+                    "total_count": 5662
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1541,7 +1541,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2737
+                    "total_count": 2822
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2233,7 +2233,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1513
+                    "total_count": 1514
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -2364,7 +2364,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1248
+                    "total_count": 1249
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2884,7 +2884,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 931
+                    "total_count": 934
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -3877,6 +3877,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/869405959814571", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/869405959814571", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 11
+                }
+            }, 
+            "from": {
+                "category": "Comedian", 
+                "id": "336410426466426", 
+                "name": "最愛小乳絲"
+            }, 
+            "id": "867704779984689_869405959814571", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 551
+                }
+            }, 
+            "message": "加班熬夜結束躺床上剛要睡著時耳邊傳來：「爸爸我要喝水～」\n\n#覺得恐怖", 
+            "updated_time": "2015-08-13T09:22:46+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868709469884220", 
                     "name": "Comment"
                 }, 
@@ -3906,39 +3939,6 @@
             }, 
             "message": "女友車禍過世一年了 浴室排水孔偶爾還有長髮。", 
             "updated_time": "2015-08-12T15:37:36+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869405959814571", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869405959814571", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 11
-                }
-            }, 
-            "from": {
-                "category": "Comedian", 
-                "id": "336410426466426", 
-                "name": "最愛小乳絲"
-            }, 
-            "id": "867704779984689_869405959814571", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 550
-                }
-            }, 
-            "message": "加班熬夜結束躺床上剛要睡著時耳邊傳來：「爸爸我要喝水～」\n\n#覺得恐怖", 
-            "updated_time": "2015-08-13T09:22:46+0000"
         }, 
         {
             "actions": [
