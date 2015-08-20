@@ -1,7 +1,7 @@
 {
-    "comment_count": 150604, 
-    "like_count": 1357474, 
-    "post_count": 78564, 
+    "comment_count": 150675, 
+    "like_count": 1357681, 
+    "post_count": 78602, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136846
+                    "total_count": 136850
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23688
+                    "total_count": 23689
                 }
             }, 
             "message": "數學老師說:", 
@@ -492,7 +492,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12522
+                    "total_count": 12538
                 }
             }, 
             "message": "我想再過3秒就會達到賽亞人5的階段了吧。\n孩子們，明天就是情人節了，今天一定要收好你的手機啊！（應該是一年365天都要收好啦 笑）", 
@@ -1550,6 +1550,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 58
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 2649
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-20T05:35:07+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870331679721999", 
                     "name": "Comment"
                 }, 
@@ -1579,39 +1612,6 @@
             }, 
             "message": "我已經兩個禮拜沒有洗頭了", 
             "updated_time": "2015-08-14T07:44:43+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 58
-                }
-            }, 
-            "from": {
-                "category": "Just For Fun", 
-                "id": "406156242829341", 
-                "name": "JieJie & UncleCat"
-            }, 
-            "id": "867704779984689_873582406063593", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2641
-                }
-            }, 
-            "message": "啊你什麼時候要結婚？", 
-            "updated_time": "2015-08-20T05:35:07+0000"
         }, 
         {
             "actions": [
@@ -2035,7 +2035,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1757
+                    "total_count": 1759
                 }
             }, 
             "message": "親愛的，情人節快樂= )", 
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1294
+                    "total_count": 1295
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
