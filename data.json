@@ -1,7 +1,7 @@
 {
-    "comment_count": 151031, 
-    "like_count": 1362267, 
-    "post_count": 78240, 
+    "comment_count": 151147, 
+    "like_count": 1374397, 
+    "post_count": 78252, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136818
+                    "total_count": 136819
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -162,7 +162,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 22152
+                    "total_count": 22193
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
@@ -501,6 +501,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873488979406269", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873488979406269", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 74
+                }
+            }, 
+            "from": {
+                "category": "Artist", 
+                "id": "520835927950681", 
+                "name": "Undine"
+            }, 
+            "id": "867704779984689_873488979406269", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 11889
+                }
+            }, 
+            "message": "我想再過3秒就會達到賽亞人5的階段了吧。\n孩子們，明天就是情人節了，今天一定要收好你的手機啊！（應該是一年365天都要收好啦 笑）", 
+            "updated_time": "2015-08-20T06:15:50+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869745533113947", 
                     "name": "Comment"
                 }, 
@@ -688,7 +721,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8061
+                    "total_count": 8062
                 }
             }, 
             "updated_time": "2015-08-12T14:29:30+0000"
@@ -752,7 +785,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7733
+                    "total_count": 7737
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1311,7 +1344,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3781
+                    "total_count": 3782
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -1628,7 +1661,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 55
+                    "total_count": 56
                 }
             }, 
             "from": {
@@ -1640,7 +1673,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2366
+                    "total_count": 2385
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -1892,7 +1925,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 30
+                    "total_count": 31
                 }
             }, 
             "from": {
@@ -1903,7 +1936,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1878
+                    "total_count": 1898
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2175,6 +2208,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 37
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_873576966064137", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1616
+                }
+            }, 
+            "message": "親愛的，情人節快樂= )", 
+            "updated_time": "2015-08-20T04:16:55+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869878276434006", 
                     "name": "Comment"
                 }, 
@@ -2237,39 +2303,6 @@
             }, 
             "message": "有wifi！！！！YEAH！！！　但手機沒電...", 
             "updated_time": "2015-08-13T10:16:31+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 37
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "1406789389615945", 
-                "name": "我是小生"
-            }, 
-            "id": "867704779984689_873576966064137", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1600
-                }
-            }, 
-            "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-20T04:16:55+0000"
         }, 
         {
             "actions": [
@@ -2430,7 +2463,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1262
+                    "total_count": 1263
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -6518,38 +6551,6 @@
             }, 
             "message": "來電中⋯⋯⋯", 
             "updated_time": "2015-08-14T15:31:56+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868482689906898", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868482689906898", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 8
-                }
-            }, 
-            "from": {
-                "id": "981175361904829", 
-                "name": "B To R Tseng"
-            }, 
-            "id": "867704779984689_868482689906898", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 241
-                }
-            }, 
-            "message": "店員：我們這裡沒有插座歐", 
-            "updated_time": "2015-08-12T10:22:38+0000"
         }
     ]
 }
