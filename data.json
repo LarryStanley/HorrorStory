@@ -1,7 +1,7 @@
 {
-    "comment_count": 150703, 
-    "like_count": 1358138, 
-    "post_count": 78066, 
+    "comment_count": 150724, 
+    "like_count": 1358491, 
+    "post_count": 78079, 
     "posts": [
         {
             "actions": [
@@ -162,7 +162,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21584
+                    "total_count": 21619
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19223
+                    "total_count": 19224
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -327,7 +327,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18723
+                    "total_count": 18724
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -741,7 +741,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 204
+                    "total_count": 205
                 }
             }, 
             "from": {
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7657
+                    "total_count": 7675
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -817,7 +817,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7139
+                    "total_count": 7140
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3773
+                    "total_count": 3774
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -1847,6 +1847,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 48
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1885
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-20T02:07:45+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868605893227911", 
                     "name": "Comment"
                 }, 
@@ -1876,39 +1909,6 @@
             }, 
             "message": "媽媽 冰箱裡面怎麼有阿姨?", 
             "updated_time": "2015-08-12T13:41:24+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 48
-                }
-            }, 
-            "from": {
-                "category": "Just For Fun", 
-                "id": "406156242829341", 
-                "name": "JieJie & UncleCat"
-            }, 
-            "id": "867704779984689_873582406063593", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1825
-                }
-            }, 
-            "message": "啊你什麼時候要結婚？", 
-            "updated_time": "2015-08-20T02:07:45+0000"
         }, 
         {
             "actions": [
@@ -2209,6 +2209,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 24
+                }
+            }, 
+            "from": {
+                "id": "1168286066522086", 
+                "name": "李易達"
+            }, 
+            "id": "867704779984689_870178989737268", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1538
+                }
+            }, 
+            "message": "蛤? 我們夜教沒有排那關啊", 
+            "updated_time": "2015-08-14T03:10:00+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869716463116854", 
                     "name": "Comment"
                 }, 
@@ -2271,38 +2303,6 @@
             }, 
             "message": "溫蒂妮是男的。", 
             "updated_time": "2015-08-13T16:05:43+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 24
-                }
-            }, 
-            "from": {
-                "id": "1168286066522086", 
-                "name": "李易達"
-            }, 
-            "id": "867704779984689_870178989737268", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1515
-                }
-            }, 
-            "message": "蛤? 我們夜教沒有排那關啊", 
-            "updated_time": "2015-08-14T03:10:00+0000"
         }, 
         {
             "actions": [
@@ -2373,6 +2373,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 33
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_873576966064137", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1284
+                }
+            }, 
+            "message": "親愛的，情人節快樂= )", 
+            "updated_time": "2015-08-20T02:49:38+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/867704786651355", 
                     "name": "Comment"
                 }, 
@@ -2434,39 +2467,6 @@
             }, 
             "message": "你女友是我姘頭", 
             "updated_time": "2015-08-15T20:22:25+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 32
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "1406789389615945", 
-                "name": "我是小生"
-            }, 
-            "id": "867704779984689_873576966064137", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1233
-                }
-            }, 
-            "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-20T02:12:32+0000"
         }, 
         {
             "actions": [
@@ -2950,7 +2950,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 941
+                    "total_count": 943
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
