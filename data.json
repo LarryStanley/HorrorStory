@@ -1,7 +1,7 @@
 {
-    "comment_count": 150659, 
-    "like_count": 1357368, 
-    "post_count": 78044, 
+    "comment_count": 150687, 
+    "like_count": 1357776, 
+    "post_count": 78052, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136801
+                    "total_count": 136802
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -150,7 +150,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1076
+                    "total_count": 1079
                 }
             }, 
             "from": {
@@ -162,11 +162,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21498
+                    "total_count": 21539
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-20T01:23:20+0000"
+            "updated_time": "2015-08-20T02:00:13+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7633
+                    "total_count": 7644
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3768
+                    "total_count": 3773
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -1913,6 +1913,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 47
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1778
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-20T02:00:24+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870172269737940", 
                     "name": "Comment"
                 }, 
@@ -1969,7 +2002,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1708
+                    "total_count": 1709
                 }
             }, 
             "message": "[雄中系列2]\n學號幾號?", 
@@ -2007,39 +2040,6 @@
             }, 
             "message": "明天開工.....................", 
             "updated_time": "2015-08-11T14:49:39+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 43
-                }
-            }, 
-            "from": {
-                "category": "Just For Fun", 
-                "id": "406156242829341", 
-                "name": "JieJie & UncleCat"
-            }, 
-            "id": "867704779984689_873582406063593", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1684
-                }
-            }, 
-            "message": "啊你什麼時候要結婚？", 
-            "updated_time": "2015-08-20T01:29:03+0000"
         }, 
         {
             "actions": [
@@ -2298,7 +2298,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1487
+                    "total_count": 1492
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2467,6 +2467,39 @@
             }, 
             "message": "當女友說這兩個字的時候", 
             "updated_time": "2015-08-13T04:39:35+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 31
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_873576966064137", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1176
+                }
+            }, 
+            "message": "親愛的，情人節快樂= )", 
+            "updated_time": "2015-08-20T01:51:51+0000"
         }, 
         {
             "actions": [
@@ -2661,39 +2694,6 @@
             }, 
             "message": "『我們贏了！！！』", 
             "updated_time": "2015-08-12T06:43:29+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 30
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "1406789389615945", 
-                "name": "我是小生"
-            }, 
-            "id": "867704779984689_873576966064137", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1116
-                }
-            }, 
-            "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-20T00:55:43+0000"
         }, 
         {
             "actions": [
@@ -2950,7 +2950,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 939
+                    "total_count": 941
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -3430,7 +3430,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 35
+                    "total_count": 36
                 }
             }, 
             "from": {
@@ -4274,7 +4274,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 472
+                    "total_count": 473
                 }
             }, 
             "message": "門ㄧ關才發現鑰匙手機都在家⋯", 
