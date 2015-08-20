@@ -1,7 +1,7 @@
 {
-    "comment_count": 150802, 
-    "like_count": 1359310, 
-    "post_count": 78110, 
+    "comment_count": 150833, 
+    "like_count": 1359748, 
+    "post_count": 78125, 
     "posts": [
         {
             "actions": [
@@ -150,7 +150,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1083
+                    "total_count": 1084
                 }
             }, 
             "from": {
@@ -162,11 +162,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21709
+                    "total_count": 21756
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-20T03:29:49+0000"
+            "updated_time": "2015-08-20T04:25:28+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7702
+                    "total_count": 7710
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1739,7 +1739,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2242
+                    "total_count": 2243
                 }
             }, 
             "message": "電不是插插頭就有了嗎!?", 
@@ -1805,7 +1805,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1997
+                    "total_count": 2046
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -2110,6 +2110,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 27
+                }
+            }, 
+            "from": {
+                "id": "1168286066522086", 
+                "name": "李易達"
+            }, 
+            "id": "867704779984689_870178989737268", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1638
+                }
+            }, 
+            "message": "蛤? 我們夜教沒有排那關啊", 
+            "updated_time": "2015-08-14T03:10:00+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/867850693303431", 
                     "name": "Comment"
                 }, 
@@ -2205,38 +2237,6 @@
             }, 
             "message": "有wifi！！！！YEAH！！！　但手機沒電...", 
             "updated_time": "2015-08-13T10:16:31+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 26
-                }
-            }, 
-            "from": {
-                "id": "1168286066522086", 
-                "name": "李易達"
-            }, 
-            "id": "867704779984689_870178989737268", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1595
-                }
-            }, 
-            "message": "蛤? 我們夜教沒有排那關啊", 
-            "updated_time": "2015-08-14T03:10:00+0000"
         }, 
         {
             "actions": [
@@ -2352,7 +2352,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 36
+                    "total_count": 37
                 }
             }, 
             "from": {
@@ -2364,11 +2364,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1390
+                    "total_count": 1437
                 }
             }, 
             "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-20T03:40:42+0000"
+            "updated_time": "2015-08-20T04:16:55+0000"
         }, 
         {
             "actions": [
@@ -2950,7 +2950,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 950
+                    "total_count": 951
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -6191,7 +6191,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 263
+                    "total_count": 264
                 }
             }, 
             "message": "每天早上起床照鏡子 都會看到唐嫣", 
