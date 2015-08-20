@@ -1,7 +1,7 @@
 {
-    "comment_count": 150724, 
-    "like_count": 1358491, 
-    "post_count": 78079, 
+    "comment_count": 150769, 
+    "like_count": 1358906, 
+    "post_count": 78100, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136802
+                    "total_count": 136803
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -150,7 +150,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1081
+                    "total_count": 1083
                 }
             }, 
             "from": {
@@ -162,11 +162,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21619
+                    "total_count": 21649
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-20T02:19:57+0000"
+            "updated_time": "2015-08-20T03:29:49+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7675
+                    "total_count": 7686
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3774
+                    "total_count": 3775
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -1781,6 +1781,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 49
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1946
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-20T03:25:28+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869827833105717", 
                     "name": "Comment"
                 }, 
@@ -1843,39 +1876,6 @@
             }, 
             "message": "大頭照畫個熊頭 就當自己是設計師", 
             "updated_time": "2015-08-13T00:56:21+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 48
-                }
-            }, 
-            "from": {
-                "category": "Just For Fun", 
-                "id": "406156242829341", 
-                "name": "JieJie & UncleCat"
-            }, 
-            "id": "867704779984689_873582406063593", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1885
-                }
-            }, 
-            "message": "啊你什麼時候要結婚？", 
-            "updated_time": "2015-08-20T02:07:45+0000"
         }, 
         {
             "actions": [
@@ -2221,7 +2221,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 24
+                    "total_count": 25
                 }
             }, 
             "from": {
@@ -2232,7 +2232,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1538
+                    "total_count": 1563
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2385,7 +2385,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 33
+                    "total_count": 35
                 }
             }, 
             "from": {
@@ -2397,11 +2397,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1284
+                    "total_count": 1344
                 }
             }, 
             "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-20T02:49:38+0000"
+            "updated_time": "2015-08-20T03:25:41+0000"
         }, 
         {
             "actions": [
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1255
+                    "total_count": 1256
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2950,7 +2950,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 943
+                    "total_count": 944
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
