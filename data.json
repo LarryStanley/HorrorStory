@@ -1,7 +1,7 @@
 {
-    "comment_count": 150568, 
-    "like_count": 1356186, 
-    "post_count": 78009, 
+    "comment_count": 150590, 
+    "like_count": 1356561, 
+    "post_count": 78016, 
     "posts": [
         {
             "actions": [
@@ -150,7 +150,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1074
+                    "total_count": 1075
                 }
             }, 
             "from": {
@@ -162,11 +162,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21405
+                    "total_count": 21443
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-19T23:20:40+0000"
+            "updated_time": "2015-08-20T00:24:19+0000"
         }, 
         {
             "actions": [
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7598
+                    "total_count": 7608
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1311,7 +1311,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3760
+                    "total_count": 3763
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -2242,6 +2242,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 38
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1497
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-20T00:14:01+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
                     "name": "Comment"
                 }, 
@@ -2265,7 +2298,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1480
+                    "total_count": 1482
                 }
             }, 
             "message": "蛤? 我們夜教沒有排那關啊", 
@@ -2303,39 +2336,6 @@
             }, 
             "message": "假⋯假牙⋯吞下去了!", 
             "updated_time": "2015-08-14T05:56:09+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 37
-                }
-            }, 
-            "from": {
-                "category": "Just For Fun", 
-                "id": "406156242829341", 
-                "name": "JieJie & UncleCat"
-            }, 
-            "id": "867704779984689_873582406063593", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1407
-                }
-            }, 
-            "message": "啊你什麼時候要結婚？", 
-            "updated_time": "2015-08-19T23:59:36+0000"
         }, 
         {
             "actions": [
@@ -2894,6 +2894,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 25
+                }
+            }, 
+            "from": {
+                "category": "Author", 
+                "id": "1406789389615945", 
+                "name": "我是小生"
+            }, 
+            "id": "867704779984689_873576966064137", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 976
+                }
+            }, 
+            "message": "親愛的，情人節快樂= )", 
+            "updated_time": "2015-08-19T23:56:15+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/872340599521107", 
                     "name": "Comment"
                 }, 
@@ -3053,39 +3086,6 @@
             }, 
             "message": "哥買 lativ 不是因為便宜，而是生活態度", 
             "updated_time": "2015-08-13T11:36:07+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873576966064137", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 25
-                }
-            }, 
-            "from": {
-                "category": "Author", 
-                "id": "1406789389615945", 
-                "name": "我是小生"
-            }, 
-            "id": "867704779984689_873576966064137", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 894
-                }
-            }, 
-            "message": "親愛的，情人節快樂= )", 
-            "updated_time": "2015-08-19T23:56:15+0000"
         }, 
         {
             "actions": [
