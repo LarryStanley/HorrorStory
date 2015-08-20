@@ -1,7 +1,7 @@
 {
-    "comment_count": 150895, 
-    "like_count": 1360971, 
-    "post_count": 78175, 
+    "comment_count": 150924, 
+    "like_count": 1361254, 
+    "post_count": 78186, 
     "posts": [
         {
             "actions": [
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23681
+                    "total_count": 23683
                 }
             }, 
             "message": "數學老師說:", 
@@ -150,7 +150,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 1100
+                    "total_count": 1101
                 }
             }, 
             "from": {
@@ -162,11 +162,11 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21944
+                    "total_count": 22002
                 }
             }, 
             "message": "我決定廢除明年總統大選, 由我繼續連任", 
-            "updated_time": "2015-08-20T06:21:24+0000"
+            "updated_time": "2015-08-20T06:39:05+0000"
         }, 
         {
             "actions": [
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19224
+                    "total_count": 19225
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -752,7 +752,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7725
+                    "total_count": 7726
                 }
             }, 
             "updated_time": "2015-08-13T03:22:02+0000"
@@ -1682,6 +1682,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 55
+                }
+            }, 
+            "from": {
+                "category": "Just For Fun", 
+                "id": "406156242829341", 
+                "name": "JieJie & UncleCat"
+            }, 
+            "id": "867704779984689_873582406063593", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 2284
+                }
+            }, 
+            "message": "啊你什麼時候要結婚？", 
+            "updated_time": "2015-08-20T05:35:07+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/867708279984339", 
                     "name": "Comment"
                 }, 
@@ -1711,39 +1744,6 @@
             }, 
             "message": "等等來找我!我有話要跟你說", 
             "updated_time": "2015-08-11T14:39:50+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/873582406063593", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 55
-                }
-            }, 
-            "from": {
-                "category": "Just For Fun", 
-                "id": "406156242829341", 
-                "name": "JieJie & UncleCat"
-            }, 
-            "id": "867704779984689_873582406063593", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2255
-                }
-            }, 
-            "message": "啊你什麼時候要結婚？", 
-            "updated_time": "2015-08-20T05:35:07+0000"
         }, 
         {
             "actions": [
@@ -1913,6 +1913,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 29
+                }
+            }, 
+            "from": {
+                "id": "1168286066522086", 
+                "name": "李易達"
+            }, 
+            "id": "867704779984689_870178989737268", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1795
+                }
+            }, 
+            "message": "蛤? 我們夜教沒有排那關啊", 
+            "updated_time": "2015-08-14T03:10:00+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869326913155809", 
                     "name": "Comment"
                 }, 
@@ -1942,38 +1974,6 @@
             }, 
             "message": "情人節要到了，沒有鋁硼銪。", 
             "updated_time": "2015-08-13T08:05:47+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870178989737268", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 28
-                }
-            }, 
-            "from": {
-                "id": "1168286066522086", 
-                "name": "李易達"
-            }, 
-            "id": "867704779984689_870178989737268", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1763
-                }
-            }, 
-            "message": "蛤? 我們夜教沒有排那關啊", 
-            "updated_time": "2015-08-14T03:10:00+0000"
         }, 
         {
             "actions": [
@@ -2265,7 +2265,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1543
+                    "total_count": 1562
                 }
             }, 
             "message": "親愛的，情人節快樂= )", 
@@ -2939,7 +2939,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 37
+                    "total_count": 38
                 }
             }, 
             "from": {
@@ -2950,7 +2950,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 956
+                    "total_count": 957
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -3901,7 +3901,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 555
+                    "total_count": 556
                 }
             }, 
             "message": "我知道你一定不知道我知道你想知道什麼", 
@@ -5708,7 +5708,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 301
+                    "total_count": 302
                 }
             }, 
             "message": "我剛看了你的line", 
