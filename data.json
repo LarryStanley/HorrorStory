@@ -1,7 +1,7 @@
 {
-    "comment_count": 151336, 
-    "like_count": 1362910, 
-    "post_count": 79030, 
+    "comment_count": 151371, 
+    "like_count": 1363247, 
+    "post_count": 79047, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136898
+                    "total_count": 136899
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -261,7 +261,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19227
+                    "total_count": 19228
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18731
+                    "total_count": 18732
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15362
+                    "total_count": 15363
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -1245,7 +1245,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3934
+                    "total_count": 3935
                 }
             }, 
             "message": "BIGBANG世界巡迴演唱會台灣三場皆取消", 
@@ -1562,7 +1562,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 61
+                    "total_count": 62
                 }
             }, 
             "from": {
@@ -1574,7 +1574,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2782
+                    "total_count": 2783
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -2067,7 +2067,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1710
+                    "total_count": 1713
                 }
             }, 
             "message": "[雄中系列2]\n學號幾號?", 
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1314
+                    "total_count": 1315
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -3312,7 +3312,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 723
+                    "total_count": 724
                 }
             }, 
             "message": "哈嘍大家好 我是劉梓晨Vincent蛇精男 啊", 
@@ -3863,7 +3863,7 @@
             "from": {
                 "category": "Writer", 
                 "id": "1582508545305684", 
-                "name": "Lazy Cat 小儀"
+                "name": "Pink Cat 小儀"
             }, 
             "id": "867704779984689_869611973127303", 
             "likes": {
@@ -5003,6 +5003,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 16
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 351
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T13:58:29+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869294876492346", 
                     "name": "Comment"
                 }, 
@@ -5388,39 +5421,6 @@
             }, 
             "message": "女友 與 前女友 已成為好友。", 
             "updated_time": "2015-08-13T07:49:06+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 16
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 325
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T13:58:29+0000"
         }, 
         {
             "actions": [
