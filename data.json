@@ -1,7 +1,7 @@
 {
-    "comment_count": 151221, 
-    "like_count": 1362167, 
-    "post_count": 78961, 
+    "comment_count": 151259, 
+    "like_count": 1362430, 
+    "post_count": 78988, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136890
+                    "total_count": 136893
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -63,7 +63,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 29156
+                    "total_count": 29157
                 }
             }, 
             "message": "生生不息，繁榮昌盛。\n\n獻給全天下的單身男子& 張吉吟 - 泛舟哥 ！\n\n鬼門已經開了！瘋狂比賽吧！不斷氣老溫都讓你算一句話！", 
@@ -195,7 +195,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 20966
+                    "total_count": 20968
                 }
             }, 
             "message": "圓仔懷孕了", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18730
+                    "total_count": 18731
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -426,7 +426,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 14953
+                    "total_count": 14955
                 }
             }, 
             "message": "馬來貘發了一個周邊商品", 
@@ -492,7 +492,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12649
+                    "total_count": 12650
                 }
             }, 
             "message": "我想再過3秒就會達到賽亞人5的階段了吧。\n孩子們，明天就是情人節了，今天一定要收好你的手機啊！（應該是一年365天都要收好啦 笑）", 
@@ -883,7 +883,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5987
+                    "total_count": 5988
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -1146,7 +1146,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 4502
+                    "total_count": 4503
                 }
             }, 
             "message": "妳的叫聲聽得我噁心。", 
@@ -1278,7 +1278,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3791
+                    "total_count": 3792
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -1574,7 +1574,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2779
+                    "total_count": 2780
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -5846,6 +5846,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 13
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 287
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T12:02:55+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869816433106857", 
                     "name": "Comment"
                 }, 
@@ -6164,39 +6197,6 @@
             }, 
             "message": "每天早上起床照鏡子 都會看到唐嫣", 
             "updated_time": "2015-08-13T16:19:44+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 13
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 263
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T12:02:55+0000"
         }, 
         {
             "actions": [
