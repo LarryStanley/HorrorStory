@@ -1,7 +1,7 @@
 {
-    "comment_count": 151531, 
-    "like_count": 1364903, 
-    "post_count": 79153, 
+    "comment_count": 151541, 
+    "like_count": 1365014, 
+    "post_count": 79161, 
     "posts": [
         {
             "actions": [
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23696
+                    "total_count": 23697
                 }
             }, 
             "message": "數學老師說:", 
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15364
+                    "total_count": 15365
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -459,7 +459,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 13078
+                    "total_count": 13079
                 }
             }, 
             "message": "七月鬼門就要開了，大家摩拳擦掌來說故事比賽吧！只要你不斷氣用一句話說完就算！\n\n飯粒1.", 
@@ -492,7 +492,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12656
+                    "total_count": 12657
                 }
             }, 
             "message": "我想再過3秒就會達到賽亞人5的階段了吧。\n孩子們，明天就是情人節了，今天一定要收好你的手機啊！（應該是一年365天都要收好啦 笑）", 
@@ -656,7 +656,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8458
+                    "total_count": 8459
                 }
             }, 
             "message": "早餐突然吃不下了..", 
@@ -1574,7 +1574,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2788
+                    "total_count": 2789
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -3463,7 +3463,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 63
+                    "total_count": 61
                 }
             }, 
             "from": {
@@ -4185,6 +4185,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 24
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 481
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T17:21:25+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868637489891418", 
                     "name": "Comment"
                 }, 
@@ -4214,39 +4247,6 @@
             }, 
             "message": "馬英九幫我按讚...", 
             "updated_time": "2015-08-12T14:26:13+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 24
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 476
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T17:21:25+0000"
         }, 
         {
             "actions": [
