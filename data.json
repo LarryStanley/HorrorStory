@@ -1,7 +1,7 @@
 {
-    "comment_count": 151114, 
-    "like_count": 1362087, 
-    "post_count": 78886, 
+    "comment_count": 151078, 
+    "like_count": 1361212, 
+    "post_count": 78901, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136880
+                    "total_count": 136881
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -623,7 +623,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 9754
+                    "total_count": 9755
                 }
             }, 
             "message": "世上最遠的距離", 
@@ -1574,7 +1574,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2774
+                    "total_count": 2779
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1310
+                    "total_count": 1311
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -2698,38 +2698,6 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/869807593107741", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/869807593107741", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 70
-                }
-            }, 
-            "from": {
-                "id": "964627300225436", 
-                "name": "楊秉樺"
-            }, 
-            "id": "867704779984689_869807593107741", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1100
-                }
-            }, 
-            "message": "我跟英久握手了…", 
-            "updated_time": "2015-08-13T15:47:31+0000"
-        }, 
-        {
-            "actions": [
-                {
                     "link": "https://www.facebook.com/867704779984689/posts/870620766359757", 
                     "name": "Comment"
                 }, 
@@ -2950,7 +2918,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 965
+                    "total_count": 967
                 }
             }, 
             "message": "[鳳中系列] 欸你今天生日喔?", 
@@ -6550,6 +6518,38 @@
             }, 
             "message": "店員：我們這裡沒有插座歐", 
             "updated_time": "2015-08-12T10:22:38+0000"
+        }, 
+        {
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/868117873276713", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/868117873276713", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 12
+                }
+            }, 
+            "from": {
+                "id": "10204052268061951", 
+                "name": "李柏璋"
+            }, 
+            "id": "867704779984689_868117873276713", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 238
+                }
+            }, 
+            "message": "中華民國要滅亡了。", 
+            "updated_time": "2015-08-12T06:17:34+0000"
         }
     ]
 }
