@@ -1,7 +1,7 @@
 {
-    "comment_count": 151259, 
-    "like_count": 1362430, 
-    "post_count": 78988, 
+    "comment_count": 151284, 
+    "like_count": 1362590, 
+    "post_count": 79001, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136893
+                    "total_count": 136895
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -261,7 +261,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 19226
+                    "total_count": 19227
                 }
             }, 
             "message": "我不會再出貼圖了。", 
@@ -1574,7 +1574,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2780
+                    "total_count": 2782
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1311
+                    "total_count": 1313
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -5653,6 +5653,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 14
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 303
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T13:05:58+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868606066561227", 
                     "name": "Comment"
                 }, 
@@ -5846,39 +5879,6 @@
         {
             "actions": [
                 {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 13
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 287
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T12:02:55+0000"
-        }, 
-        {
-            "actions": [
-                {
                     "link": "https://www.facebook.com/867704779984689/posts/869816433106857", 
                     "name": "Comment"
                 }, 
@@ -6041,6 +6041,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/870349999720167", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/870349999720167", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 6
+                }
+            }, 
+            "from": {
+                "id": "10207439006721289", 
+                "name": "Sze Ling Ling"
+            }, 
+            "id": "867704779984689_870349999720167", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 270
+                }
+            }, 
+            "message": "我借了好朋友的ipad去男友家，她的ipad wifi自動連上了。", 
+            "updated_time": "2015-08-14T08:08:41+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/870695119685655", 
                     "name": "Comment"
                 }, 
@@ -6069,38 +6101,6 @@
             }, 
             "message": "蛇精男和法拉利姐生小孩了", 
             "updated_time": "2015-08-14T17:48:58+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870349999720167", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/870349999720167", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 6
-                }
-            }, 
-            "from": {
-                "id": "10207439006721289", 
-                "name": "Sze Ling Ling"
-            }, 
-            "id": "867704779984689_870349999720167", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 269
-                }
-            }, 
-            "message": "我借了好朋友的ipad去男友家，她的ipad wifi自動連上了。", 
-            "updated_time": "2015-08-14T08:08:41+0000"
         }, 
         {
             "actions": [
