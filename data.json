@@ -1,7 +1,7 @@
 {
-    "comment_count": 151205, 
-    "like_count": 1361997, 
-    "post_count": 78954, 
+    "comment_count": 151221, 
+    "like_count": 1362167, 
+    "post_count": 78961, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136886
+                    "total_count": 136890
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -949,7 +949,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5679
+                    "total_count": 5680
                 }
             }, 
             "message": "猜一下老溫要送什麼...猜到就送你好了。\n\n#佛心老溫", 
@@ -1278,7 +1278,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 3790
+                    "total_count": 3791
                 }
             }, 
             "message": "起床  吃飯  工作  洗澡  睡覺  又一天", 
@@ -6168,6 +6168,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 13
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 263
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T12:02:55+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869269136494920", 
                     "name": "Comment"
                 }, 
@@ -6518,38 +6551,6 @@
             }, 
             "message": "店員：我們這裡沒有插座歐", 
             "updated_time": "2015-08-12T10:22:38+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868117873276713", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868117873276713", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 12
-                }
-            }, 
-            "from": {
-                "id": "10204052268061951", 
-                "name": "李柏璋"
-            }, 
-            "id": "867704779984689_868117873276713", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 238
-                }
-            }, 
-            "message": "中華民國要滅亡了。", 
-            "updated_time": "2015-08-12T06:17:34+0000"
         }
     ]
 }
