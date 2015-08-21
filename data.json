@@ -1,7 +1,7 @@
 {
-    "comment_count": 151519, 
-    "like_count": 1364769, 
-    "post_count": 79140, 
+    "comment_count": 151528, 
+    "like_count": 1364875, 
+    "post_count": 79145, 
     "posts": [
         {
             "actions": [
@@ -96,7 +96,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 26989
+                    "total_count": 26990
                 }
             }, 
             "message": "存摺簿打開剩一元", 
@@ -492,7 +492,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12654
+                    "total_count": 12655
                 }
             }, 
             "message": "我想再過3秒就會達到賽亞人5的階段了吧。\n孩子們，明天就是情人節了，今天一定要收好你的手機啊！（應該是一年365天都要收好啦 笑）", 
@@ -1961,7 +1961,7 @@
                 }
             }, 
             "from": {
-                "category": "Artist", 
+                "category": "Product/Service", 
                 "id": "225611747638813", 
                 "name": "宋小明"
             }, 
@@ -4275,7 +4275,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 448
+                    "total_count": 466
                 }
             }, 
             "message": "我這個月還沒來ㄟ....", 
