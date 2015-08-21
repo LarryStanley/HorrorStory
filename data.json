@@ -1,7 +1,7 @@
 {
-    "comment_count": 151541, 
-    "like_count": 1365014, 
-    "post_count": 79161, 
+    "comment_count": 151545, 
+    "like_count": 1365054, 
+    "post_count": 79163, 
     "posts": [
         {
             "actions": [
@@ -492,7 +492,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12657
+                    "total_count": 12658
                 }
             }, 
             "message": "我想再過3秒就會達到賽亞人5的階段了吧。\n孩子們，明天就是情人節了，今天一定要收好你的手機啊！（應該是一年365天都要收好啦 笑）", 
@@ -817,7 +817,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 7142
+                    "total_count": 7143
                 }
             }, 
             "message": "你們覺得誰說這句話最恐怖？\n\n1老爸老媽 2警察 3老闆老師 4同事同學 5暗戀的對象 6腦公腦婆 7店員 8隔壁的三姑六婆 9司機 10喵星人汪星人\n\n獻給 我得了一種吃菜就會死得病-螺痣祥", 
@@ -883,7 +883,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 5989
+                    "total_count": 5990
                 }
             }, 
             "message": "進棺材的那一刻獵人宣布連載再開", 
@@ -1574,7 +1574,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2789
+                    "total_count": 2790
                 }
             }, 
             "message": "啊你什麼時候要結婚？", 
@@ -4153,6 +4153,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 24
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 486
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T17:21:25+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868587939896373", 
                     "name": "Comment"
                 }, 
@@ -4181,39 +4214,6 @@
             }, 
             "message": "我們想說到你工作室直接看你做會比較快", 
             "updated_time": "2015-08-12T13:13:29+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 24
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 481
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T17:21:25+0000"
         }, 
         {
             "actions": [
