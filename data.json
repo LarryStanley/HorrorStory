@@ -1,7 +1,7 @@
 {
-    "comment_count": 151284, 
-    "like_count": 1362590, 
-    "post_count": 79001, 
+    "comment_count": 151336, 
+    "like_count": 1362910, 
+    "post_count": 79030, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136895
+                    "total_count": 136898
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -492,7 +492,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 12650
+                    "total_count": 12651
                 }
             }, 
             "message": "我想再過3秒就會達到賽亞人5的階段了吧。\n孩子們，明天就是情人節了，今天一定要收好你的手機啊！（應該是一年365天都要收好啦 笑）", 
@@ -2232,7 +2232,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1603
+                    "total_count": 1604
                 }
             }, 
             "message": "我....忘記拔出來了  (絕對是指鑰匙)", 
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1313
+                    "total_count": 1314
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -5392,6 +5392,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 16
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 325
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T13:58:29+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868660899889077", 
                     "name": "Comment"
                 }, 
@@ -5649,39 +5682,6 @@
             }, 
             "message": "男友死後我沒刪除他的語音短信 沒想到昨晚是最後一次重溫他說「你在哪裡我去接你」。", 
             "updated_time": "2015-08-12T15:55:54+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 14
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 303
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T13:05:58+0000"
         }, 
         {
             "actions": [
