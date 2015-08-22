@@ -1,7 +1,7 @@
 {
-    "comment_count": 151693, 
-    "like_count": 1367433, 
-    "post_count": 79290, 
+    "comment_count": 151717, 
+    "like_count": 1367684, 
+    "post_count": 79306, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136910
+                    "total_count": 136911
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -2319,7 +2319,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 32
+                    "total_count": 33
                 }
             }, 
             "from": {
@@ -2331,7 +2331,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1518
+                    "total_count": 1519
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -3517,6 +3517,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 25
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 624
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T21:20:01+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869507999804367", 
                     "name": "Comment"
                 }, 
@@ -3610,39 +3643,6 @@
             }, 
             "message": "我們老闆有一個非常有趣的想法", 
             "updated_time": "2015-08-12T11:00:08+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 25
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 619
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T21:20:01+0000"
         }, 
         {
             "actions": [
