@@ -1,7 +1,7 @@
 {
-    "comment_count": 151816, 
-    "like_count": 1368525, 
-    "post_count": 79361, 
+    "comment_count": 151826, 
+    "like_count": 1368672, 
+    "post_count": 79365, 
     "posts": [
         {
             "actions": [
@@ -18,7 +18,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 13489
+                    "total_count": 13490
                 }
             }, 
             "from": {
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136914
+                    "total_count": 136916
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -129,7 +129,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 23701
+                    "total_count": 23702
                 }
             }, 
             "message": "數學老師說:", 
@@ -294,7 +294,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 18735
+                    "total_count": 18736
                 }
             }, 
             "message": "先別管恐怖了，這時候人生就變成一個笑話了。\n\n獻給網友Benjamin Hung", 
@@ -393,7 +393,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15366
+                    "total_count": 15367
                 }
             }, 
             "message": "海賊王宣佈無限期休刊", 
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1320
+                    "total_count": 1321
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -3418,6 +3418,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 26
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 660
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T21:20:01+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/868840009871166", 
                     "name": "Comment"
                 }, 
@@ -3447,39 +3480,6 @@
             }, 
             "message": "拼拼湊湊他就是一個視覺設計", 
             "updated_time": "2015-08-12T18:02:32+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 26
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 656
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T21:20:01+0000"
         }, 
         {
             "actions": [
