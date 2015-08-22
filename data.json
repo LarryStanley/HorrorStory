@@ -1,7 +1,7 @@
 {
-    "comment_count": 151920, 
-    "like_count": 1370023, 
-    "post_count": 79454, 
+    "comment_count": 151939, 
+    "like_count": 1370213, 
+    "post_count": 79473, 
     "posts": [
         {
             "actions": [
@@ -1772,7 +1772,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 2243
+                    "total_count": 2244
                 }
             }, 
             "message": "電不是插插頭就有了嗎!?", 
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1321
+                    "total_count": 1323
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -3410,7 +3410,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 677
+                    "total_count": 678
                 }
             }, 
             "message": "我這個月還沒來ㄟ....", 
