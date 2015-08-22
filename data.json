@@ -1,7 +1,7 @@
 {
-    "comment_count": 151537, 
-    "like_count": 1365421, 
-    "post_count": 79222, 
+    "comment_count": 151553, 
+    "like_count": 1365618, 
+    "post_count": 79226, 
     "posts": [
         {
             "actions": [
@@ -2430,7 +2430,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1317
+                    "total_count": 1318
                 }
             }, 
             "updated_time": "2015-08-11T15:31:47+0000"
@@ -3714,6 +3714,39 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 25
+                }
+            }, 
+            "from": {
+                "category": "Church/Religious Organization", 
+                "id": "1490275221245906", 
+                "name": "南港7條蛇"
+            }, 
+            "id": "867704779984689_874902865931547", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 574
+                }
+            }, 
+            "message": "我這個月還沒來ㄟ....", 
+            "updated_time": "2015-08-21T21:20:01+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869369543151546", 
                     "name": "Comment"
                 }, 
@@ -3743,39 +3776,6 @@
             }, 
             "message": "真的跟我這樣做有人腰折斷的嗎？", 
             "updated_time": "2015-08-13T08:37:39+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/874902865931547", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 25
-                }
-            }, 
-            "from": {
-                "category": "Church/Religious Organization", 
-                "id": "1490275221245906", 
-                "name": "南港7條蛇"
-            }, 
-            "id": "867704779984689_874902865931547", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 565
-                }
-            }, 
-            "message": "我這個月還沒來ㄟ....", 
-            "updated_time": "2015-08-21T21:20:01+0000"
         }, 
         {
             "actions": [
