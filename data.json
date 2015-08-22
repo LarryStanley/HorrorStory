@@ -1,7 +1,7 @@
 {
-    "comment_count": 151864, 
-    "like_count": 1369193, 
-    "post_count": 79402, 
+    "comment_count": 151868, 
+    "like_count": 1369449, 
+    "post_count": 79420, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136921
+                    "total_count": 136924
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -3398,7 +3398,7 @@
                 "data": [], 
                 "summary": {
                     "order": "chronological", 
-                    "total_count": 26
+                    "total_count": 27
                 }
             }, 
             "from": {
@@ -3410,7 +3410,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 668
+                    "total_count": 672
                 }
             }, 
             "message": "我這個月還沒來ㄟ....", 
