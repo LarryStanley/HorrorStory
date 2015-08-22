@@ -1,7 +1,7 @@
 {
-    "comment_count": 151609, 
-    "like_count": 1366427, 
-    "post_count": 79262, 
+    "comment_count": 151693, 
+    "like_count": 1367433, 
+    "post_count": 79290, 
     "posts": [
         {
             "actions": [
@@ -3289,6 +3289,38 @@
         {
             "actions": [
                 {
+                    "link": "https://www.facebook.com/867704779984689/posts/869954146426419", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/867704779984689/posts/869954146426419", 
+                    "name": "Like"
+                }
+            ], 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "order": "chronological", 
+                    "total_count": 64
+                }
+            }, 
+            "from": {
+                "id": "1045605275464085", 
+                "name": "黃妍翎"
+            }, 
+            "id": "867704779984689_869954146426419", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 724
+                }
+            }, 
+            "message": "哈嘍大家好 我是劉梓晨Vincent蛇精男 啊", 
+            "updated_time": "2015-08-13T18:59:43+0000"
+        }, 
+        {
+            "actions": [
+                {
                     "link": "https://www.facebook.com/867704779984689/posts/869088269846340", 
                     "name": "Comment"
                 }, 
@@ -3476,7 +3508,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 630
+                    "total_count": 631
                 }
             }, 
             "message": "我 用唱的。", 
@@ -3606,7 +3638,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 611
+                    "total_count": 619
                 }
             }, 
             "message": "我這個月還沒來ㄟ....", 
@@ -6519,38 +6551,6 @@
             }, 
             "message": "店員：我們這裡沒有插座歐", 
             "updated_time": "2015-08-12T10:22:38+0000"
-        }, 
-        {
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868117873276713", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/867704779984689/posts/868117873276713", 
-                    "name": "Like"
-                }
-            ], 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "order": "chronological", 
-                    "total_count": 12
-                }
-            }, 
-            "from": {
-                "id": "10204052268061951", 
-                "name": "李柏璋"
-            }, 
-            "id": "867704779984689_868117873276713", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 238
-                }
-            }, 
-            "message": "中華民國要滅亡了。", 
-            "updated_time": "2015-08-12T06:17:34+0000"
         }
     ]
 }
