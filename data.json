@@ -1,7 +1,7 @@
 {
-    "comment_count": 152124, 
-    "like_count": 1371999, 
-    "post_count": 79606, 
+    "comment_count": 152153, 
+    "like_count": 1372330, 
+    "post_count": 79632, 
     "posts": [
         {
             "actions": [
@@ -30,7 +30,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 136930
+                    "total_count": 136931
                 }
             }, 
             "message": "我 交 女 朋 友 了 。", 
@@ -2331,7 +2331,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1520
+                    "total_count": 1521
                 }
             }, 
             "message": "溫蒂妮是男的。", 
@@ -3345,7 +3345,7 @@
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 705
+                    "total_count": 710
                 }
             }, 
             "message": "我這個月還沒來ㄟ....", 
@@ -4661,7 +4661,7 @@
                 }
             }, 
             "from": {
-                "category": "Pet", 
+                "category": "Public Figure", 
                 "id": "705014679580108", 
                 "name": "音地大帝 Indie DaaDee"
             }, 
