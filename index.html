@@ -2,46 +2,35 @@
 <html lang="zh-tw" ng-app="horror">
 <head>
     <meta charset="UTF-8">
-    <title>一句話恐怖故事大賽統計表</title>
+    <title>飲料猜謎大匯集排行榜</title>
 
-    <meta name="description" content="一句話恐怖故事大賽統計表，進入本站後您的裝置將在十秒後爆炸！">
+    <meta name="description" content="飲料猜謎大匯集排行榜">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="一句話恐怖故事大賽統計表" />
-    <meta property="og:site_name" content="一句話恐怖故事大賽統計表"/>
-    <meta property="og:url" content="http://larrystanley.github.io/HorrorStory/"/>
-    <meta property="og:description" content="一句話恐怖故事大賽統計表，進入本站後您的裝置將在十秒後爆炸！">
+    <meta property="og:title" content="飲料猜謎大匯集排行榜" />
+    <meta property="og:site_name" content="飲料猜謎大匯集排行榜"/>
+    <meta property="og:url" content="http://drink.fbstats.info/"/>
+    <meta property="og:description" content="飲料猜謎大匯集排行榜">
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="http://larrystanley.github.io/HorrorStory/image.png"/>
-    <meta property="og:image" content="http://larrystanley.github.io/HorrorStory/image-small.png"/>
+    <meta property="og:image" content="http://drink.fbstats.info/image-new.png"/>
 
-    <link href="image.png" rel="image_src" type="image/jpeg">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.3.0/css/material-fullpalette.min.css">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="css/main.min.css">
-    
-    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script>
-    <script>
-      WebFont.load({
-          custom: {
-            families: ['KongXi', 'HelveticaNeue']
-          }
-        });
-    </script>
 </head>
 <body ng-controller="HorrorController as horror">
     <div class="page" id="pageOne">
       <div class="container">
         <div class="center">
-          <h1 style="text-align: center" class="animated fadeIn">一句話恐怖故事<br>大賽統計表</h1>
-          <div id="message" style="text-align:center" class="animated fadeIn"><p>進入本站後您的裝置將在十秒後爆炸，夠恐怖吧！</p></div>
+          <p style="font-size: 28px; text-align:center" class="animated fadeIn">翻白眼吧！<br class="mobile">溫蒂妮小姐。</p><h1 class="animated fadeIn" style="text-align:center">飲料猜謎<br class="mobile">大匯集排行榜</h1>
+          <div id="message" style="text-align:center" class="animated fadeIn"><p>有沒有早餐店奶茶的八卦？<br>謎語載入中......</p></div>
           <div id="info" style="display: none">
             <div class="row">
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="well">
                   <div id="postCount">
-                    一句話數量<br>
+                    目前謎語數量<br>
                     <number>{{ horror.data.post_count | number }}</number>
                   </div>
                 </div>
@@ -64,6 +53,7 @@
               </div>
             </div>
           </div>
+          <div google-adsense style="text-align:center;"></div>
         </div>
       </div>
     </div>
@@ -73,21 +63,22 @@
           <button style="color:white" id="sortByLikeButton" class="btn btn-flat active" ng-click="horror.sortByLike()">依照讚數排序</button>
           <button style="color:white" id="sortByCommentButton" class="btn btn-flat" ng-click="horror.sortByComment()">依照留言數排序</button>
           <div ng-repeat="post in horror.data.posts" ng-if="$index < horror.showCount">
+            <div  google-adsense ng-if="$index == 12" style-"text-align: center"></div>
             <div class="well post">
               <div class="row">
-                <div class="col-md-3 col-sm-3 col-xs-3" id="rank">
+                <div class="col-md-4 col-sm-4 col-xs-4" id="rank">
                   <number>{{$index + 1}}.</number>
                   <a  href='https://www.facebook.com/{{ post.from.id }}/' target='_blank'>
                     <img src='http://graph.facebook.com/{{ post.from.id }}/picture?type=large' class='img-circle' width="80px">
                   </a>
                 </div>
-                <div class="col-md-9 col-sm-9 col-xs-9">
+                <div class="col-md-8 col-sm-8 col-xs-8">
                   <a href="http://www.facebook.com/{{post.from.id}}" target="_blank">
                     <h3>{{post.from.name}}</h3>
                   </a>
                   <a href="{{post.actions[0].link}}" target="_blank">
                     <p ng-if="post.message">{{post.message}}</p>
-                    <p ng-if="!post.message">無內容的一句話(可能是圖片)</p> 
+                    <p ng-if="!post.message">無內容的謎語(可能是圖片)</p> 
                   </a>
                   <p id="likeInfo">
                     <div class="col-md-2 col-sm-2 col-xs-4">
@@ -101,8 +92,17 @@
               </div>
             </div>
           </div>
-          <button class="btn btn-default" style="color:white" ng-click="horror.showMore()" id="showMoreButton">載入更多一句話</button>
-          <div class="fb-share-button" data-href="http://larrystanley.github.io/HorrorStory/" data-layout="button_count"></div>
+          <div class="row" id="bottomBox">
+            <div class="col-md-3 col-sm-9" id="showMoreBox">
+              <button class="btn btn-default" style="color:white" ng-click="horror.showMore()" id="showMoreButton">載入更多謎語</button>
+              <div class="fb-share-button" data-href="http://drink.fbstats.info" data-layout="button_count">  
+              </div>
+            </div>
+            <div class="col-md-9">
+              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <div google-adsense  style="text-align:center;"></div>
+            </div>
+          </div>
         </div>        
       </div>
     </div>
@@ -112,22 +112,22 @@
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
-      js.src = "http://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.4&appId=647423881978026";
+      js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.5";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
     </script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-66239892-1', 'auto');
-      ga('send', 'pageview');
-
+   <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-65310658-1', 'auto');
+    ga('send', 'pageview');
     </script>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
-    <script src="js/main.js"></script>
+    <script src="js/main.js" defer></script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" defer></script>
 </body>
 </html>

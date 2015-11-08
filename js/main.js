@@ -5,13 +5,12 @@ angular.module("horror", [])
         $.getJSON("data.json", function(data) {
             horror.data = data;
             setTimeout(function(){
-                $("#message").replaceWith("<div id='message'><p style='text-align:center' class='animated fadeIn'>沒有啦，騙你的啦哈哈</p></div>");
                 setTimeout(function(){
                     $("#message").remove();
                     $scope.$apply();
                     $("#info").show();
                     $("#info").addClass("animated fadeIn");
-                    $(".center").append('<p style="text-align: center; font-size: 16px" class="animated fadeIn">本網站已停止更新 最新排名請至<a href="http://fbstats.info/867704779984689">http://fbstats.info/867704779984689</a><br>Made by <a href="https://goo.gl/7FSJVN" target="_blank">銀行汽車貸款＿吳先生</a></p>');
+                    $(".center").append('<p style="text-align:center">Made by <a href="https://goo.gl/7FSJVN" target="_blank">銀行汽車貸款＿吳先生</a><br />每五分鐘更新一次</p>');
                     $(".page").show();
                     $("#pageOne").append('<div class="animated fadeIn" id="downMessage" style="position: absolute; left: 50%; bottom:0; padding: 10px 10px 10px 10px;"><div style="position: relative; left: -50%; text-align:center">下拉查看排名<br><i class="fa fa-chevron-down"></i></div></div>')
                 }, 1500);
@@ -19,9 +18,14 @@ angular.module("horror", [])
         });
 
         horror.showMore = function(scope, el, attrs) {
-            horror.showCount = horror.showCount + 10;
-            if (horror.showCount > 200)
-                $("#showMoreButton").hide();
+            $("#showMoreButton").html("載入更多謎語中......");
+            setTimeout(function() {
+                horror.showCount = horror.showCount + 10;
+                $("#showMoreButton").html("載入更多謎語");
+                $scope.$apply();
+                if (horror.showCount > 200)
+                    $("#showMoreButton").hide();
+            }, 1500);
         };
 
         horror.sortByLike = function() {
@@ -40,6 +44,30 @@ angular.module("horror", [])
             });
         };
     });
+var adSenseTpl = '';
+
+if ($(window).width() > 750)
+    adSenseTpl = '<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-7855893380609929" data-ad-slot="4446103290"></ins>';
+else
+    adSenseTpl = '<ins class="adsbygoogle" style="display:inline-block;width:320px;height:100px" data-ad-client="ca-pub-7855893380609929" data-ad-slot="7399569699"></ins>';
+
+angular.module('horror')
+    .directive('googleAdsense', function($window, $compile) {
+    return {
+        restrict: 'A',
+        transclude: true,
+        template: adSenseTpl,
+        replace: false,
+        link: function postLink(scope, element, iAttrs) {
+                element.html("");
+                element.append(angular.element($compile(adSenseTpl)(scope)));
+                if (!$window.adsbygoogle) {
+                    $window.adsbygoogle = [];
+                }
+                $window.adsbygoogle.push({});
+        }
+    };
+});
 $(document).ready(function(){
     $(window).scroll(function (event) {
         var scroll = $(window).scrollTop();
@@ -49,6 +77,10 @@ $(document).ready(function(){
         } else {
             $("#downMessage").removeClass("animated fadeOut");
             $("#downMessage").addClass("animated fadeIn");
+        }
+
+        if($(window).scrollTop() + $(window).height() == $(document).height()) {
+           $("#showMoreButton").click();
         }
     });
 });

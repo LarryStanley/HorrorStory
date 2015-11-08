@@ -19,10 +19,10 @@ def getData(url):
             likeCount += int(post["likes"]["summary"]["total_count"])
             commentCount += int(post["comments"]["summary"]["total_count"])
 
-        result = {"post_count": len(allData), "like_count": likeCount, "comment_count": commentCount, "posts": allData[0:200]}
-        result = json.dumps(result, sort_keys=True, indent=4, ensure_ascii=False).encode('utf-8')
+        result = {"post_count": len(allData), "like_count": likeCount, "comment_count": commentCount, "posts": allData[0:500]}
+        result = json.dumps(result, separators=(',',':')).encode('utf-8')
         file = open("data.json", 'w')
         file.write(result)
         file.close
 
-getData("https://graph.facebook.com/867704779984689/feed?fields=actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=CAAWnAJjuBBkBAB6ZAsyDd26F84D5iAZAopuZBv9h4GzC8RGFlwCbJOUtVoQESpBKvSCSPZC6EZC78ZBAkeHZClIkvLWY3dTZB7WZBaeybQN2bVWt8hFrqamvjwizgx66K84Wry4bDoLpWy3MV3spFMgYOPrqMG0olGb7C6Pn4r064hTi1tFODQzLi")
+getData("https://graph.facebook.com/820275431431558/feed?fields=actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=CAAWnAJjuBBkBAGjxMPWUZBqZCD11bwMDiZC4atZB5mfYib8ZBWjknvbEw0qGgBWNenxTVQEOZAv0tRcPtAMQqVQatbm7zS7lNd0yZBtp3TBjZCtYsBTiDZCx8wMqM2s8zOKRYgd6pt6iYZAAhJCiDHwq4CBQ5eV4T1MpawNKQjXdFIZCrQbIajvjNPl2zlY3hlcup0C32xlgMrXIwZDZD")
