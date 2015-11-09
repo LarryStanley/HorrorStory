@@ -25,4 +25,4 @@ def getData(url):
         file.write(result)
         file.close
 
-getData("https://graph.facebook.com/820275431431558/feed?fields=actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=CAAWnAJjuBBkBAGjxMPWUZBqZCD11bwMDiZC4atZB5mfYib8ZBWjknvbEw0qGgBWNenxTVQEOZAv0tRcPtAMQqVQatbm7zS7lNd0yZBtp3TBjZCtYsBTiDZCx8wMqM2s8zOKRYgd6pt6iYZAAhJCiDHwq4CBQ5eV4T1MpawNKQjXdFIZCrQbIajvjNPl2zlY3hlcup0C32xlgMrXIwZDZD")
+getData("https://graph.facebook.com/820275431431558/feed?fields=actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=CAACEdEose0cBAMWyLOUCXF19nZC1uRL3pbhKDLVkNT9toOgTpFOpVwHD6ttaARZBwkGcfAI7qhCZCUs9kdAVMANsbMLxpvOZASIutXr4Tmi9njZCMVQJmKrR7fFW1bfHsBnGeUwZCgC9dTyycOWdZBxTB5jggc0DnbSD9ZCsDZBB2rvWbj8sBWLItcwUmOXU42mUZD")

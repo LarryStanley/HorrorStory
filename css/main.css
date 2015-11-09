@@ -225,6 +225,26 @@ a:active{
 	color:#263238;
 }
 
+#results .article a {
+	color: #0D47A1;
+}
+
+#results .article a:link {
+	color: #0D47A1;
+}
+
+#results .article a:visited {
+	color: #0D47A1;
+}
+
+#results .article a:hover {
+	color: #0D47A1;
+}
+
+#results .article a:active {
+	color: #0D47A1;
+}
+
 #message {
 	font-size: 18px;
 }
@@ -240,4 +260,8 @@ a:active{
 .fb-share-button iframe {
     width: 100px! important;
     height: 20px! important;
+}
+
+.modal {
+	color: black;
 }

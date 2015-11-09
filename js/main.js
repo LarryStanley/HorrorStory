@@ -1,5 +1,5 @@
-angular.module("horror", [])
-    .controller("HorrorController", function($scope, $http){
+angular.module("horror", ['ngSanitize'])
+    .controller("HorrorController",  ['$scope', function($scope) {
         var horror = this;
         horror.showCount = 5;
         $.getJSON("data.json", function(data) {
@@ -43,7 +43,19 @@ angular.module("horror", [])
                 return parseFloat(b.comments.summary.total_count) - parseFloat(a.comments.summary.total_count);
             });
         };
-    });
+
+        horror.readMore = function(index) {
+            horror.modalTitle = horror.data.posts[index].from.name;
+            horror.modalPost = horror.data.posts[index].message.replace(/(?:\r\n|\r|\n)/g, "<br />");
+            horror.modalLikesCount = horror.data.posts[index].likes.summary.total_count;
+            horror.commentsCount = horror.data.posts[index].comments.summary.total_count;
+            horror.modalRank = index + 1;
+            horror.modalUserId = horror.data.posts[index].from.id;
+            horror.modalLink = horror.data.posts[index].actions[0].link;
+            $('#readMoreModal').modal('toggle');
+            return false;
+        };
+    }]);
 var adSenseTpl = '';
 
 if ($(window).width() > 750)
@@ -68,6 +80,15 @@ angular.module('horror')
         }
     };
 });
+
+angular.module('horror')
+    .filter('readMore', function() {
+  return function(text) {
+    text = text.split(/(?:\r\n|\r|\n)/g);
+    return text[0] + "<br>" + text[1] + "<br />" + text[2] + "<br />";
+  };
+});
+
 $(document).ready(function(){
     $(window).scroll(function (event) {
         var scroll = $(window).scrollTop();
