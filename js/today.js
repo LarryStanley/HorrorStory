@@ -2,7 +2,7 @@ angular.module("horror", ['ngSanitize'])
     .controller("HorrorController",  ['$scope', function($scope) {
         var horror = this;
         horror.showCount = 5;
-        $.getJSON("data.json", function(data) {
+        $.getJSON("/todayData.json", function(data) {
             horror.data = data;
             setTimeout(function(){
                 setTimeout(function(){
@@ -10,7 +10,7 @@ angular.module("horror", ['ngSanitize'])
                     $scope.$apply();
                     $("#info").show();
                     $("#info").addClass("animated fadeIn");
-                    $(".center").append('<p style="text-align:center">Made by <a href="https://goo.gl/7FSJVN" target="_blank">銀行汽車貸款＿吳先生</a><br />每十五分鐘更新一次<br /><a href="/today" class="btn btn-material-indigo-500">查看今日排行</a></p>');
+                    $(".center").append('<p style="text-align:center">Made by <a href="https://goo.gl/7FSJVN" target="_blank">銀行汽車貸款＿吳先生</a><br />每十五分鐘更新一次<br /><a href="/" class="btn btn-material-indigo-500">查看總排行</a></p>');
                     $(".page").show();
                     $("#pageOne").append('<div class="animated fadeIn" id="downMessage" style="position: absolute; left: 50%; bottom:0; padding: 10px 10px 10px 10px;"><div style="position: relative; left: -50%; text-align:center">下拉查看排名<br><i class="fa fa-chevron-down"></i></div></div>')
                 }, 1500);
