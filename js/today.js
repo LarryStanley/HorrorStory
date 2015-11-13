@@ -85,6 +85,11 @@ angular.module('horror')
     .filter('readMore', function() {
   return function(text) {
     text = text.split(/(?:\r\n|\r|\n)/g);
+    for (var i = 0; i < 3; i++) {
+        if (!text[i])
+            text[i] = " ";
+    }
+
     return text[0] + "<br>" + text[1] + "<br />" + text[2] + "<br />";
   };
 });

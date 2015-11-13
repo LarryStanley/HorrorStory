@@ -24,9 +24,23 @@ def getData(url):
         todayLikeCount = 0
         todayCommentCount = 0
         todayData = list()
+        joker = list()
+        jokerIndex = dict()
         for post in allData:
             likeCount += int(post["likes"]["summary"]["total_count"])
             commentCount += int(post["comments"]["summary"]["total_count"])
+
+            userId = str((post["from"]["id"]))
+            if userId in jokerIndex :
+                jokerPost = joker[jokerIndex[userId]]["posts"]
+                jokerPost.append(post)
+                jokerLikeCount = joker[jokerIndex[post["from"]["id"]]]["like_count"] + int(post["likes"]["summary"]["total_count"])
+                joker[jokerIndex[userId]] = {"like_count": jokerLikeCount, "posts": jokerPost, "name" : post["from"]["name"]}
+            else:
+                jokerIndex[userId] = len(jokerIndex)
+                jokerPost = list()
+                jokerPost.append(post)
+                joker.append({"like_count": int(post["likes"]["summary"]["total_count"]), "posts":jokerPost, "name" : post["from"]["name"]})
 
             this_time_yesterday = datetime.now(pytz.utc) - timedelta(hours=24)
 
@@ -45,6 +59,13 @@ def getData(url):
         result = json.dumps(result, separators=(',',':')).encode('utf-8')
         file = open("todayData.json", 'w')
         file.write(result)
+        file.close
+
+        joker.sort(key=lambda x: x["like_count"], reverse=True)
+        joker = joker[0: 50]
+        joker = json.dumps(joker, separators=(',',':')).encode('utf-8')
+        file = open("joker.json", "w")
+        file.write(joker)
         file.close
 
 
