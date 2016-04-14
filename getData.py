@@ -2,6 +2,9 @@ import json
 import urllib2
 import sys
 
+token = ""
+activityID = "867704779984689"
+
 allData = list()
 def getData(url):
     response = urllib2.urlopen(url)
@@ -25,4 +28,5 @@ def getData(url):
         file.write(result)
         file.close
 
-getData("https://graph.facebook.com/867704779984689/feed?fields=actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=CAAWnAJjuBBkBAB6ZAsyDd26F84D5iAZAopuZBv9h4GzC8RGFlwCbJOUtVoQESpBKvSCSPZC6EZC78ZBAkeHZClIkvLWY3dTZB7WZBaeybQN2bVWt8hFrqamvjwizgx66K84Wry4bDoLpWy3MV3spFMgYOPrqMG0olGb7C6Pn4r064hTi1tFODQzLi")
+url = "https://graph.facebook.com/" + activityID + "/feed?fields=actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=" + token
+getData(url)
