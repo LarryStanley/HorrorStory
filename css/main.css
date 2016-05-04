@@ -1,23 +1,17 @@
 @font-face {
-	font-family: KongXi;
-	src: url(KongXi.otf);
-}
-
-@font-face {
 	font-family: HelveticaNeue;
 	src: url(HelveticaNeue-UltraLight.otf);
 }
 
 html, body {
 	font-family: Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
-	background-color: #37474F;
-	color: white;
+	background-color: rgb(246,209,211);
+	color: black;
 	height: 100%;
 }
 
 h1 {
-	font-family: KongXi;
-	color: #B71C1C;
+	color: black;
 }
 
 .page {
@@ -30,8 +24,8 @@ h1 {
 	.center {
 		position: absolute;
 		width: 1170px;
-		height: 220px;
-		margin-top: -150px;
+		height: 550px;
+		margin-top: -325px;
 		margin-left: -585px;
 		top: 50%;
 		left: 50%;
@@ -50,8 +44,8 @@ h1 {
 	.center {
 		position: absolute;
 		width: 970px;
-		height: 220px;
-		margin-top: -150px;
+		height: 550px;
+		margin-top: -325px;
 		margin-left: -485px;
 		top: 50%;
 		left: 50%;
@@ -70,8 +64,8 @@ h1 {
 	.center {
 		position: absolute;
 		width: 750px;
-		height: 220px;
-		margin-top: -150px;
+		height: 550px;
+		margin-top: -325px;
 		margin-left: -375px;
 		top: 50%;
 		left: 50%;
@@ -90,10 +84,9 @@ h1 {
 	.center {
 		position: absolute;
 		width: 80%;
-		height: 550px;
-		margin-top: -275px;
+		height: 850px;
 		margin-left: -40%;
-		top: 50%;
+		top: 50px;
 		left: 50%;
 	}
 
@@ -139,7 +132,7 @@ h1 {
 }
 
 #postCount {
-	background-color: #673AB7;
+	background-color: #A6373F;
 	color: white;
 	padding: 20px 20px 20px 20px;
 	position: relative;
@@ -150,7 +143,7 @@ h1 {
 }
 
 #likeCount {
-	background-color: #3F51B5;
+	background-color: #AA6939;
 	color: white;
 	padding: 20px 0px 20px 0px;
 	position: relative;
@@ -161,7 +154,7 @@ h1 {
 }
 
 #commentCount {
-	background-color: #009688;
+	background-color: #236A62;
 	color: white;
 	padding: 20px 20px 20px 20px;
 	position: relative;

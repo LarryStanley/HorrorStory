@@ -19,29 +19,21 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.3.0/css/material-fullpalette.min.css">
     <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/main.min.css">
-    
-    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script>
-    <script>
-      WebFont.load({
-          custom: {
-            families: ['KongXi', 'HelveticaNeue']
-          }
-        });
-    </script>
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body ng-controller="HorrorController as horror">
     <div class="page" id="pageOne">
       <div class="container">
         <div class="center">
-          <h1 style="text-align: center" class="animated fadeIn">一句話恐怖故事<br>大賽統計表</h1>
-          <div id="message" style="text-align:center" class="animated fadeIn"><p>進入本站後您的裝置將在十秒後爆炸，夠恐怖吧！</p></div>
+          <img src="cover.svg" alt="" width="100%">
+          <h1 style="text-align: center" class="animated fadeIn">最難以啟齒的時刻<br>統計表</h1>
+          <div id="message" style="text-align:center" class="animated fadeIn"><p>資料載入中......</p></div>
           <div id="info" style="display: none">
             <div class="row">
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="well">
                   <div id="postCount">
-                    一句話數量<br>
+                    難以啟齒時刻數量<br>
                     <number>{{ horror.data.post_count | number }}</number>
                   </div>
                 </div>
@@ -70,8 +62,8 @@
     <div class="page" style="display:none">
       <div class="container">
         <div id="results">
-          <button style="color:white" id="sortByLikeButton" class="btn btn-flat active" ng-click="horror.sortByLike()">依照讚數排序</button>
-          <button style="color:white" id="sortByCommentButton" class="btn btn-flat" ng-click="horror.sortByComment()">依照留言數排序</button>
+          <button id="sortByLikeButton" class="btn btn-flat active" ng-click="horror.sortByLike()">依照讚數排序</button>
+          <button id="sortByCommentButton" class="btn btn-flat" ng-click="horror.sortByComment()">依照留言數排序</button>
           <div ng-repeat="post in horror.data.posts" ng-if="$index < horror.showCount">
             <div class="well post">
               <div class="row">
@@ -101,7 +93,7 @@
               </div>
             </div>
           </div>
-          <button class="btn btn-default" style="color:white" ng-click="horror.showMore()" id="showMoreButton">載入更多一句話</button>
+          <button class="btn btn-raised" ng-click="horror.showMore()" id="showMoreButton">載入更多一句話</button>
           <div class="fb-share-button" data-href="http://larrystanley.github.io/HorrorStory/" data-layout="button_count"></div>
         </div>        
       </div>
