@@ -2,17 +2,16 @@
 <html lang="zh-tw" ng-app="horror">
 <head>
     <meta charset="UTF-8">
-    <title>一句話恐怖故事大賽統計表</title>
+    <title>最難以啟齒的時刻統計表</title>
 
-    <meta name="description" content="一句話恐怖故事大賽統計表，進入本站後您的裝置將在十秒後爆炸！">
+    <meta name="description" content="最難以啟齒的時刻統計表">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="一句話恐怖故事大賽統計表" />
-    <meta property="og:site_name" content="一句話恐怖故事大賽統計表"/>
-    <meta property="og:url" content="http://larrystanley.github.io/HorrorStory/"/>
-    <meta property="og:description" content="一句話恐怖故事大賽統計表，進入本站後您的裝置將在十秒後爆炸！">
+    <meta property="og:title" content="最難以啟齒的時刻統計表" />
+    <meta property="og:site_name" content="最難以啟齒的時刻統計表"/>
+    <meta property="og:url" content="http://teeth.fbstats.info"/>
+    <meta property="og:description" content="最難以啟齒的時刻統計表">
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="http://larrystanley.github.io/HorrorStory/image.png"/>
-    <meta property="og:image" content="http://larrystanley.github.io/HorrorStory/image-small.png"/>
+    <meta property="og:image" content="http://teeth.fbstats.info/image.png"/>
 
     <link href="image.png" rel="image_src" type="image/jpeg">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -26,7 +25,7 @@
       <div class="container">
         <div class="center">
           <img src="cover.svg" alt="" width="100%">
-          <h1 style="text-align: center" class="animated fadeIn">最難以啟齒的時刻<br>統計表</h1>
+          <h1 style="text-align: center" class="animated fadeIn">最難以啟齒<br>的時刻統計表</h1>
           <div id="message" style="text-align:center" class="animated fadeIn"><p>資料載入中......</p></div>
           <div id="info" style="display: none">
             <div class="row">
@@ -67,10 +66,10 @@
           <div ng-repeat="post in horror.data.posts" ng-if="$index < horror.showCount">
             <div class="well post">
               <div class="row">
-                <div class="col-md-3 col-sm-3 col-xs-3" id="rank">
+                <div class="col-md-2 col-sm-3 col-xs-3" id="rank">
                   <number>{{$index + 1}}.</number>
                   <a  href='https://www.facebook.com/{{ post.from.id }}/' target='_blank'>
-                    <img src='http://graph.facebook.com/{{ post.from.id }}/picture?type=large' class='img-circle' width="80px">
+                    <img src='http://graph.facebook.com/{{ post.from.id }}/picture?type=large' class='img-circle' width="100%">
                   </a>
                 </div>
                 <div class="col-md-9 col-sm-9 col-xs-9">

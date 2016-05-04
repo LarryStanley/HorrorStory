@@ -15,7 +15,7 @@ h1 {
 }
 
 .page {
-	min-height: 540px;
+	min-height: 750px;
 	height: 100%;
 	position: relative;
 }
@@ -84,9 +84,8 @@ h1 {
 	.center {
 		position: absolute;
 		width: 80%;
-		height: 850px;
+		height: 950px;
 		margin-left: -40%;
-		top: 50px;
 		left: 50%;
 	}
 
