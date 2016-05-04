@@ -2,36 +2,36 @@
 <html lang="zh-tw" ng-app="horror">
 <head>
     <meta charset="UTF-8">
-    <title>飲料猜謎大匯集排行榜</title>
+    <title>【來造！2015 臺灣代表字】</title>
 
-    <meta name="description" content="飲料猜謎大匯集排行榜">
+    <meta name="description" content="【來造！2015 臺灣代表字】">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="飲料猜謎大匯集排行榜" />
-    <meta property="og:site_name" content="飲料猜謎大匯集排行榜"/>
-    <meta property="og:url" content="http://drink.fbstats.info/"/>
-    <meta property="og:description" content="飲料猜謎大匯集排行榜">
+    <meta property="og:title" content="【來造！2015 臺灣代表字】" />
+    <meta property="og:site_name" content="【來造！2015 臺灣代表字】"/>
+    <meta property="og:url" content="http://letter.fbstats.info/"/>
+    <meta property="og:description" content="【來造！2015 臺灣代表字】">
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="http://drink.fbstats.info/image-new.png"/>
+    <meta property="og:image" content="http://letter.fbstats.info/image-new.jpg"/>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.3.0/css/material-fullpalette.min.css">
+    <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="css/main.min.css">
-
 </head>
 <body ng-controller="HorrorController as horror">
     <div class="page" id="pageOne">
       <div class="container">
         <div class="center">
-          <p style="font-size: 28px; text-align:center" class="animated fadeIn">翻白眼吧！<br class="mobile">溫蒂妮小姐。</p><h1 class="animated fadeIn" style="text-align:center">飲料猜謎<br class="mobile">大匯集排行榜</h1>
-          <div id="message" style="text-align:center" class="animated fadeIn"><p>有沒有早餐店奶茶的八卦？<br>
-            <i class="fa fa-refresh fa-spin"></i>&nbsp;&nbsp;謎語載入中......</p></div>
+          <h1 class="animated fadeIn" style="text-align:center">【來造！2015 <br class="mobile">臺灣代表字】</h1>
+          <div id="message" style="text-align:center" class="animated fadeIn"><p>2015 年！！<br>
+            <i class="fa fa-refresh fa-spin"></i>&nbsp;&nbsp;字載入中......</p></div>
           <div id="info" style="display: none">
             <div class="row">
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="well">
                   <div id="postCount">
-                    目前謎語數量<br>
+                    目前字數量<br>
                     <number>{{ horror.data.post_count | number }}</number>
                   </div>
                 </div>
@@ -64,7 +64,7 @@
           <button style="color:white" id="sortByLikeButton" class="btn btn-flat active" ng-click="horror.sortByLike()">依照讚數排序</button>
           <button style="color:white" id="sortByCommentButton" class="btn btn-flat" ng-click="horror.sortByComment()">依照留言數排序</button>
           <div ng-repeat="post in horror.data.posts" ng-if="$index < horror.showCount">
-            <div  google-adsense ng-if="$index == 17 || $index == 21" style-"text-align: center"></div>
+            <div  google-adsense ng-if="$index == 16" style-"text-align: center"></div>
             <div class="well post">
               <div class="row">
                 <div class="col-md-4 col-sm-4 col-xs-4" id="rank">
@@ -79,7 +79,7 @@
                   </a>
                   <div class="article">
                       <p ng-if="post.message" ng-bind-html="post.message | readMore"></p>
-                      <p ng-if="!post.message">無內容的謎語(可能是圖片)</p> 
+                      <p ng-if="!post.message">無內容的字(可能是圖片)</p> 
                     <a href="{{post.actions[0].link}}" onclick="if (event) event.returnValue = false; return false;" ng-click="horror.readMore($index)">
                       繼續閱讀
                     </a>
@@ -98,8 +98,8 @@
           </div>
           <div class="row" id="bottomBox">
             <div class="col-md-3 col-sm-9" id="showMoreBox">
-              <button class="btn btn-default" style="color:white" ng-click="horror.showMore()" id="showMoreButton">載入更多謎語</button>
-              <div class="fb-share-button" data-href="http://drink.fbstats.info" data-layout="button_count">  
+              <button class="btn btn-default" style="color:white" ng-click="horror.showMore()" id="showMoreButton">載入更多字</button>
+              <div class="fb-share-button" data-href="http://letter.fbstats.info/" data-layout="button_count">  
               </div>
             </div>
             <div class="col-md-9">
@@ -107,8 +107,8 @@
               <div google-adsense  style="text-align:center;"></div>
             </div>
           </div>
-        </div>
-     </div>
+        </div>        
+      </div>
     </div>
 
     <div class="modal fade" tabindex="-1" role="dialog" id="readMoreModal">
@@ -138,19 +138,11 @@
                 <a target="_blank" href="{{horror.modalLink}}">facebook 原文</a>
               </div>
               <div class="col-md-2 col-sm-2 col-xs-4">
-                <div class="fb-share-button" data-href="http://drink.fbstats.info" data-layout="button_count"></div>                
+                <div class="fb-share-button" data-href="http://letter.fbstats.info" data-layout="button_count"></div>                
               </div>
             </div>
             <hr style="background-color: #78909C">
-            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-            <!-- square -->
-            <ins class="adsbygoogle"
-                 style="display:inline-block;width:336px;height:280px;  text-align: center"
-                 data-ad-client="ca-pub-7855893380609929"
-                 data-ad-slot="1443447698"></ins>
-            <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
+            <div google-adsense style="text-align:center;"></div>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-material-blue-900" data-dismiss="modal">關閉</button>

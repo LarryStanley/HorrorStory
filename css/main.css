@@ -4,11 +4,11 @@
 }
 
 html, body {
-font-family: Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
-background-color: #C8635F;
-color: white;
-height: 100%;
-font-size: 16px;
+	font-family: Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
+	background-color: #3949ab;
+	color: white;
+	height: 100%;
+	font-size: 16px;
 }
 
 h1 {
@@ -56,7 +56,7 @@ a:active{
 }
 
 .page {
-	min-height: 900px;
+	min-height: 800px;
 	height: 100%;
 	position: relative;
 }

@@ -69,4 +69,4 @@ def getData(url):
         file.close
 
 
-getData("https://graph.facebook.com/820275431431558/feed?fields=created_time,actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=CAAU51Me0QqABAN7oDn1O2tHPZBcvnvJJF1qWcUsDRZCR2S6Cxs7a94lZCzSAZBl5FbDRLrRYz4AVaZB6sMWpsKC9ZAYldnCyRpLKehBzQe8qAQIwLBjBZAJ3qZBoxYhBEZCMNBguA93RNdPZB1vTRaxSpammHCFTEoMr8XdGj5i0xgifUiP5PGT0UL")
+getData("https://graph.facebook.com/1545289965796137/feed?fields=created_time,actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=CAAWnAJjuBBkBAFHVVisszOvSUlXMecQukJv4Hy5fXXSIQHvcoFnvvMz8ALTZCfrVn8wJYFOulcAO0B6v3dGLfNk0BkZAEf40Dfv5PD0zhkwxD9sUpIkSyfdtlTcuUg5bz8UsDZBZCyOkPPKYNeT1sDMgtagewuxevpjTf4FpZBZBvMhiUYvX7Akk8usZBKGBEUZD")
