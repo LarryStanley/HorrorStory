@@ -63,36 +63,45 @@
         <div id="results">
           <button id="sortByLikeButton" class="btn btn-flat active" ng-click="horror.sortByLike()">依照讚數排序</button>
           <button id="sortByCommentButton" class="btn btn-flat" ng-click="horror.sortByComment()">依照留言數排序</button>
-          <div ng-repeat="post in horror.data.posts" ng-if="$index < horror.showCount">
-            <div class="well post">
-              <div class="row">
-                <div class="col-md-2 col-sm-3 col-xs-3" id="rank">
-                  <number>{{$index + 1}}.</number>
-                  <a  href='https://www.facebook.com/{{ post.from.id }}/' target='_blank'>
-                    <img src='http://graph.facebook.com/{{ post.from.id }}/picture?type=large' class='img-circle' width="100%">
-                  </a>
-                </div>
-                <div class="col-md-9 col-sm-9 col-xs-9">
-                  <a href="http://www.facebook.com/{{post.from.id}}" target="_blank">
-                    <h3>{{post.from.name}}</h3>
-                  </a>
-                  <a href="{{post.actions[0].link}}" target="_blank">
-                    <p ng-if="post.message">{{post.message}}</p>
-                    <p ng-if="!post.message">無內容的一句話(可能是圖片)</p> 
-                  </a>
-                  <p id="likeInfo">
-                    <div class="col-md-2 col-sm-2 col-xs-4">
-                      <i class="fa fa-thumbs-up"></i> {{post.likes.summary.total_count | number}} &nbsp;&nbsp;
-                    </div>
-                    <div class="col-md-2 col-sm-2 col-xs-4">
-                      <i class="fa fa-comment"></i> {{post.comments.summary.total_count | number}}
-                    </div>
-                  </p>
+          <button class="btn btn-default" id="winnerButton" ng-click="horror.showWinnerList()">得獎名單公佈</button>
+          <div id="winnerResults" style="display:none">
+            <div class="well">
+              得獎名單將於5月25日公布
+            </div>
+          </div>
+          <div id="sortResults">
+            <div ng-repeat="post in horror.data.posts" ng-if="$index < horror.showCount">
+              <div class="well post">
+                <div class="row">
+                  <div class="col-md-3 col-sm-3 col-xs-4" id="rank">
+                    <number>{{$index + 1}}.</number>
+                    <a  href='https://www.facebook.com/{{ post.from.id }}/' target='_blank'>
+                      <img src='http://graph.facebook.com/{{ post.from.id }}/picture?type=large' class='img-circle' width="60%">
+                    </a>
+                  </div>
+                  <div class="col-md-9 col-sm-9 col-xs-9">
+                    <a href="http://www.facebook.com/{{post.from.id}}" target="_blank">
+                      <h3>{{post.from.name}}</h3>
+                    </a>
+                    <a href="{{post.actions[0].link}}" target="_blank">
+                      <p ng-if="post.message">{{post.message}}</p>
+                      <p ng-if="!post.message">無內容的一句話(可能是圖片)</p> 
+                    </a>
+                    <p id="likeInfo">
+                      <div class="col-md-2 col-sm-2 col-xs-4">
+                        <i class="fa fa-thumbs-up"></i> {{post.likes.summary.total_count | number}} &nbsp;&nbsp;
+                      </div>
+                      <div class="col-md-2 col-sm-2 col-xs-4">
+                        <i class="fa fa-comment"></i> {{post.comments.summary.total_count | number}}
+                      </div>
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-          <button class="btn btn-raised" ng-click="horror.showMore()" id="showMoreButton">載入更多一句話</button>
+
+          <button class="btn btn-raised" ng-click="horror.showMore()" id="showMoreButton">載入更多難以啟齒的事</button>
           <div class="fb-share-button" data-href="http://teeth.fbstats.info" data-layout="button_count"></div>
         </div>        
       </div>
