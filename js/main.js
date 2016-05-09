@@ -1,4 +1,4 @@
-angular.module("horror", [])
+angular.module("horror", ['ngSanitize'])
     .controller("HorrorController", function($scope, $http){
         var horror = this;
         horror.showCount = 5;
@@ -68,4 +68,13 @@ $(document).ready(function(){
             $("#downMessage").addClass("animated fadeIn");
         }
     });
+});
+
+angular.module('horror')
+    .filter('nlToBr', function() {
+  return function(text) {
+    text = text.replace(/(?:\r\n|\r|\n)/g, "<br />");
+
+    return text;
+  };
 });
