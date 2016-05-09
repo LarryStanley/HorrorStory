@@ -2,8 +2,8 @@ import json
 import urllib2
 import sys
 
-token = ""
-activityID = "867704779984689"
+token = "EAAU51Me0QqABAH2ZBGX6z6zZBgomLvKriYh7RamtDQ0Phj5XSNtBzJn4sNuT9N2PHf9TLUiMDZADOWuZABaiHiZBM6hVs4eTp15MtYiY3ZAR0h8KxxckUDkcrYPD4djN2wluWZCgOqZAYCRmDVROUgP9DxJDq2SHUXQZD"
+activityID = "1058655540859436"
 
 allData = list()
 def getData(url):

@@ -66,7 +66,25 @@
           <button class="btn btn-default" id="winnerButton" ng-click="horror.showWinnerList()">得獎名單公佈</button>
           <div id="winnerResults" style="display:none">
             <div class="well">
-              得獎名單將於5月25日公布
+              <p>
+                參與「最難以啟齒的時刻」活動並留言,就有機會抽到老溫限量洗溯組<br>
+                <span style="color: #ffcdd2">得獎名單將於5月25日公布</span>   
+                公布得獎名單後請幸運得獎者<br>
+                將(1)臉書名稱/帳號 (2)真實姓名 (3)聯繫電話 (4)電子郵件 等資料請寄信件至mail323@scweb.com.tw <br>來信請註明:【最難以啟齒的時刻!】活動得獎者 也可致電02-2735-5555 分機323 會有專人與你聯繫老溫限量洗溯組如何領取喔! <br>
+                ※注意事項<br>
+                <ul>
+                  <ol>
+                    獎品不得寄送同一地址,如有重覆,或是一人多帳號的情形, 將自動喪失得獎資格。
+                  </ol>
+                  <ol>
+                    正取得獎人如未於<span style="color: #ffcdd2">5/30(一)</span>前將相關資料寄至聯絡信箱 mail323@scweb.com.tw,逾期視同棄權,將遞補備選名單。
+                  </ol>
+                  <ol>
+                    備取民眾資料請於<span style="color: #ffcdd2">5/30(一)</span>前將相關資料寄至聯絡信箱 mail323@scweb.com.tw ,於<span style="color: #ffcdd2">5/31(二)</span>將依後補序號遞補備選名單。
+                  </ol>
+                </ul>
+                (以上廣告由衛生福利部提供 使用菸捐挹注經費)
+              </p>
             </div>
           </div>
           <div id="sortResults">
@@ -85,7 +103,7 @@
                     </a>
                     <a href="{{post.actions[0].link}}" target="_blank">
                       <p ng-if="post.message">{{post.message}}</p>
-                      <p ng-if="!post.message">無內容的一句話(可能是圖片)</p> 
+                      <p ng-if="!post.message">無內容的話(可能是圖片)</p> 
                     </a>
                     <p id="likeInfo">
                       <div class="col-md-2 col-sm-2 col-xs-4">
