@@ -5,8 +5,8 @@
 
 html, body {
 	font-family: Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
-	background-color: #ad1457;
-	color: white;
+	background-color: white;
+	color: #434343;
 	height: 100%;
 	font-size: 16px;
 }
