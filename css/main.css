@@ -24,7 +24,7 @@ h1 {
 	.center {
 		position: absolute;
 		width: 1170px;
-		height: 550px;
+		height: 650px;
 		margin-top: -325px;
 		margin-left: -585px;
 		top: 50%;
@@ -44,7 +44,7 @@ h1 {
 	.center {
 		position: absolute;
 		width: 970px;
-		height: 550px;
+		height: 650px;
 		margin-top: -325px;
 		margin-left: -485px;
 		top: 50%;
@@ -64,7 +64,7 @@ h1 {
 	.center {
 		position: absolute;
 		width: 750px;
-		height: 550px;
+		height: 650px;
 		margin-top: -325px;
 		margin-left: -375px;
 		top: 50%;
@@ -99,6 +99,10 @@ h1 {
 
 	h1 br {
 		display: none;
+	}
+
+	.page {
+		min-height: 950px;
 	}
 }
 
