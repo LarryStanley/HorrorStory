@@ -52,6 +52,7 @@ angular.module("horror", ['ngSanitize'])
             horror.modalRank = index + 1;
             horror.modalUserId = horror.data.posts[index].from.id;
             horror.modalLink = horror.data.posts[index].actions[0].link;
+            horror.full_picture = horror.data.posts[index].full_picture;
             $('#readMoreModal').modal('toggle');
             return false;
         };

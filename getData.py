@@ -7,6 +7,7 @@ activityID = "622729007882144"
 
 allData = list()
 def getData(url):
+    print(url)
     response = urllib2.urlopen(url)
     data = json.load(response)
     global allData
@@ -28,5 +29,5 @@ def getData(url):
         file.write(result)
         file.close
 
-url = "https://graph.facebook.com/" + activityID + "/feed?fields=actions,from,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=" + token
+url = "https://graph.facebook.com/" + activityID + "/feed?fields=actions,from,full_picture,message,comments.limit(0).summary(true),likes.limit(0).summary(true)&limit=1000&access_token=" + token
 getData(url)

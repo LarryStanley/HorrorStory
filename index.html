@@ -2,7 +2,7 @@
 <html lang="zh-tw" ng-app="horror">
 <head>
     <meta charset="UTF-8">
-    <title>【來造！2015 臺灣代表字】</title>
+    <title>暑假Fb型男正妹夯度大PK</title>
 
     <meta name="description" content="【來造！2015 臺灣代表字】">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,22 +16,21 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.3.0/css/material-fullpalette.min.css">
-    <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="css/main.min.css">
 </head>
 <body ng-controller="HorrorController as horror">
     <div class="page" id="pageOne">
       <div class="container">
         <div class="center">
-          <h1 class="animated fadeIn" style="text-align:center">【來造！2015 <br class="mobile">臺灣代表字】</h1>
-          <div id="message" style="text-align:center" class="animated fadeIn"><p>2015 年！！<br>
-            <i class="fa fa-refresh fa-spin"></i>&nbsp;&nbsp;字載入中......</p></div>
+          <h1 style="text-align:center">暑假Fb型男正妹夯度大PK</h1>
+          <div id="message" style="text-align:center" class="animated fadeIn">
+            <i class="fa fa-refresh fa-spin"></i>&nbsp;&nbsp;載入中......</p></div>
           <div id="info" style="display: none">
             <div class="row">
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="well">
                   <div id="postCount">
-                    目前字數量<br>
+                    目前文章量<br>
                     <number>{{ horror.data.post_count | number }}</number>
                   </div>
                 </div>
@@ -79,8 +78,8 @@
                   </a>
                   <div class="article">
                       <p ng-if="post.message" ng-bind-html="post.message | readMore"></p>
-                      <p ng-if="!post.message">無內容的字(可能是圖片)</p> 
-                    <a href="{{post.actions[0].link}}" onclick="if (event) event.returnValue = false; return false;" ng-click="horror.readMore($index)">
+                      <a href="{{post.actions[0].link}}" onclick="if (event) event.returnValue = false; return false;" ng-click="horror.readMore($index)">
+                      <img ng-src="{{post.full_picture}}" alt="" width="300px"><br>
                       繼續閱讀
                     </a>
                   </div>
@@ -98,7 +97,7 @@
           </div>
           <div class="row" id="bottomBox">
             <div class="col-md-3 col-sm-9" id="showMoreBox">
-              <button class="btn btn-default" style="color:white" ng-click="horror.showMore()" id="showMoreButton">載入更多字</button>
+              <button class="btn btn-default" style="color:white" ng-click="horror.showMore()" id="showMoreButton">載入更多文章</button>
               <div class="fb-share-button" data-href="http://letter.fbstats.info/" data-layout="button_count">  
               </div>
             </div>
@@ -124,6 +123,7 @@
           <div class="modal-body">
             <hr style="background-color: #78909C">
             <p ng-bind-html='horror.modalPost'></p>
+            <img ng-src="{{horror.full_picture}}" alt="" width="500px"><br>
             <hr style="background-color: #78909C">
             <div class="row">
               <p id="likeInfo">
